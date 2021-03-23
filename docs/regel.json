@@ -1,0 +1,9 @@
+{
+  "omschrijving": "Kenteken",
+  "inhoud": "${10033}",
+  "extraOmschrijving": "",
+  "type": "",
+  "vereiste_labels": ["10033"],
+  "maatschappijen": ["P301"],
+  "condities": []
+}
