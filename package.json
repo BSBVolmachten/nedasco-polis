@@ -17,7 +17,7 @@
   },
   "scripts": {
     "test": "jest",
-    "debug": "ts-node ./src/structuralTest.ts"
+    "debug": "ts-node ./tests/debug.ts"
   },
   "repository": {
     "type": "git",
