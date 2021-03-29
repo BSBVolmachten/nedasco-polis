@@ -1,0 +1,15 @@
+[
+  {
+    "condities": [
+      2,
+      {
+        "labels": [
+          "10204"
+        ],
+        "waarden": [
+          "hallo"
+        ]
+      }
+    ]
+  }
+]

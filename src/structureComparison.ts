@@ -5,19 +5,42 @@ export function structureComparison(structureToCheck: any, correspondingTypeStru
     let correspondingType = correspondingTypeStructure._type;
 
     if (correspondingType === 'Array') {
+        if (Object.prototype.toString.call(structureToCheck) !== '[object Array]') return false;
+
         let correspondingContent = correspondingTypeStructure._content;
         let results: boolean[] = [];
 
         for (let i = 0; i < structureToCheck.length; i++) {
-            let result;
+            let structureResults = [];
 
             for (let j = 0; j < correspondingContent.length; j++) {
-                result = structureComparison(structureToCheck[i], structure[correspondingContent[j]]);
+                structureResults.push(structureComparison(structureToCheck[i], structure[correspondingContent[j]]));
             }
 
-            if (result) {
-                results.push(result);
+            if (!structureResults.some(e => e === true)) {
+                console.error('none of the structures types:', correspondingContent, 'has been approved for the structure:', structureToCheck[i]);
+                return false;
             }
+        }
+
+        for (let i = 0; i < results.length; i++) {
+            if (results[i] === false) return false;
+        }
+
+        return true;
+    }
+
+    if (correspondingType === 'Object') {
+        if (Object.prototype.toString.call(structureToCheck) !== '[object Object]') return false;
+
+        let properties = correspondingTypeStructure._properties;
+        let keys = Object.keys(properties);
+        let results = [];
+
+        for (let i = 0; i < keys.length; i++) {
+            let result = structureComparison(structureToCheck[properties[keys[i]]], structure[properties[keys[i]]]);
+
+            results.push(result);
         }
 
         for (let i = 0; i < results.length; i++) {

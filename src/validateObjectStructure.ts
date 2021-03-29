@@ -3,13 +3,11 @@ import {structureComparison} from "./structureComparison";
 
 export function validateObjectStructure(json) {
     const properties = Object.keys(json);
-    const result: boolean[] = [];
+    const result = {};
 
     for (let i = 0; i < properties.length; i++) {
-        let comparisonResult = structureComparison(json[properties[i]], structure[properties[i]]);
-
-        result.push(comparisonResult);
+        result[properties[i]] = structureComparison(json[properties[i]], structure[properties[i]]);
     }
 
-    console.log(json, result);
+    console.log(JSON.stringify(json, null, 2), result);
 }
