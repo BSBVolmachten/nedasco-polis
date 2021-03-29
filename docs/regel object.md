@@ -78,7 +78,8 @@ genoemd in plaats van de maatschappijen. Dit zal voorkomen in de 'hoofdbranche' 
 zijn opgenomen. 
 
 ### Condities (Array<Integer | Conditie | Array>)
-
+De conditie property is een bijzondere property. Enerzijds omdat deze niet zo veel voor komt, anderzijds omdat deze wat
+ingewikkelder werkt dat de anderen. Er is daarom ook een speciale pagina opgezet voor alleen de condities (link).
 ```json
 {
   "omschrijving": "Kenteken",
@@ -95,8 +96,39 @@ zijn opgenomen.
   ]
 }
 ```
+In het kort:
 
 De condities zijn uitgebreide controles voor een regel. Waar de vereiste labels een controle zijn voor labels die gevuld
 moeten zijn, zijn de condities iets meer te variëren qua checks. Je kan bijvoorbeeld specifieke waarden doorgeven waar aan
 voldaan moet worden voor een label. Of juist het tegenovergestelde, het kan allemaal zelf samengesteld worden. Meer hierover
 in het onderdeel 'Condities' (link).
+
+### Replace (Array<Replace>)
+De replace property is een speciaal property waarbij de andere properties vervangen kunnen worden a.d.h.v. condities.
+Het fijne is dat condities zoals hier (link) beschreven dezelfde condities zijn als die in een replace property. De functionaliteit
+is dus precies hetzelfde.
+```json
+{
+  "replace": [
+    {
+      "condities": [
+        1,
+        {
+        "labels": [
+          "10020"
+        ],
+          "waarden": [
+            "10"
+          ]
+        }
+      ],
+      "omschrijving": "Kenteken / meldcode"
+    }
+  ]
+}
+```
+
+Hierboven een replace property te zien. In zo'n object worden de properties geschreven die normaal gesproken in een Regel
+object zitten. Als de conditie property goedgekeurd wordt (zoals beschreven in de documentatie) zullen de properties die
+in het Regel object overschreven worden door de properties in het Replace object. Dit bijvoorbeeld als een tekst vervangen moet worden
+zodra er een gevuld is met een speciale code, of wanneer een label ontbreekt etc.
