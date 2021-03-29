@@ -1,71 +1,7 @@
 # Condities
 
 Een conditie combineert verschillende properties om zo checks uit te voeren op een dataset voor de regel waar de
-conditie bij hoort. Hieronder staan verschillende combinaties die als voorbeeld dienen voor condities.
-
-### 1 Label & 1 Waarde
-
-```json
-{
-  "labels": [
-    "10040"
-  ],
-  "waarden": [
-    "100"
-  ]
-}
-```
-
-Deze conditie is geldig als label 10040 de waarde '100' heeft.
-
-### 1 Label & Meerdere Waarden
-
-```json
-{
-  "labels": [
-    "10040"
-  ],
-  "waarden": [
-    "100",
-    "110"
-  ]
-}
-```
-
-Deze conditie is geldig als label 10040 de waarde '100' of '110' heeft.
-
-### Meerdere Labels & 1 Waarde
-
-```json
-{
-  "labels": [
-    "10040",
-    "10032"
-  ],
-  "waarden": [
-    "100"
-  ]
-}
-```
-
-Deze conditie is geldig als label 10040 of label 10032 de waarde '100' heeft.
-
-### Meerdere Labels & Meerde Waarden
-
-```json
-{
-  "labels": [
-    "10040",
-    "10032"
-  ],
-  "waarden": [
-    "100",
-    "110"
-  ]
-}
-```
-
-Deze conditie is geldig als label 10040 of label 10032 de waarde '100' of '110' heeft.
+conditie bij hoort. 
 
 Condities kunnen samengesteld worden om een 'compleet' pakket te hebben aan mogelijkheden. Hiervoor zijn 3 mogelijkheden
 geïntroduceerd:
@@ -139,4 +75,67 @@ Een voorbeeld van een conditie waarbij 1 van de twee geldig moet zijn, of allebe
   ]
 }
 ```
+
+Hieronder staan verschillende combinaties die als voorbeeld dienen voor condities.
+
+### 1 Label & 1 Waarde
+
+```json
+{
+  "labels": [
+    "10040"
+  ],
+  "waarden": [
+    "100"
+  ]
+}
+```
+
+Deze conditie is geldig als label 10040 de waarde '100' heeft.
+
+### 1 Label & Meerdere Waarden
+
+```json
+{
+  "labels": [
+    "10040"
+  ],
+  "waarden": [
+    "100",
+    "110"
+  ]
+}
+```
+Deze conditie is geldig als label 10040 de waarde '100' of '110' heeft.
+
+### Meerdere Labels & 1 Waarde
+
+```json
+{
+  "labels": [
+    "10040",
+    "10032"
+  ],
+  "waarden": [
+    "100"
+  ]
+}
+```
+Deze conditie is geldig als label 10040 of label 10032 de waarde '100' heeft.
+
+### Meerdere Labels & Meerde Waarden
+
+```json
+{
+  "labels": [
+    "10040",
+    "10032"
+  ],
+  "waarden": [
+    "100",
+    "110"
+  ]
+}
+```
+Deze conditie is geldig als label 10040 of label 10032 de waarde '100' of '110' heeft.
 
