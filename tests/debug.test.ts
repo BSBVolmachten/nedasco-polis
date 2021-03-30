@@ -4,7 +4,7 @@ import DoneCallback = jest.DoneCallback;
 describe('single polis', () => {
 
   test('debug', (done: DoneCallback) => {
-    const obj: any = require('./json/maatschappijen_met_basis.json');
+    const obj: any = require('./json/foute_maatschappijen.json');
 
     if (Object.prototype.toString.call(obj) === '[object Array]') {
       for (let i = 0; i < obj.length; i++) {
