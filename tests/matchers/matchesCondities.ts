@@ -11,7 +11,7 @@ export function matchesCondities(condities: any[] | number | { [key: string]: an
       return {
         pass: false,
         message: () => {
-          return locatieMelding + 'een conditie met alleen een setting heeft geen nut, verwijder de conditie:' + typeAndValue(condities);
+          return locatieMelding + 'een conditie met alleen een setting heeft geen nut, verwijder de conditie: ' + typeAndValue(conditielijst[0]);
         }
       }
     }
