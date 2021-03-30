@@ -9,12 +9,19 @@ export function structureComparison(structureToCheck: any, correspondingTypeStru
 
         let correspondingContent = correspondingTypeStructure._content;
         let results: boolean[] = [];
+        let valid = true;
 
         for (let i = 0; i < structureToCheck.length; i++) {
             let structureResults = [];
 
             for (let j = 0; j < correspondingContent.length; j++) {
-                structureResults.push(structureComparison(structureToCheck[i], structure[correspondingContent[j]]));
+                let result = structureComparison(structureToCheck[i], structure[correspondingContent[j]]);
+
+                structureResults.push(result);
+
+                if (result === true) {
+                    break;
+                }
             }
 
             results.push(structureResults.some(e => e === true));
@@ -23,11 +30,11 @@ export function structureComparison(structureToCheck: any, correspondingTypeStru
         for (let i = 0; i < results.length; i++) {
             if (results[i] === false) {
                 console.error('structure', structureToCheck, 'is not valid, element', structureToCheck[i], 'does not match any of the content described:', correspondingContent);
-                return false;
+                valid = false;
             }
         }
 
-        return true;
+        return valid;
     }
 
     if (correspondingType === 'Object') {
@@ -36,19 +43,22 @@ export function structureComparison(structureToCheck: any, correspondingTypeStru
         let properties = correspondingTypeStructure._properties;
         let keys = Object.keys(properties);
         let results = [];
+        let valid = true;
 
         for (let i = 0; i < keys.length; i++) {
-            results.push(structureComparison(structureToCheck[properties[keys[i]]], structure[properties[keys[i]]]));
+            let result = structureComparison(structureToCheck[properties[keys[i]]], structure[properties[keys[i]]]);
+
+            results.push(result);
         }
 
         for (let i = 0; i < results.length; i++) {
             if (results[i] === false) {
                 console.error(`structure '${structureToCheck}' is not valid, property '${structureToCheck[properties[i]]}' dit not match it's type`)
-                return false;
+                valid = false;
             }
         }
 
-        return true;
+        return valid;
     }
 
     if (correspondingType === 'value') {
