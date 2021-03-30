@@ -1,19 +1,70 @@
 import {checkRegel} from "./checkRegel";
 import DoneCallback = jest.DoneCallback;
+import * as fs from "fs";
+import {promisify} from "util";
+import * as path from "path";
 
-describe('single polis', () => {
+describe('polis', () => {
 
-  test('debug', (done: DoneCallback) => {
-    const obj: any = require('./json/foute_maatschappijen.json');
+  const filesToCheck: string[] = [];
+  const readdirPromise = promisify(fs.readdir);
+  const sourcePath = path.resolve('./src');
 
-    if (Object.prototype.toString.call(obj) === '[object Array]') {
-      for (let i = 0; i < obj.length; i++) {
-        checkRegel(obj[i], done);
+  beforeAll(() => {
+
+    return readdirPromise(sourcePath).then((directories: string[]) => {
+      return Promise.all(directories.map((directory: string) => {
+
+        if (path.extname(directory) === '.json') {
+          filesToCheck.push(path.resolve(path.join(sourcePath, directory)));
+          return null;
+        }
+
+        let stats;
+
+        try {
+          stats = fs.statSync(path.join(sourcePath, directory));
+        } catch (e) {
+          console.error(e);
+          return null;
+        }
+
+        if (stats.isDirectory()) {
+          return readdirPromise(path.resolve(path.join(sourcePath, directory))).then((files: string[]) => {
+            return files.map((file: string) => {
+              return path.resolve(path.join(sourcePath, directory, file));
+            });
+          });
+        }
+
+        return null;
+      }));
+    }).then((filesList: (string[] | null)[]) => {
+      for (let i = 0; i < filesList.length; i++) {
+
+        if (filesList[i] === null) continue;
+        if (!(filesList[i] instanceof Array)) continue;
+
+        for (let j = 0; j < (<string[]>filesList[i]).length; j++) {
+          filesToCheck.push((<string[]>filesList[i])[j]);
+        }
       }
-    } else {
-      fail('het hoofdobject in de json moet een array zijn, het is nu:' + Object.prototype.toString.call(obj));
-    }
+    });
 
-  })
+  });
+
+  test('alle json bestanden', () => {
+    for (let i = 0; i < filesToCheck.length; i++) {
+      const obj: any = require(filesToCheck[i]);
+
+      if (Object.prototype.toString.call(obj) === '[object Array]') {
+        for (let j = 0; j < obj.length; j++) {
+          expect(obj[j]).toBeValidRegel(filesToCheck[i]);
+        }
+      } else {
+        fail('het hoofdobject in de json moet een array zijn, het is nu:' + Object.prototype.toString.call(obj));
+      }
+    }
+  });
 
 });
