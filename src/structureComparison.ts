@@ -17,14 +17,14 @@ export function structureComparison(structureToCheck: any, correspondingTypeStru
                 structureResults.push(structureComparison(structureToCheck[i], structure[correspondingContent[j]]));
             }
 
-            if (!structureResults.some(e => e === true)) {
-                console.error('none of the structures types:', correspondingContent, 'has been approved for the structure:', structureToCheck[i]);
-                return false;
-            }
+            results.push(structureResults.some(e => e === true));
         }
 
         for (let i = 0; i < results.length; i++) {
-            if (results[i] === false) return false;
+            if (results[i] === false) {
+                console.error('structure', structureToCheck, 'is not valid, element', structureToCheck[i], 'does not match any of the content described:', correspondingContent);
+                return false;
+            }
         }
 
         return true;
@@ -38,13 +38,14 @@ export function structureComparison(structureToCheck: any, correspondingTypeStru
         let results = [];
 
         for (let i = 0; i < keys.length; i++) {
-            let result = structureComparison(structureToCheck[properties[keys[i]]], structure[properties[keys[i]]]);
-
-            results.push(result);
+            results.push(structureComparison(structureToCheck[properties[keys[i]]], structure[properties[keys[i]]]));
         }
 
         for (let i = 0; i < results.length; i++) {
-            if (results[i] === false) return false;
+            if (results[i] === false) {
+                console.error(`structure '${structureToCheck}' is not valid, property '${structureToCheck[properties[i]]}' dit not match it's type`)
+                return false;
+            }
         }
 
         return true;
