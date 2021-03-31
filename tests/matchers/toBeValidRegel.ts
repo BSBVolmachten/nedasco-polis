@@ -84,7 +84,7 @@ export function toBeValidRegel(received: any, location: string): CustomMatcherRe
   }
 
   if (received.hasOwnProperty('vereiste_labels')) {
-    if (Object.prototype.toString.call('vereiste_labels') !== '[object Array]') {
+    if (Object.prototype.toString.call(received.vereiste_labels) !== '[object Array]') {
       return {
         pass: false,
         message: () => {
