@@ -52,6 +52,8 @@ describe('polis', () => {
   });
 
   test('alle json bestanden', () => {
+    console.log(filesToCheck);
+
     for (let i = 0; i < filesToCheck.length; i++) {
       const obj: any = require(filesToCheck[i]);
 
