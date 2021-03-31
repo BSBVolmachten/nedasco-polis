@@ -1,12 +1,9 @@
-import * as fs from "fs";
-import {promisify} from "util";
 import * as path from "path";
 import {recursiveJSONSearch} from "./helpers/recursiveJSONSearch";
 
 describe('polis', () => {
 
   let filesToCheck: string[] = [];
-  const readdirPromise = promisify(fs.readdir);
   const sourcePath = path.resolve('./src');
 
   beforeAll(() => {
