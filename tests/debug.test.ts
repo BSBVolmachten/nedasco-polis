@@ -57,7 +57,6 @@ describe('polis', () => {
 
       if (Object.prototype.toString.call(obj) === '[object Array]') {
         for (let j = 0; j < obj.length; j++) {
-          //@ts-ignore
           expect(obj[j]).toBeValidRegel(filesToCheck[i]);
         }
       } else {
