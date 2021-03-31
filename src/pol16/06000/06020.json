@@ -1,0 +1,380 @@
+[
+  {
+    "omschrijving": "",
+    "inhoud": "- ${99042o}",
+    "maatschappijen": [
+      "06020",
+      "06070",
+      "06035",
+      "06100"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "-",
+    "inhoud": "${99042o}srisico                                  € ${10039}",
+    "maatschappijen": [
+      "P368"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P315",
+      "P352",
+      "P353",
+      "P357",
+      "P368",
+      "P376",
+      "P375",
+      "P383",
+      "P382"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P315",
+      "P352",
+      "P353",
+      "P357",
+      "P368",
+      "P376",
+      "P375",
+      "P383",
+      "P382"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal jagers",
+    "inhoud": "${12354}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "12354"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Betaalde klussen",
+    "inhoud": "${84196o}",
+    "maatschappijen": [
+      "P376",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "84196o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043}  ${10044o}",
+    "maatschappijen": [
+      "P352",
+      "P353",
+      "P368",
+      "P382"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meeverzekerd hobbyboer",
+    "inhoud": "${12429}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "12429"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meeverzekerd sterdekking",
+    "inhoud": "${11500}",
+    "maatschappijen": [
+      "P302",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "11500"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verhaalsbijstand meeverzekerd",
+    "inhoud": "${11646}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "11646"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meeverzekerd jagersrisico",
+    "inhoud": "${10210}",
+    "maatschappijen": [
+      "P353",
+      "P382"
+    ],
+    "vereiste_labels": [
+      "10210"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meeverzekerd verhaalsbijstand",
+    "inhoud": "${11646}",
+    "maatschappijen": [
+      "P302",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "11646"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verhuur woning",
+    "inhoud": "${84195o}",
+    "maatschappijen": [
+      "P376"
+    ],
+    "vereiste_labels": [
+      "84195o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P376",
+      "P375",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico kinderschaden",
+    "inhoud": "11450",
+    "maatschappijen": [
+      "P306",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "11450"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde jagers",
+    "inhoud": "Naam                    Geboortedatum     ${10630}",
+    "maatschappijen": [
+      "P352",
+      "P368",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630}                   ${10633}",
+    "maatschappijen": [
+      "P352",
+      "P368",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico kinderen/huisdieren",
+    "inhoud": "11450",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "11450"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico omschrijving",
+    "inhoud": "${10044o}",
+    "maatschappijen": [
+      "P376",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "10044o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10637} ${10638} ${10636}                   ${10639}",
+    "maatschappijen": [
+      "P352",
+      "P368",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10643} ${10644} ${10642}                   ${10645}",
+    "maatschappijen": [
+      "P352",
+      "P368",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "10642"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                        Verzekerd bedrag",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P315",
+      "P352",
+      "P353",
+      "P357",
+      "P368",
+      "P376",
+      "P375",
+      "P383",
+      "P382"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10630}",
+    "maatschappijen": [
+      "P352",
+      "P368",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied jager",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P368"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meeverzekerde panden",
+    "inhoud": "Adres        Postcode   Woonplaats        ${80077}",
+    "maatschappijen": [
+      "P352",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P368"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80077} ${80093} ${86451}        ${80082}          ${80088}",
+    "maatschappijen": [
+      "P352",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80078} ${80094} ${86577}        ${80083}          ${80089}",
+    "maatschappijen": [
+      "P352",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80077}",
+    "maatschappijen": [
+      "P352",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80079} ${80095} ${86578}        ${80084}          ${80090}",
+    "maatschappijen": [
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80079"
+    ],
+    "type": "standaard"
+  }
+]
