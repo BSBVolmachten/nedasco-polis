@@ -1,0 +1,174 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P313",
+      "P383",
+      "P315",
+      "P384"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "VvAA aanhangerverzekering",
+    "maatschappijen": [
+      "P379"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219}",
+    "maatschappijen": [
+      "P383",
+      "P384"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${11493} ${10220}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "11493"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${11493} ${11495}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P313",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "11493"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${11491}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P313",
+      "P383",
+      "P315",
+      "P379",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "11491"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P313",
+      "P383",
+      "P379",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043}  ${10044o}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Type aanhangwagen",
+    "inhoud": "${11667o}",
+    "maatschappijen": [
+      "P313",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "11667o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonus/malus",
+    "inhoud": "Trede ${10046} = ${10050} %",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Particuliere verhuur",
+    "inhoud": "${13698}",
+    "maatschappijen": [
+      "P313",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "13698"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                        Verzekerd bedrag",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P313",
+      "P383",
+      "P315",
+      "P379",
+      "P384"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekeringsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P313",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantietermijn",
+    "inhoud": "${12353} jaar",
+    "maatschappijen": [
+      "P313",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "12353"
+    ],
+    "type": "standaard"
+  }
+]

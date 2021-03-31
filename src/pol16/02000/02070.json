@@ -1,0 +1,261 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P384",
+      "P383"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "VvAA camperverzekering",
+    "maatschappijen": [
+      "P379"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P384",
+      "P379",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${10033}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P384",
+      "P379",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10033"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meldcode",
+    "inhoud": "${10112}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P384",
+      "P379",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10112"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiliging",
+    "inhoud": "${11236o}",
+    "maatschappijen": [
+      "P384"
+    ],
+    "vereiste_labels": [
+      "11236o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiligingssysteem",
+    "inhoud": "${11236o}",
+    "maatschappijen": [
+      "P302",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "11236o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${10260o}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P384",
+      "P379",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10260o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kilometrage",
+    "inhoud": "${10036o}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P384",
+      "P379",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10036o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaarderegeling",
+    "inhoud": "Meeverzekerd voor ${12398} maanden",
+    "maatschappijen": [
+      "P379"
+    ],
+    "vereiste_labels": [
+      "12398"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Regelmatige bestuurder",
+    "inhoud": "${11213} ${11214} ${11212}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "11212"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verhuur meeverzekerd",
+    "inhoud": "${11674}",
+    "maatschappijen": [
+      "P313",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "11674"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zuivere schadevrije jaren",
+    "inhoud": "${13218}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P384",
+      "P379",
+      "P383"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonus/malus",
+    "inhoud": "Trede ${10046} = ${10050} %",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P384",
+      "P379",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Extra/vrijwillig eigen risico",
+    "inhoud": "11450",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "11450"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Extra/vrijwillig eigen risico",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "P379"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaarde 5 jaar",
+    "inhoud": "${12348}",
+    "maatschappijen": [
+      "P302",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "12348"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaardetermijn",
+    "inhoud": "${12353} jaar",
+    "maatschappijen": [
+      "P384"
+    ],
+    "vereiste_labels": [
+      "12353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Extra's",
+    "inhoud": "11239",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "11239"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "P302",
+      "P384",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                        Verzekerd bedrag",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P384",
+      "P379",
+      "P383"
+    ],
+    "type": "standaard"
+  }
+]

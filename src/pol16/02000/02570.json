@@ -1,0 +1,70 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P359"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort recreatieverblijf",
+    "inhoud": "${80913o}",
+    "maatschappijen": [
+      "P359"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220}",
+    "maatschappijen": [
+      "P359"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${11252}",
+    "maatschappijen": [
+      "P359"
+    ],
+    "vereiste_labels": [
+      "11252"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${11491}",
+    "maatschappijen": [
+      "P359"
+    ],
+    "vereiste_labels": [
+      "11491"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico casco",
+    "inhoud": "€ ${10043}  ${10044o}",
+    "maatschappijen": [
+      "P359"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                        Verzekerd bedrag",
+    "maatschappijen": [
+      "P359"
+    ],
+    "type": "standaard"
+  }
+]

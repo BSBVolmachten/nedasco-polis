@@ -1,0 +1,185 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P302",
+      "P352",
+      "P353",
+      "P382",
+      "P368",
+      "P383"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220}",
+    "maatschappijen": [
+      "P302",
+      "P352",
+      "P353",
+      "P382",
+      "P368",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${10033}",
+    "maatschappijen": [
+      "P302",
+      "P352",
+      "P353",
+      "P382",
+      "P368",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10033"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meldcode",
+    "inhoud": "${10112}",
+    "maatschappijen": [
+      "P302",
+      "P352",
+      "P353",
+      "P382",
+      "P368",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10112"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort",
+    "inhoud": "${11896o}",
+    "maatschappijen": [
+      "P302",
+      "P352",
+      "P353",
+      "P382",
+      "P368",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "11896o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${10260o}",
+    "maatschappijen": [
+      "P302",
+      "P352",
+      "P353",
+      "P382",
+      "P368",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10260o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kilometrage",
+    "inhoud": "${10036o}",
+    "maatschappijen": [
+      "P352"
+    ],
+    "vereiste_labels": [
+      "10036o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zuivere schadevrije jaren",
+    "inhoud": "${13218}",
+    "maatschappijen": [
+      "P302",
+      "P352",
+      "P368",
+      "P383"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonus/malus",
+    "inhoud": "Trede ${10046} = ${10050} %",
+    "maatschappijen": [
+      "P302",
+      "P352",
+      "P368",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Regelmatige bestuurder",
+    "inhoud": "${11213} ${11214} ${11212}",
+    "maatschappijen": [
+      "P302",
+      "P352",
+      "P368",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "11212"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geboortedatum",
+    "inhoud": "${10035}",
+    "maatschappijen": [
+      "P302",
+      "P352",
+      "P368",
+      "P383"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico Casco",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "P302",
+      "P352",
+      "P353",
+      "P382",
+      "P368",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                        Verzekerd bedrag",
+    "maatschappijen": [
+      "P302",
+      "P352",
+      "P353",
+      "P382",
+      "P368",
+      "P383"
+    ],
+    "type": "standaard"
+  }
+]

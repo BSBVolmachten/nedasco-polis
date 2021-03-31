@@ -1,0 +1,439 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "02020",
+      "02021",
+      "02030",
+      "02031",
+      "02032",
+      "02040",
+      "02042",
+      "02070",
+      "02080",
+      "02093",
+      "02109",
+      "02110",
+      "02520",
+      "02530",
+      "02560"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Vouwcaravan",
+    "maatschappijen": [
+      "02540"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220}",
+    "maatschappijen": [
+      "02020",
+      "02021",
+      "02030",
+      "02031",
+      "02032",
+      "02040",
+      "02042",
+      "02070",
+      "02093",
+      "02109",
+      "02110",
+      "02520",
+      "02530",
+      "02540"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${11493} ${10220}",
+    "maatschappijen": [
+      "02080"
+    ],
+    "vereiste_labels": [
+      "11493"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${11493} ${11495}",
+    "maatschappijen": [
+      "02560"
+    ],
+    "vereiste_labels": [
+      "11493"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${11491}",
+    "maatschappijen": [
+      "02080",
+      "02520",
+      "02530",
+      "02540",
+      "02560"
+    ],
+    "vereiste_labels": [
+      "11491"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${10033}",
+    "maatschappijen": [
+      "02020",
+      "02021",
+      "02030",
+      "02031",
+      "02032",
+      "02040",
+      "02042",
+      "02070",
+      "02093",
+      "02109",
+      "02110"
+    ],
+    "vereiste_labels": [
+      "10033"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${11252}",
+    "maatschappijen": [
+      "02520",
+      "02530",
+      "02540"
+    ],
+    "vereiste_labels": [
+      "11252"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meldcode",
+    "inhoud": "${10112}",
+    "maatschappijen": [
+      "02020",
+      "02021",
+      "02030",
+      "02031",
+      "02032",
+      "02040",
+      "02042",
+      "02070",
+      "02093",
+      "02109",
+      "02110"
+    ],
+    "vereiste_labels": [
+      "10112"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Particuliere verhuur",
+    "inhoud": "${13698}",
+    "maatschappijen": [
+      "02560"
+    ],
+    "vereiste_labels": [
+      "13698"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiliging",
+    "inhoud": "${11236o}",
+    "maatschappijen": [
+      "02020",
+      "02021",
+      "02030",
+      "02031",
+      "02032",
+      "02040",
+      "02042",
+      "02070",
+      "02093",
+      "02109",
+      "02110"
+    ],
+    "vereiste_labels": [
+      "11236o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043}  ${10044o}",
+    "maatschappijen": [
+      "02520",
+      "02530",
+      "02540"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekeringsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "02560"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${10260o}",
+    "maatschappijen": [
+      "02020",
+      "02021",
+      "02030",
+      "02031",
+      "02032",
+      "02040",
+      "02042",
+      "02070",
+      "02093"
+    ],
+    "vereiste_labels": [
+      "10260o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantietermijn",
+    "inhoud": "${12353} jaar",
+    "maatschappijen": [
+      "02560"
+    ],
+    "vereiste_labels": [
+      "12353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kilometrage",
+    "inhoud": "${10036o}",
+    "maatschappijen": [
+      "02020",
+      "02021",
+      "02030",
+      "02031",
+      "02032",
+      "02040",
+      "02042",
+      "02070",
+      "02093",
+      "02109",
+      "02110"
+    ],
+    "vereiste_labels": [
+      "10036o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Regelmatige bestuurder",
+    "inhoud": "${11213} ${11214} ${11212}",
+    "maatschappijen": [
+      "02040"
+    ],
+    "vereiste_labels": [
+      "11212"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "02020",
+      "02021",
+      "02070",
+      "02080",
+      "02093",
+      "02109",
+      "02110",
+      "02560"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zuivere schadevrije jaren",
+    "inhoud": "${13218}",
+    "maatschappijen": [
+      "02030",
+      "02031",
+      "02032",
+      "02040",
+      "02042",
+      "02070",
+      "02109",
+      "02110"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonus/malus",
+    "inhoud": "Trede ${10046} = ${10050} %",
+    "maatschappijen": [
+      "02030",
+      "02031",
+      "02032",
+      "02040",
+      "02042",
+      "02070",
+      "02109",
+      "02110"
+    ],
+    "vereiste_labels": [
+      "10046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Taxatiedatum",
+    "inhoud": "${11780}",
+    "maatschappijen": [
+      "02020",
+      "02021",
+      "02093"
+    ],
+    "vereiste_labels": [
+      "11780"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aankoopwaarde regeling",
+    "inhoud": "${12399} maanden",
+    "maatschappijen": [
+      "02040"
+    ],
+    "vereiste_labels": [
+      "12399"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaarderegeling",
+    "inhoud": "${12398} maanden",
+    "maatschappijen": [
+      "02030",
+      "02031",
+      "02032",
+      "02040"
+    ],
+    "vereiste_labels": [
+      "12398"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aankoopwaarderegeling",
+    "inhoud": "${12399} maanden",
+    "maatschappijen": [
+      "02030",
+      "02031",
+      "02032"
+    ],
+    "vereiste_labels": [
+      "12399"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herstelservice",
+    "inhoud": "${12401}",
+    "maatschappijen": [
+      "02042"
+    ],
+    "vereiste_labels": [
+      "12401"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaardeplusregeling",
+    "inhoud": "${12348}",
+    "maatschappijen": [
+      "02070"
+    ],
+    "vereiste_labels": [
+      "12348"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                        Verzekerd bedrag",
+    "maatschappijen": [
+      "02020",
+      "02021",
+      "02030",
+      "02031",
+      "02032",
+      "02040",
+      "02042",
+      "02070",
+      "02080",
+      "02093",
+      "02109",
+      "02110",
+      "02520",
+      "02530",
+      "02540",
+      "02560"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vrij keuze schadeherstel",
+    "inhoud": "${12401}",
+    "maatschappijen": [
+      "02040"
+    ],
+    "vereiste_labels": [
+      "12401"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico Casco",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "02030",
+      "02031",
+      "02032",
+      "02040",
+      "02042"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  }
+]

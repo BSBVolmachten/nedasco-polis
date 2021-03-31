@@ -1,0 +1,207 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "VvAA oldtimer motorverzekering",
+    "maatschappijen": [
+      "P379"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P383"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P379",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${10033}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P379",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10033"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meldcode",
+    "inhoud": "${10112}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P379",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10112"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag helm en",
+    "inhoud": "${12373}",
+    "maatschappijen": [
+      "P302",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "12373"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "motorkleding",
+    "inhoud": "12373",
+    "maatschappijen": [
+      "P302",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "12373"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiliging",
+    "inhoud": "${11236o}",
+    "maatschappijen": [
+      "P302",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "11236o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruikersperiode",
+    "inhoud": "${11781o}",
+    "maatschappijen": [
+      "P313",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "11781o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${10260o}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P379",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10260o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vrijwillig Extra eigen risico",
+    "inhoud": "11450",
+    "maatschappijen": [
+      "P313",
+      "P379"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kilometrage",
+    "inhoud": "${10036o}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P379",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10036o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Regelmatige bestuurder",
+    "inhoud": "${11213} ${11214} ${11212}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "11212"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruikersperiode",
+    "inhoud": "${11885o}",
+    "maatschappijen": [
+      "P302",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "11885o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "P302",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Taxatiedatum",
+    "inhoud": "${11780}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P379",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "11780"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                        Verzekerd bedrag",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P379",
+      "P383"
+    ],
+    "type": "standaard"
+  }
+]

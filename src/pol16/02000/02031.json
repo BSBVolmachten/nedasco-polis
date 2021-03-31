@@ -1,0 +1,280 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P306",
+      "P352",
+      "P357",
+      "P353",
+      "P375",
+      "P359"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220}",
+    "maatschappijen": [
+      "P306",
+      "P352",
+      "P357",
+      "P353",
+      "P375",
+      "P359"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${10033}",
+    "maatschappijen": [
+      "P306",
+      "P352",
+      "P357",
+      "P353",
+      "P375",
+      "P359"
+    ],
+    "vereiste_labels": [
+      "10033"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meldcode",
+    "inhoud": "${10112}",
+    "maatschappijen": [
+      "P306",
+      "P352",
+      "P357",
+      "P353",
+      "P375",
+      "P359"
+    ],
+    "vereiste_labels": [
+      "10112"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiliging",
+    "inhoud": "${11236o}",
+    "maatschappijen": [
+      "P306",
+      "P352",
+      "P357",
+      "P353",
+      "P375",
+      "P359"
+    ],
+    "vereiste_labels": [
+      "11236o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${10260o}",
+    "maatschappijen": [
+      "P306",
+      "P352",
+      "P357",
+      "P353",
+      "P375",
+      "P359"
+    ],
+    "vereiste_labels": [
+      "10260o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kilometrage",
+    "inhoud": "${10036o}",
+    "maatschappijen": [
+      "P306",
+      "P352",
+      "P357",
+      "P353",
+      "P375",
+      "P359"
+    ],
+    "vereiste_labels": [
+      "10036o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zuivere schadevrije jaren",
+    "inhoud": "${13218}",
+    "maatschappijen": [
+      "P306",
+      "P352",
+      "P357",
+      "P353",
+      "P375",
+      "P359"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonus/malus",
+    "inhoud": "Trede ${10046} = ${10050} %",
+    "maatschappijen": [
+      "P306",
+      "P352",
+      "P357",
+      "P375",
+      "P359"
+    ],
+    "vereiste_labels": [
+      "10046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonus/malus",
+    "inhoud": "Trede ${10046}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonusgarantie",
+    "inhoud": "${10830}",
+    "maatschappijen": [
+      "P352"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico Casco",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "P306",
+      "P352",
+      "P357",
+      "P353",
+      "P375",
+      "P359"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaarderegeling",
+    "inhoud": "${12398} maanden",
+    "maatschappijen": [
+      "P357",
+      "P353",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "12398"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aankoopwaarderegeling",
+    "inhoud": "${12399} maanden",
+    "maatschappijen": [
+      "P357",
+      "P353",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "12399"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verlengde Nieuwwaarderegeling",
+    "inhoud": "${12348}",
+    "maatschappijen": [
+      "P306",
+      "P359"
+    ],
+    "vereiste_labels": [
+      "12348"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verlengde nieuwwaarderegeling",
+    "inhoud": "${12398} maanden",
+    "maatschappijen": [
+      "P352"
+    ],
+    "vereiste_labels": [
+      "12398"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Militair",
+    "inhoud": "Ja                                                 ",
+    "maatschappijen": [
+      "P375"
+    ],
+    "vereiste_labels": [
+      "81005"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag aanhanger",
+    "inhoud": "11861",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "11861"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag accessoires",
+    "inhoud": "11241",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "11241"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                        Verzekerd bedrag",
+    "maatschappijen": [
+      "P306",
+      "P352",
+      "P357",
+      "P353",
+      "P375",
+      "P359"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Lid van de vakbond",
+    "inhoud": "${80991}                                                  ",
+    "maatschappijen": [
+      "P375"
+    ],
+    "vereiste_labels": [
+      "81005"
+    ],
+    "type": "standaard"
+  }
+]

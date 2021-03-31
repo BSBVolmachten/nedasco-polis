@@ -1,0 +1,147 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "VvAA sporttimerverzekering",
+    "maatschappijen": [
+      "P379"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220}",
+    "maatschappijen": [
+      "P313",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${10033}",
+    "maatschappijen": [
+      "P313",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "10033"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meldcode",
+    "inhoud": "${10112}",
+    "maatschappijen": [
+      "P313",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "10112"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiliging",
+    "inhoud": "${11236o}",
+    "maatschappijen": [
+      "P313",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "11236o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${10260o}",
+    "maatschappijen": [
+      "P313",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "10260o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kilometrage",
+    "inhoud": "${10036o}",
+    "maatschappijen": [
+      "P313",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "10036o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zomertijd",
+    "inhoud": "${11710}",
+    "maatschappijen": [
+      "P313",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "11710"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "P313",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico vrijwillig",
+    "inhoud": "11450",
+    "maatschappijen": [
+      "P313",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "11450"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Taxatiedatum",
+    "inhoud": "${11780}",
+    "maatschappijen": [
+      "P313",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "11780"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                        Verzekerd bedrag",
+    "maatschappijen": [
+      "P313",
+      "P379"
+    ],
+    "type": "standaard"
+  }
+]

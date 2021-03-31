@@ -1,0 +1,274 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P313",
+      "P357",
+      "P384"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Vouwcaravan",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Vouwwagen",
+    "maatschappijen": [
+      "P352"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "VvAA vouwwagenverzekering",
+    "maatschappijen": [
+      "P379"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P313",
+      "P352",
+      "P353",
+      "P357",
+      "P379",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${11252}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P313",
+      "P352",
+      "P353",
+      "P357",
+      "P379",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "11252"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${11491}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P313",
+      "P352",
+      "P353",
+      "P357",
+      "P379",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "11491"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aankoopgarantie",
+    "inhoud": "${12400}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "12400"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "P306",
+      "P313",
+      "P353",
+      "P379",
+      "P384"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Garantietermijn",
+    "inhoud": "${12399}  maanden (ingangsdatum ${11221})",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "12399"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaardetermijn",
+    "inhoud": "${12353} jaar",
+    "maatschappijen": [
+      "P306",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verhuur",
+    "inhoud": "${11674}",
+    "maatschappijen": [
+      "P313",
+      "P379",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "11674"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043}  ${10044o}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P352",
+      "P353",
+      "P379",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geldig tot en met",
+    "inhoud": "${81248}",
+    "maatschappijen": [
+      "P306",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "81248"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantie",
+    "inhoud": "${12353} jaar",
+    "maatschappijen": [
+      "P379"
+    ],
+    "vereiste_labels": [
+      "12353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantie",
+    "inhoud": "${12353} jaar tot: ${13286}",
+    "maatschappijen": [
+      "P313",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "12353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P313",
+      "P379",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hagelbestendig dak",
+    "inhoud": "${13232}",
+    "maatschappijen": [
+      "P313",
+      "P379",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "13232"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                        Verzekerd bedrag",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P313",
+      "P352",
+      "P353",
+      "P357",
+      "P379",
+      "P384"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Aansprakelijkheid     €      500.000,00                       ${12400}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "12400"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Aansprakelijkheid     €      500.000,00",
+    "maatschappijen": [
+      "P353",
+      "P357"
+    ],
+    "type": "standaard"
+  }
+]

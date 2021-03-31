@@ -1,0 +1,95 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "E-bike",
+    "inhoud": "${81149}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "81149"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort rijwiel",
+    "inhoud": "${80711o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "80711o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Framenummer",
+    "inhoud": "${10697}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "10697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Sleutelnummer 1",
+    "inhoud": "${11898}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "11898"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Sleutelnummer 2",
+    "inhoud": "${80899}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "80899"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                        Verzekerd bedrag",
+    "maatschappijen": [
+      "E430"
+    ],
+    "type": "standaard"
+  }
+]
