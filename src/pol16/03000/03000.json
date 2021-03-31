@@ -1,0 +1,213 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "03200",
+      "03300"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Golfverzekering",
+    "maatschappijen": [
+      "03320"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043}  ${10044o}",
+    "maatschappijen": [
+      "03300"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${84767o}",
+    "maatschappijen": [
+      "03320"
+    ],
+    "vereiste_labels": [
+      "84767o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort vaartuig",
+    "inhoud": "${10696o}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "10696o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Registratienummer",
+    "inhoud": "${11467}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "11467"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${11465o}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "11465o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type motor",
+    "inhoud": "${11455} ${11457}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "11455"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Motornummer",
+    "inhoud": "${11454}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "11454"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type volgboot",
+    "inhoud": "${11483} ${11487}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "11483"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Registratienummer",
+    "inhoud": "${11480}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "11480"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type trailer",
+    "inhoud": "${11493} ${11667o}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "11493"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer trailer",
+    "inhoud": "${11491}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "11491"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ligplaats",
+    "inhoud": "${11449}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "11449"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "No-claim",
+    "inhoud": "Trede ${10046} = ${10050} %",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "10046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Schadevrije jaren",
+    "inhoud": "${10049}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "${12945}% ${10044o}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "12945"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                        Verzekerd bedrag",
+    "maatschappijen": [
+      "03200",
+      "03300",
+      "03320"
+    ],
+    "type": "standaard"
+  }
+]

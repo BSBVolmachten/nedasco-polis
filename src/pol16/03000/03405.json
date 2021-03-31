@@ -1,0 +1,375 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P313",
+      "P353",
+      "P382",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10142o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Doorlopende Reisverzekering",
+    "maatschappijen": [
+      "P363"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "P363",
+      "P353",
+      "P382"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "P313",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P313",
+      "P363",
+      "P353",
+      "P382",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Militair",
+    "inhoud": "${86412o}",
+    "maatschappijen": [
+      "P363"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Maximale reisduur",
+    "inhoud": "${11497} dagen",
+    "maatschappijen": [
+      "P313",
+      "P382",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "11497"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10630}",
+    "maatschappijen": [
+      "P313",
+      "P363",
+      "P353",
+      "P382",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "Naam                       Geboortedatum                               ${10630}",
+    "maatschappijen": [
+      "P363",
+      "P353",
+      "P382"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "Naam                       Geboortedatum                              ${10630}",
+    "maatschappijen": [
+      "P313",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630}                      ${10633}",
+    "maatschappijen": [
+      "P313",
+      "P363",
+      "P353",
+      "P382",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10637} ${10638} ${10636}                      ${10639}",
+    "maatschappijen": [
+      "P313",
+      "P363",
+      "P353",
+      "P382",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10643} ${10644} ${10642}                      ${10645}",
+    "maatschappijen": [
+      "P313",
+      "P363",
+      "P353",
+      "P382",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10642"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10649} ${10650} ${10648}                      ${10651}",
+    "maatschappijen": [
+      "P313",
+      "P363",
+      "P353",
+      "P382",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10648"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10655} ${10656} ${10654}                      ${10657}",
+    "maatschappijen": [
+      "P313",
+      "P363",
+      "P353",
+      "P382",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10654"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10661} ${10662} ${10660}                      ${10663}",
+    "maatschappijen": [
+      "P313",
+      "P363",
+      "P353",
+      "P382",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10660"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10667} ${10668} ${10666}                      ${10669}",
+    "maatschappijen": [
+      "P313",
+      "P363",
+      "P353",
+      "P382",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10666"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10673} ${10674} ${10672}                      ${10675}",
+    "maatschappijen": [
+      "P313",
+      "P363",
+      "P353",
+      "P382",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10672"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10679} ${10680} ${10678}                      ${10681}",
+    "maatschappijen": [
+      "P313",
+      "P363",
+      "P353",
+      "P382",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10678"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Autohulp",
+    "inhoud": "${11501}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "11501"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal motorrijtuigen",
+    "inhoud": "${12307}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12307"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Alarmnummer",
+    "inhoud": "In geval van calamiteiten kunt u contact opnemen met de alarmcentrale",
+    "maatschappijen": [
+      "P313",
+      "P363",
+      "P353",
+      "P382",
+      "P384"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "onder telefoonnummer +31 10 289 41 90.",
+    "maatschappijen": [
+      "P363"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "onder telefoonnummer +31 20 6515777.",
+    "maatschappijen": [
+      "P313",
+      "P384"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Annulering",
+    "inhoud": "${11505}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "11505"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Wintersport",
+    "inhoud": "${11512}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "11512"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Verzekerde rubrieken",
+    "maatschappijen": [
+      "P363"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P384"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "onder telefoonnummer +31 20 6515855.",
+    "maatschappijen": [
+      "P353",
+      "P382"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                      Verzekerd bedrag",
+    "maatschappijen": [
+      "P353",
+      "P382"
+    ],
+    "type": "standaard"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "VvAA golfverzekering",
+    "maatschappijen": [
+      "P379"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${84767o}",
+    "maatschappijen": [
+      "P379"
+    ],
+    "vereiste_labels": [
+      "84767o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                        Verzekerd bedrag",
+    "maatschappijen": [
+      "P379"
+    ],
+    "type": "standaard"
+  }
+]
