@@ -1,0 +1,143 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "05050",
+      "05509",
+      "05510",
+      "05545"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "05509",
+      "05510",
+      "05545"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032} ${10709}",
+    "maatschappijen": [
+      "05509",
+      "05510",
+      "05545"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "05050",
+      "05509",
+      "05510",
+      "05545"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort object",
+    "inhoud": "${10262o}",
+    "maatschappijen": [
+      "05509",
+      "05510"
+    ],
+    "vereiste_labels": [
+      "10262o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${10081o}",
+    "maatschappijen": [
+      "05509",
+      "05510"
+    ],
+    "vereiste_labels": [
+      "10081o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard bak",
+    "inhoud": "${86548o}",
+    "maatschappijen": [
+      "05545"
+    ],
+    "vereiste_labels": [
+      "86548o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard muren",
+    "inhoud": "${10686o}",
+    "maatschappijen": [
+      "05509",
+      "05510",
+      "05545"
+    ],
+    "vereiste_labels": [
+      "10686o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard dak",
+    "inhoud": "${10685o}",
+    "maatschappijen": [
+      "05509",
+      "05510",
+      "05545"
+    ],
+    "vereiste_labels": [
+      "10685o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "maatschappijen": [
+      "05545"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard vloeren",
+    "inhoud": "${10684o}",
+    "maatschappijen": [
+      "05509",
+      "05510"
+    ],
+    "vereiste_labels": [
+      "10684o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} Vrijwillig",
+    "maatschappijen": [
+      "05509",
+      "05510"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  }
+]

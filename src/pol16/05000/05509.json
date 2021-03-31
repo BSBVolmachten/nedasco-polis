@@ -1,0 +1,532 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P352",
+      "P353",
+      "P376",
+      "P368",
+      "P375",
+      "P382",
+      "P383"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P352",
+      "P353",
+      "P376",
+      "P368",
+      "P375",
+      "P382",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032} ${10709}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P352",
+      "P353",
+      "P376",
+      "P368",
+      "P375",
+      "P382",
+      "P383"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort object",
+    "inhoud": "${10262o}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P352",
+      "P353",
+      "P376",
+      "P368",
+      "P375",
+      "P382",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10262o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${10081o}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P352",
+      "P353",
+      "P376",
+      "P368",
+      "P375",
+      "P382",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10081o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard muren",
+    "inhoud": "${10686o}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P352",
+      "P353",
+      "P376",
+      "P368",
+      "P375",
+      "P382",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10686o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verhuur",
+    "inhoud": "${11305o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "11305o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Tijdelijke verhuur woonhuis",
+    "inhoud": "${11674}",
+    "maatschappijen": [
+      "P352"
+    ],
+    "vereiste_labels": [
+      "11674"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantie",
+    "inhoud": "Garantie tegen onderverzekering is van toepassing vanaf ${13287}",
+    "maatschappijen": [
+      "P376"
+    ],
+    "vereiste_labels": [
+      "13287"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "De waardegarantie is 10 jaar geldig",
+    "inhoud": "${13287}",
+    "maatschappijen": [
+      "P376",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "13287"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard dak",
+    "inhoud": "${10685o}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P352",
+      "P353",
+      "P376",
+      "P368",
+      "P375",
+      "P382",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10685o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard vloeren",
+    "inhoud": "${10684o}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P352",
+      "P353",
+      "P376",
+      "P368",
+      "P375",
+      "P382",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10684o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort rieten dak",
+    "inhoud": "${12643o}",
+    "maatschappijen": [
+      "P368"
+    ],
+    "vereiste_labels": [
+      "12643o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dakbeplating brandwerend",
+    "inhoud": "${12366}",
+    "maatschappijen": [
+      "P368"
+    ],
+    "vereiste_labels": [
+      "12366"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "P311",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kamerverhuur",
+    "inhoud": "${85317}",
+    "maatschappijen": [
+      "P375"
+    ],
+    "vereiste_labels": [
+      "85317"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bijgebouw >25 m2",
+    "inhoud": "${12478}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12478"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Index van toepassing",
+    "inhoud": "${11717}",
+    "maatschappijen": [
+      "P352"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Permanente bewoning",
+    "inhoud": "${11307}",
+    "maatschappijen": [
+      "P375"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zonnepanelen",
+    "inhoud": "${13520}",
+    "maatschappijen": [
+      "P302",
+      "P383"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico storm",
+    "inhoud": "13298",
+    "maatschappijen": [
+      "P376"
+    ],
+    "vereiste_labels": [
+      "13298"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Fundamenten meeverzekerd",
+    "inhoud": "${10596o}",
+    "maatschappijen": [
+      "P375"
+    ],
+    "vereiste_labels": [
+      "10596o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meeverzekerd glas",
+    "inhoud": "${11317}                                           ",
+    "maatschappijen": [
+      "P352"
+    ],
+    "vereiste_labels": [
+      "81005"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Oppervlakte bijgebouw",
+    "inhoud": "${12340}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12340"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P352",
+      "P353",
+      "P376",
+      "P368",
+      "P375",
+      "P382",
+      "P383"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantie",
+    "inhoud": "Garantie tegen onderverzekering is van toepassing met ingang van ${11780}",
+    "maatschappijen": [
+      "P368"
+    ],
+    "vereiste_labels": [
+      "11780"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} per gebeurtenis",
+    "maatschappijen": [
+      "P352"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "zie voorwaarden",
+    "maatschappijen": [
+      "P368"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Oppervlakte woning in m2",
+    "inhoud": "${12380}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantie",
+    "inhoud": "Garantie tegen onderverzekering is van toepassing met ingang van ${13287}",
+    "maatschappijen": [
+      "P375"
+    ],
+    "vereiste_labels": [
+      "13287"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico storm",
+    "inhoud": "€ ${13298} per gebeurtenis",
+    "maatschappijen": [
+      "P352",
+      "P375"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Oppervlakte bijgebouw",
+    "inhoud": "${13521}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "13521"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres garage",
+    "inhoud": "${11640}",
+    "maatschappijen": [
+      "P353",
+      "P382"
+    ],
+    "vereiste_labels": [
+      "11640"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Alarmnummer               088 - 577 11 11",
+    "maatschappijen": [
+      "P352"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Huisnummer/postcode",
+    "inhoud": "${13551} / ${13555}",
+    "maatschappijen": [
+      "P353",
+      "P382"
+    ],
+    "vereiste_labels": [
+      "13551",
+      "13555"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "max. in m2",
+    "inhoud": "${13521}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "13521"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico garage",
+    "inhoud": "80439",
+    "maatschappijen": [
+      "P353",
+      "P382"
+    ],
+    "vereiste_labels": [
+      "80439"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Rookkanaal aanwezig",
+    "inhoud": "${13662}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "13662"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Monumentaal pand",
+    "inhoud": "${12425}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "12425"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Garantie tegen onder-",
+    "inhoud": "",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "verzekering",
+    "inhoud": "${10688o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10688o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} Vrijwillig",
+    "maatschappijen": [
+      "P302",
+      "P353",
+      "P375",
+      "P382",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Afkoop eigen risico storm",
+    "inhoud": "${11330}",
+    "maatschappijen": [
+      "P302",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "11330"
+    ],
+    "type": "standaard"
+  }
+]

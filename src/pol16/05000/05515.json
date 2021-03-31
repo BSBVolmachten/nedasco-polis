@@ -1,0 +1,221 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P384"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "VvAA recreatiewoningverzekering",
+    "maatschappijen": [
+      "P379"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P384",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032} ${10709}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P384",
+      "P379"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort recreatiewoning",
+    "inhoud": "${10262o}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P384",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "10262o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${10081o}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P384",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "10081o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard muren",
+    "inhoud": "${10686o}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P384",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "10686o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard dak",
+    "inhoud": "${10685o}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P384",
+      "P379"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Naam park",
+    "inhoud": "${11439}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "11439"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meeverzekerd verhuur",
+    "inhoud": "${11674}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P384",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "11674"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meeverzekerd zonnepanelen",
+    "inhoud": "${13520}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P384",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "13520"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} Vrijwillig",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P384",
+      "P379"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Aansprakelijkheid",
+    "maatschappijen": [
+      "P313",
+      "P384",
+      "P379"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico storm",
+    "inhoud": "80440",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Afkoop eigen risico storm",
+    "inhoud": "${11330}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P384",
+      "P379"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- Luifel",
+    "inhoud": "11675",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "11675"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- Aanbouw",
+    "inhoud": "11863",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "11863"
+    ],
+    "type": "standaard"
+  }
+]

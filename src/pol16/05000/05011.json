@@ -1,0 +1,457 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P311",
+      "P352",
+      "P353",
+      "P357",
+      "P368",
+      "P375",
+      "P382",
+      "P376",
+      "P383",
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "P311",
+      "P352",
+      "P353",
+      "P357",
+      "P368",
+      "P382",
+      "P376",
+      "P383",
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres",
+    "inhoud": "${10708} ${10710} ${10711} ${81141o}",
+    "maatschappijen": [
+      "P375",
+      "P382",
+      "P376",
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10708",
+      "81141o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032} ${10709}",
+    "maatschappijen": [
+      "P311",
+      "P352",
+      "P353",
+      "P357",
+      "P368",
+      "P382",
+      "P376",
+      "P383",
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032} ${10709}   ${81141o}",
+    "maatschappijen": [
+      "P375",
+      "P302"
+    ],
+    "vereiste_labels": [
+      "81141o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort object",
+    "inhoud": "${10262o}",
+    "maatschappijen": [
+      "P311",
+      "P352",
+      "P353",
+      "P357",
+      "P368",
+      "P375",
+      "P382",
+      "P376",
+      "P383",
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10262o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${10081o}",
+    "maatschappijen": [
+      "P311",
+      "P352",
+      "P353",
+      "P357",
+      "P368",
+      "P375",
+      "P382",
+      "P376",
+      "P383",
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10081o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard muren",
+    "inhoud": "${10686o}",
+    "maatschappijen": [
+      "P311",
+      "P352",
+      "P353",
+      "P357",
+      "P368",
+      "P375",
+      "P382",
+      "P376",
+      "P383",
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10686o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verhuur",
+    "inhoud": "${11305o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "11305o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Tijdelijke verhuur woonhuis",
+    "inhoud": "${11674}",
+    "maatschappijen": [
+      "P352"
+    ],
+    "vereiste_labels": [
+      "11674"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard dak",
+    "inhoud": "${10685o}",
+    "maatschappijen": [
+      "P311",
+      "P352",
+      "P353",
+      "P357",
+      "P368",
+      "P375",
+      "P382",
+      "P376",
+      "P383",
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10685o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard vloeren",
+    "inhoud": "${10684o}",
+    "maatschappijen": [
+      "P311",
+      "P352",
+      "P353",
+      "P357",
+      "P368",
+      "P375",
+      "P382",
+      "P376",
+      "P383",
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10684o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} Vrijwillig",
+    "maatschappijen": [
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "P311",
+      "P353",
+      "P382",
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantie",
+    "inhoud": "Garantie tegen onderverzekering is van toepassing met ingang van ${11780}",
+    "maatschappijen": [
+      "P368"
+    ],
+    "vereiste_labels": [
+      "11780"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantie",
+    "inhoud": "Garantie tegen onderverzekering is van toepassing vanaf ${13287}",
+    "maatschappijen": [
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "13287"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "De waardegarantie is 5 jaar geldig",
+    "inhoud": "${13287}",
+    "maatschappijen": [
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "13287"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "",
+    "maatschappijen": [
+      "P353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "",
+    "maatschappijen": [
+      "P382"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "P311",
+      "P357",
+      "P375",
+      "P376",
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "zie voorwaarden",
+    "maatschappijen": [
+      "P368"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Index van toepassing",
+    "inhoud": "${11717}",
+    "maatschappijen": [
+      "P352"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Rookkanaal aanwezig",
+    "inhoud": "${13662}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "13662"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Algemeen",
+    "inhoud": "€ ${10043} per gebeurtenis",
+    "maatschappijen": [
+      "P353",
+      "P382"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} per gebeurtenis",
+    "maatschappijen": [
+      "P352"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Preventiekorting",
+    "inhoud": "${86049}%",
+    "maatschappijen": [
+      "P376"
+    ],
+    "vereiste_labels": [
+      "86049"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Preventiekorting",
+    "inhoud": "${86050}%",
+    "maatschappijen": [
+      "P375"
+    ],
+    "vereiste_labels": [
+      "86050"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Alarmnummer               088 - 577 11 11",
+    "maatschappijen": [
+      "P352"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Audiovisueel en Computerapp.",
+    "inhoud": "€ ${80434} per gebeurtenis",
+    "maatschappijen": [
+      "P382"
+    ],
+    "vereiste_labels": [
+      "80434"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Garantie tegen onder-",
+    "inhoud": "",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Telecom. en draagbare AVC app.",
+    "inhoud": "€ ${80434} per gebeurtenis",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80434"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P311",
+      "P352",
+      "P353",
+      "P357",
+      "P368",
+      "P375",
+      "P382",
+      "P376",
+      "P383",
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Buitenshuisrisico",
+    "inhoud": "€ ${80435} per gebeurtenis",
+    "maatschappijen": [
+      "P353",
+      "P382"
+    ],
+    "vereiste_labels": [
+      "80435"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "verzekering",
+    "inhoud": "${10687o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10687o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Extra eigen risico voor",
+    "maatschappijen": [
+      "P353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "wind- en stormschade",
+    "inhoud": "€ ${13298} per gebeurtenis",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "13298"
+    ],
+    "type": "standaard"
+  }
+]

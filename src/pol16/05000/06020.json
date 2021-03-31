@@ -1,0 +1,113 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P315"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal jagers",
+    "inhoud": "${12354}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "12354"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meeverzekerd hobbyboer",
+    "inhoud": "${12429}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "12429"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meeverzekerd sterdekking",
+    "inhoud": "${11500}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "11500"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meeverzekerd verhaalsbijstand",
+    "inhoud": "${11646}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "11646"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "P302",
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico kinderschaden",
+    "inhoud": "11450",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "11450"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico kinderen/huisdieren",
+    "inhoud": "11450",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "11450"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                        Verzekerd bedrag",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P315"
+    ],
+    "type": "standaard"
+  }
+]

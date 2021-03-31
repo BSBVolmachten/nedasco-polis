@@ -1,0 +1,333 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P311",
+      "P306",
+      "P353",
+      "P359",
+      "P357",
+      "P373"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "P311",
+      "P306",
+      "P353",
+      "P359",
+      "P357",
+      "P373"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032} ${10709}",
+    "maatschappijen": [
+      "P311",
+      "P306",
+      "P353",
+      "P359",
+      "P357",
+      "P373"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort object",
+    "inhoud": "${10262o}",
+    "maatschappijen": [
+      "P311",
+      "P306",
+      "P353",
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${10081o}",
+    "maatschappijen": [
+      "P311",
+      "P306",
+      "P353",
+      "P359",
+      "P357",
+      "P373"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard muren",
+    "inhoud": "${10686o}",
+    "maatschappijen": [
+      "P311",
+      "P306",
+      "P353",
+      "P359",
+      "P357",
+      "P373"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard dak",
+    "inhoud": "${10685o}",
+    "maatschappijen": [
+      "P311",
+      "P306",
+      "P353",
+      "P359",
+      "P357",
+      "P373"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard vloeren",
+    "inhoud": "${10684o}",
+    "maatschappijen": [
+      "P311",
+      "P306",
+      "P353",
+      "P359",
+      "P357",
+      "P373"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico per schadegeval",
+    "inhoud": "€ ${10043} ${10044o}",
+    "maatschappijen": [
+      "P359"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Fundering",
+    "inhoud": "Meeverzekerd",
+    "maatschappijen": [
+      "P373"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Asbest aanwezig",
+    "inhoud": "${81137}                                                                       ${83225o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "81137",
+      "83225o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "P311",
+      "P306"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} alle gevaren dekking",
+    "maatschappijen": [
+      "P373"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico schade door wind",
+    "inhoud": "13298",
+    "maatschappijen": [
+      "P359"
+    ],
+    "vereiste_labels": [
+      "13298"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Garantie tegen onderverzekering",
+    "inhoud": "Op dit polisblad wordt bij de dekking ExcellentPlus geen verzekerd",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "bedrag genoemd. U heeft garantie tegen onderverzekering.",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${13298} voor stormschade",
+    "maatschappijen": [
+      "P373"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico glasschade",
+    "inhoud": "Geen",
+    "maatschappijen": [
+      "P359"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico Storm",
+    "inhoud": "13298",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "13298"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantie",
+    "inhoud": "Garantie tegen onderverzekering is van toepassing vanaf ${13287}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "13287"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Zie hiervoor de polisvoorwaarden.",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "De waardegarantie is 10 jaar geldig",
+    "inhoud": "${13287}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "13287"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Maximale vergoeding",
+    "maatschappijen": [
+      "P306"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vrijwillig eigen risico",
+    "inhoud": "€ ${11450}  per gebeurtenis",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "11450"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bijgebouw >25 m2",
+    "inhoud": "${12478}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12478"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P359"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Garage elders m2",
+    "inhoud": "${12340}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12340"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P311",
+      "P353",
+      "P357",
+      "P373"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres garage",
+    "inhoud": "${11640}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "11640"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Huisnummer/postcode",
+    "inhoud": "${13551} / ${13555}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "13551",
+      "13555"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico garage",
+    "inhoud": "80439",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80439"
+    ],
+    "type": "standaard"
+  }
+]
