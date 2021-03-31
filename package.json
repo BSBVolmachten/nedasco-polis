@@ -16,8 +16,9 @@
     "typescript": "^4.2.3"
   },
   "scripts": {
-    "test": "jest",
-    "debug": "ts-node tests/debug.test.ts"
+    "test": "jest lib/tests/debug.test.js",
+    "debug": "ts-node tests/debug.test.ts",
+    "complie": "tsc"
   },
   "repository": {
     "type": "git",
