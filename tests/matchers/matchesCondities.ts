@@ -7,6 +7,15 @@ export function matchesCondities(condities: any[] | number | { [key: string]: an
   if (Object.prototype.toString.call(condities) === '[object Array]') {
     let conditielijst: any[] = <any[]>condities;
 
+    if (conditielijst.length === 0) {
+      return {
+        pass: false,
+        message: () => {
+          return locatieMelding + 'conditielijst is leeg, dat heeft geen zin'
+        }
+      }
+    }
+
     if (conditielijst.length === 1 && (conditielijst[0] === 0 || conditielijst[0] === 1)) {
       return {
         pass: false,
