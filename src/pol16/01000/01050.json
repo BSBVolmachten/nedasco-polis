@@ -1,0 +1,40 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Persoonlijke ongevallen",
+    "maatschappijen": [
+      "P350"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroep",
+    "inhoud": "${80931o}",
+    "maatschappijen": [
+      "P350"
+    ],
+    "vereiste_labels": [
+      "80931o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gevarenklasse",
+    "inhoud": "${10090o}",
+    "maatschappijen": [
+      "P350"
+    ],
+    "vereiste_labels": [
+      "10090o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "maatschappijen": [
+      "P350"
+    ],
+    "type": "standaard"
+  }
+]

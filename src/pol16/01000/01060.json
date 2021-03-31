@@ -1,0 +1,218 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Ongevallen",
+    "maatschappijen": [
+      "P352",
+      "A363"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "P352",
+      "A363"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroep",
+    "inhoud": "${80931o}",
+    "maatschappijen": [
+      "P352"
+    ],
+    "vereiste_labels": [
+      "80931o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroep verzekerde",
+    "inhoud": "${86412o}",
+    "maatschappijen": [
+      "A363"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroep partner",
+    "inhoud": "${80932o}",
+    "maatschappijen": [
+      "P352"
+    ],
+    "vereiste_labels": [
+      "80932o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroep partner",
+    "inhoud": "${86434o}",
+    "maatschappijen": [
+      "A363"
+    ],
+    "vereiste_labels": [
+      "86434o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Begunstiging Verzekerde",
+    "inhoud": "${83094o}",
+    "maatschappijen": [
+      "A363"
+    ],
+    "vereiste_labels": [
+      "83094o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Opzittendendekking",
+    "inhoud": "${11985}",
+    "maatschappijen": [
+      "P352"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Begunstiging Partner",
+    "inhoud": "${86444o}",
+    "maatschappijen": [
+      "A363"
+    ],
+    "vereiste_labels": [
+      "86444o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verhoogde uitkering invaliditeit",
+    "inhoud": "${12442}",
+    "maatschappijen": [
+      "P352"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Begunstigde Verzekerde",
+    "inhoud": "${10673} ${10674} ${10672}               ${10675}",
+    "maatschappijen": [
+      "A363"
+    ],
+    "vereiste_labels": [
+      "10672"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Begunstigde Partner",
+    "inhoud": "${10679} ${10680} ${10678}               ${10681}",
+    "maatschappijen": [
+      "A363"
+    ],
+    "vereiste_labels": [
+      "10678"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "maatschappijen": [
+      "P352",
+      "A363"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde(n)",
+    "inhoud": "Naam                  Geboortedatum",
+    "maatschappijen": [
+      "A363"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630}                 ${10633}",
+    "maatschappijen": [
+      "A363"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10637} ${10638} ${10636}                 ${10639}",
+    "maatschappijen": [
+      "A363"
+    ],
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10643} ${10644} ${10642}                 ${10645}",
+    "maatschappijen": [
+      "A363"
+    ],
+    "vereiste_labels": [
+      "10642"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10649} ${10650} ${10648}                 ${10651}",
+    "maatschappijen": [
+      "A363"
+    ],
+    "vereiste_labels": [
+      "10648"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10655} ${10656} ${10654}                 ${10657}",
+    "maatschappijen": [
+      "A363"
+    ],
+    "vereiste_labels": [
+      "10654"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10661} ${10662} ${10660}                 ${10663}",
+    "maatschappijen": [
+      "A363"
+    ],
+    "vereiste_labels": [
+      "10660"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10667} ${10668} ${10666}                 ${10669}",
+    "maatschappijen": [
+      "A363"
+    ],
+    "vereiste_labels": [
+      "10666"
+    ],
+    "type": "standaard"
+  }
+]

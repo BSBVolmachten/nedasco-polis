@@ -1,0 +1,294 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Gezinsongevallen",
+    "maatschappijen": [
+      "01061"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Ongevallen",
+    "maatschappijen": [
+      "01060",
+      "01850"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "01010",
+      "01050"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "01010",
+      "01060",
+      "01050",
+      "01850",
+      "01061"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "01061"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd",
+    "inhoud": "${10067} jaar",
+    "maatschappijen": [
+      "01050"
+    ],
+    "vereiste_labels": [
+      "10067"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd",
+    "inhoud": "${10067}",
+    "maatschappijen": [
+      "01010"
+    ],
+    "vereiste_labels": [
+      "10067"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd verzekerde",
+    "inhoud": "${10067}",
+    "maatschappijen": [
+      "01060",
+      "01850"
+    ],
+    "vereiste_labels": [
+      "10067"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroep",
+    "inhoud": "${10063o}",
+    "maatschappijen": [
+      "01050"
+    ],
+    "vereiste_labels": [
+      "10063o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd verzekerd kind",
+    "inhoud": "${10251}",
+    "maatschappijen": [
+      "01060",
+      "01850"
+    ],
+    "vereiste_labels": [
+      "10251"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde(n)",
+    "inhoud": "Naam               Geboortedatum",
+    "maatschappijen": [
+      "01010"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630}              ${10633}",
+    "maatschappijen": [
+      "01010",
+      "01050"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroep",
+    "inhoud": "${80949o}",
+    "maatschappijen": [
+      "01050"
+    ],
+    "vereiste_labels": [
+      "80949o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10637} ${10638} ${10636}              ${10639}",
+    "maatschappijen": [
+      "01010",
+      "01050"
+    ],
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Stijgingspercentage",
+    "inhoud": "${10104}",
+    "maatschappijen": [
+      "01050"
+    ],
+    "vereiste_labels": [
+      "10104"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10643} ${10644} ${10642}              ${10645}",
+    "maatschappijen": [
+      "01010",
+      "01050"
+    ],
+    "vereiste_labels": [
+      "10642"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verhoogde uitk. Medisch",
+    "inhoud": "${12442}",
+    "maatschappijen": [
+      "01050"
+    ],
+    "vereiste_labels": [
+      "12442"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10649} ${10650} ${10648}              ${10651}",
+    "maatschappijen": [
+      "01010",
+      "01050"
+    ],
+    "vereiste_labels": [
+      "10648"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Begunstigde",
+    "inhoud": "${10101o}",
+    "maatschappijen": [
+      "01050"
+    ],
+    "vereiste_labels": [
+      "10101o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10655} ${10656} ${10654}              ${10657}",
+    "maatschappijen": [
+      "01010",
+      "01050"
+    ],
+    "vereiste_labels": [
+      "10654"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10661} ${10662} ${10660}              ${10663}",
+    "maatschappijen": [
+      "01010",
+      "01050"
+    ],
+    "vereiste_labels": [
+      "10660"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde(n)",
+    "inhoud": "Naam              Geboortedatum                                     ${10630}",
+    "maatschappijen": [
+      "01050"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10667} ${10668} ${10666}              ${10669}",
+    "maatschappijen": [
+      "01010",
+      "01050"
+    ],
+    "vereiste_labels": [
+      "10666"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10673} ${10674} ${10672}              ${10675}",
+    "maatschappijen": [
+      "01010",
+      "01050"
+    ],
+    "vereiste_labels": [
+      "10672"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10679} ${10680} ${10678}              ${10681}",
+    "maatschappijen": [
+      "01010",
+      "01050"
+    ],
+    "vereiste_labels": [
+      "10678"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "maatschappijen": [
+      "01010",
+      "01060",
+      "01050",
+      "01850",
+      "01061"
+    ],
+    "type": "standaard"
+  }
+]
