@@ -1,5 +1,3 @@
-import {checkRegel} from "./checkRegel";
-import DoneCallback = jest.DoneCallback;
 import * as fs from "fs";
 import {promisify} from "util";
 import * as path from "path";
@@ -59,6 +57,7 @@ describe('polis', () => {
 
       if (Object.prototype.toString.call(obj) === '[object Array]') {
         for (let j = 0; j < obj.length; j++) {
+          //@ts-ignore
           expect(obj[j]).toBeValidRegel(filesToCheck[i]);
         }
       } else {
