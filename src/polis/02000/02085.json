@@ -1,0 +1,233 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P302",
+      "P306"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort aanhangwagen",
+    "inhoud": "${86429o}",
+    "maatschappijen": [
+      "P302",
+      "P306"
+    ],
+    "vereiste_labels": [
+      "86429o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort aanhangwagen",
+    "inhoud": "${11667o}",
+    "maatschappijen": [
+      "P302",
+      "P306"
+    ],
+    "vereiste_labels": [
+      "11667o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220} ${10221o}",
+    "maatschappijen": [
+      "P302",
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${11493} ${13696} ${11495}",
+    "maatschappijen": [
+      "P302",
+      "P306"
+    ],
+    "vereiste_labels": [
+      "11493"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${10033}",
+    "maatschappijen": [
+      "P302",
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10033"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${11252}",
+    "maatschappijen": [
+      "P302",
+      "P306"
+    ],
+    "vereiste_labels": [
+      "11252"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${10697}",
+    "maatschappijen": [
+      "P302",
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${11491}",
+    "maatschappijen": [
+      "P302",
+      "P306"
+    ],
+    "vereiste_labels": [
+      "11491"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Registratienummer",
+    "inhoud": "${83042}",
+    "maatschappijen": [
+      "P302",
+      "P306"
+    ],
+    "vereiste_labels": [
+      "83042"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "P302",
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${11490}",
+    "maatschappijen": [
+      "P302",
+      "P306"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "(Trein)gewicht",
+    "inhoud": "${10038} kg",
+    "maatschappijen": [
+      "P302",
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10038"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "(Trein)gewicht",
+    "inhoud": "${12461} kg",
+    "maatschappijen": [
+      "P302",
+      "P306"
+    ],
+    "vereiste_labels": [
+      "12461"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${10260o}",
+    "maatschappijen": [
+      "P302",
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10260o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiliging",
+    "inhoud": "${80041o}",
+    "maatschappijen": [
+      "P302",
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80041o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kilometrage",
+    "inhoud": "${10036o}",
+    "maatschappijen": [
+      "P302",
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10036o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonus/malus",
+    "inhoud": "Trede ${10046} = ${10050} %",
+    "maatschappijen": [
+      "P302",
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "P302",
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "maatschappijen": [
+      "P302",
+      "P306"
+    ],
+    "type": "standaard"
+  }
+]

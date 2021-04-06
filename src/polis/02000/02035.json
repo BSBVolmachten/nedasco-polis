@@ -1,0 +1,411 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P302",
+      "P316",
+      "P353",
+      "P357",
+      "P315"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Personenauto",
+    "maatschappijen": [
+      "P350"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220} ${10221o}",
+    "maatschappijen": [
+      "P302",
+      "P316",
+      "P350",
+      "P353",
+      "P357",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${10033}",
+    "maatschappijen": [
+      "P302",
+      "P316",
+      "P350",
+      "P353",
+      "P357",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10033"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meldcode",
+    "inhoud": "${10112}",
+    "maatschappijen": [
+      "P302",
+      "P316",
+      "P350",
+      "P353",
+      "P357",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10112"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "P302",
+      "P316",
+      "P350",
+      "P353",
+      "P357",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gewicht",
+    "inhoud": "${10038} kg",
+    "maatschappijen": [
+      "P302",
+      "P316",
+      "P350",
+      "P353",
+      "P357",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10038"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Brandstof",
+    "inhoud": "${10234o}",
+    "maatschappijen": [
+      "P302",
+      "P316",
+      "P350",
+      "P353",
+      "P357",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10234o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${10260o}",
+    "maatschappijen": [
+      "P302",
+      "P316",
+      "P350",
+      "P353",
+      "P357",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10260o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiligingssysteem",
+    "inhoud": "${11236o}",
+    "maatschappijen": [
+      "P302",
+      "P350",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "11236o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiligingssysteem",
+    "inhoud": "${80041o}",
+    "maatschappijen": [
+      "P302",
+      "P316",
+      "P353",
+      "P357",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "80041o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "TNO/SCM beveiligingsklasse",
+    "inhoud": "${11236o}",
+    "maatschappijen": [
+      "P316",
+      "P357"
+    ],
+    "vereiste_labels": [
+      "11236o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk aanhanger",
+    "inhoud": "${80066}",
+    "maatschappijen": [
+      "P302",
+      "P316",
+      "P353",
+      "P357",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "80066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk aanhanger",
+    "inhoud": "${11493}",
+    "maatschappijen": [
+      "P302",
+      "P316",
+      "P350",
+      "P353",
+      "P357",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "11493"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kilometrage",
+    "inhoud": "${10036o}",
+    "maatschappijen": [
+      "P302",
+      "P316",
+      "P350",
+      "P353",
+      "P357",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10036o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaarderegeling",
+    "inhoud": "${86269o}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "86269o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaardetermijn",
+    "inhoud": "${12353} jaar",
+    "maatschappijen": [
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonusbeschermer",
+    "inhoud": "${86271o}",
+    "maatschappijen": [
+      "P316",
+      "P357",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "86271o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaardetermijn",
+    "inhoud": "${86253o}",
+    "maatschappijen": [
+      "P302",
+      "P316",
+      "P353",
+      "P357"
+    ],
+    "vereiste_labels": [
+      "86253o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonusbeschermer",
+    "inhoud": "${10830}",
+    "maatschappijen": [
+      "P302",
+      "P316",
+      "P353",
+      "P357",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10830"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Pluspakket",
+    "inhoud": "${80682o}",
+    "maatschappijen": [
+      "P302",
+      "P316",
+      "P353",
+      "P357"
+    ],
+    "vereiste_labels": [
+      "80682o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Groene polis",
+    "inhoud": "${80827}",
+    "maatschappijen": [
+      "P302",
+      "P316",
+      "P353",
+      "P357"
+    ],
+    "vereiste_labels": [
+      "80827"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonus/malus",
+    "inhoud": "Trede ${10046} = ${10050} %",
+    "maatschappijen": [
+      "P302",
+      "P316",
+      "P350",
+      "P353",
+      "P357",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waarde meeverzekerde accessoires",
+    "inhoud": "84081",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "84081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zuivere schadevrije jaren",
+    "inhoud": "${80401}                                                  ${10047c}",
+    "maatschappijen": [
+      "P302",
+      "P316",
+      "P350",
+      "P353",
+      "P357",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10047c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bijzonderheden",
+    "inhoud": "${86280o}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "86280o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Extra meeverzekerde accessoires",
+    "inhoud": "${83420}",
+    "maatschappijen": [
+      "P302",
+      "P316",
+      "P353",
+      "P357",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "83420"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83421}",
+    "maatschappijen": [
+      "P302",
+      "P316",
+      "P353",
+      "P357",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "83421"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "maatschappijen": [
+      "P302",
+      "P316",
+      "P350",
+      "P353",
+      "P357",
+      "P315"
+    ],
+    "type": "standaard"
+  }
+]

@@ -1,0 +1,2318 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "02022",
+      "02029",
+      "02028",
+      "02036",
+      "02035",
+      "02070",
+      "02080",
+      "02090",
+      "02093",
+      "02092",
+      "02091",
+      "02095",
+      "02096",
+      "02098",
+      "02097",
+      "02205",
+      "02240",
+      "02300",
+      "02410",
+      "02510",
+      "02520",
+      "02530",
+      "02540",
+      "02800",
+      "02890",
+      "02891",
+      "02900"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Klassieker verzamel bromfiets",
+    "maatschappijen": [
+      "02094"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Personenauto",
+    "maatschappijen": [
+      "02033",
+      "02039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Rijwiel",
+    "maatschappijen": [
+      "02301"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort voertuig",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "02021",
+      "02020",
+      "02023",
+      "02040",
+      "02041",
+      "02050",
+      "02042",
+      "02051",
+      "02052",
+      "02043",
+      "02110",
+      "02111"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Verzekerd zijn de inzittenden van het motorrijtuig:",
+    "maatschappijen": [
+      "02890"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Verzekerd zijn de opzittenden van het motorrijtuig:",
+    "maatschappijen": [
+      "02891"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "02410"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219}",
+    "maatschappijen": [
+      "02300",
+      "02301"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220}",
+    "maatschappijen": [
+      "02021",
+      "02090",
+      "02093",
+      "02092",
+      "02091",
+      "02095",
+      "02096",
+      "02098",
+      "02097",
+      "02110",
+      "02111",
+      "02205",
+      "02240",
+      "02510",
+      "02520",
+      "02530",
+      "02540"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220} ${10221o}",
+    "maatschappijen": [
+      "02020",
+      "02023",
+      "02029",
+      "02028",
+      "02033",
+      "02036",
+      "02035",
+      "02039",
+      "02040",
+      "02041",
+      "02050",
+      "02042",
+      "02051",
+      "02052",
+      "02070",
+      "02080",
+      "02090",
+      "02043",
+      "02800",
+      "02890",
+      "02891",
+      "02900"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort bromfiets",
+    "inhoud": "${10616o}",
+    "maatschappijen": [
+      "02090",
+      "02093",
+      "02095"
+    ],
+    "vereiste_labels": [
+      "10616o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "02410"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${10033}",
+    "maatschappijen": [
+      "02021",
+      "02020",
+      "02023",
+      "02029",
+      "02028",
+      "02033",
+      "02036",
+      "02035",
+      "02039",
+      "02040",
+      "02041",
+      "02050",
+      "02042",
+      "02051",
+      "02052",
+      "02070",
+      "02080",
+      "02090",
+      "02043",
+      "02093",
+      "02092",
+      "02091",
+      "02095",
+      "02096",
+      "02098",
+      "02097",
+      "02110",
+      "02111",
+      "02205",
+      "02240",
+      "02510",
+      "02520",
+      "02530",
+      "02540",
+      "02800",
+      "02890",
+      "02891",
+      "02900"
+    ],
+    "vereiste_labels": [
+      "10033"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort rijwiel",
+    "inhoud": "${80711o}",
+    "maatschappijen": [
+      "02300",
+      "02301"
+    ],
+    "vereiste_labels": [
+      "80711o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "B/M-regeling",
+    "inhoud": "Niet van toepassing",
+    "maatschappijen": [
+      "02094"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${10697}",
+    "maatschappijen": [
+      "02080",
+      "02510",
+      "02520",
+      "02530",
+      "02540"
+    ],
+    "vereiste_labels": [
+      "10697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Datum eerste afgifte",
+    "inhoud": "${13871}",
+    "maatschappijen": [
+      "02035",
+      "02042",
+      "02043"
+    ],
+    "vereiste_labels": [
+      "13871"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Framenummer",
+    "inhoud": "${10697}",
+    "maatschappijen": [
+      "02300",
+      "02301"
+    ],
+    "vereiste_labels": [
+      "10697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meldcode",
+    "inhoud": "${10112}",
+    "maatschappijen": [
+      "02021",
+      "02020",
+      "02023",
+      "02029",
+      "02028",
+      "02033",
+      "02036",
+      "02035",
+      "02039",
+      "02040",
+      "02041",
+      "02050",
+      "02042",
+      "02051",
+      "02052",
+      "02070",
+      "02090",
+      "02043",
+      "02093",
+      "02092",
+      "02091",
+      "02095",
+      "02096",
+      "02098",
+      "02097",
+      "02110",
+      "02111",
+      "02205",
+      "02240",
+      "02800"
+    ],
+    "vereiste_labels": [
+      "10112"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "02410"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032}${80472}   ${10709}",
+    "maatschappijen": [
+      "02410"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "02021",
+      "02020",
+      "02023",
+      "02029",
+      "02028",
+      "02033",
+      "02036",
+      "02035",
+      "02039",
+      "02040",
+      "02041",
+      "02050",
+      "02042",
+      "02051",
+      "02052",
+      "02070",
+      "02080",
+      "02090",
+      "02043",
+      "02093",
+      "02092",
+      "02091",
+      "02095",
+      "02096",
+      "02098",
+      "02097",
+      "02110",
+      "02111",
+      "02205",
+      "02240",
+      "02300",
+      "02301",
+      "02510",
+      "02520",
+      "02530",
+      "02540",
+      "02800",
+      "02890",
+      "02891",
+      "02900"
+    ],
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zie motorrijtuigpolis",
+    "inhoud": "${80690}",
+    "maatschappijen": [
+      "02890",
+      "02891"
+    ],
+    "vereiste_labels": [
+      "80690"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10713o}",
+    "maatschappijen": [
+      "02410"
+    ],
+    "vereiste_labels": [
+      "10713o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Anti-diefstalchip",
+    "inhoud": "${86415o}",
+    "maatschappijen": [
+      "02300",
+      "02301"
+    ],
+    "vereiste_labels": [
+      "86415o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Brandstof",
+    "inhoud": "${10234o}",
+    "maatschappijen": [
+      "02020",
+      "02023",
+      "02029",
+      "02028",
+      "02033",
+      "02036",
+      "02035",
+      "02039",
+      "02040",
+      "02041",
+      "02042",
+      "02043"
+    ],
+    "vereiste_labels": [
+      "10234o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Cylinderinhoud",
+    "inhoud": "${10227} cc",
+    "maatschappijen": [
+      "02110",
+      "02111"
+    ],
+    "vereiste_labels": [
+      "10227"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${10260o}",
+    "maatschappijen": [
+      "02021",
+      "02020",
+      "02023",
+      "02022",
+      "02029",
+      "02028",
+      "02033",
+      "02036",
+      "02035",
+      "02039",
+      "02040",
+      "02041",
+      "02050",
+      "02042",
+      "02051",
+      "02052",
+      "02070",
+      "02080",
+      "02090",
+      "02043",
+      "02093",
+      "02092",
+      "02091",
+      "02095",
+      "02096",
+      "02097",
+      "02110",
+      "02094",
+      "02111",
+      "02205",
+      "02240",
+      "02510",
+      "02520",
+      "02530",
+      "02540",
+      "02890"
+    ],
+    "vereiste_labels": [
+      "10260o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaardetermijn",
+    "inhoud": "${84290o}",
+    "maatschappijen": [
+      "02510",
+      "02520",
+      "02530",
+      "02540"
+    ],
+    "vereiste_labels": [
+      "84290o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Regelmatige bestuurder(s)",
+    "inhoud": "Naam                            Geboortedatum",
+    "maatschappijen": [
+      "02022",
+      "02094"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Treingewicht",
+    "inhoud": "${10038} kg",
+    "maatschappijen": [
+      "02050",
+      "02051",
+      "02052"
+    ],
+    "vereiste_labels": [
+      "10038"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Treingewicht",
+    "inhoud": "${10235} kg",
+    "maatschappijen": [
+      "02040",
+      "02041",
+      "02042",
+      "02043"
+    ],
+    "vereiste_labels": [
+      "10235"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630}                           ${10035}",
+    "maatschappijen": [
+      "02022",
+      "02094"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "(Trein)gewicht",
+    "inhoud": "${10038} kg",
+    "maatschappijen": [
+      "02080",
+      "02800"
+    ],
+    "vereiste_labels": [
+      "10038"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiliging",
+    "inhoud": "${80041o}",
+    "maatschappijen": [
+      "02021",
+      "02020",
+      "02023",
+      "02050",
+      "02051",
+      "02052",
+      "02080",
+      "02110",
+      "02111",
+      "02510",
+      "02520",
+      "02530",
+      "02540",
+      "02800"
+    ],
+    "vereiste_labels": [
+      "80041o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Brandstof",
+    "inhoud": "${80071o}",
+    "maatschappijen": [
+      "02070"
+    ],
+    "vereiste_labels": [
+      "80071o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsduur",
+    "inhoud": "${86522o}",
+    "maatschappijen": [
+      "02097"
+    ],
+    "vereiste_labels": [
+      "86522o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80048} ${10044o}",
+    "maatschappijen": [
+      "02410"
+    ],
+    "vereiste_labels": [
+      "80048"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Framenummer",
+    "inhoud": "${84876}",
+    "maatschappijen": [
+      "02090",
+      "02093",
+      "02092",
+      "02091",
+      "02095",
+      "02096",
+      "02098",
+      "02097",
+      "02205",
+      "02240"
+    ],
+    "vereiste_labels": [
+      "84876"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gewicht",
+    "inhoud": "${10038} kg",
+    "maatschappijen": [
+      "02020",
+      "02023",
+      "02029",
+      "02028",
+      "02033",
+      "02036",
+      "02035",
+      "02039",
+      "02042",
+      "02070",
+      "02043"
+    ],
+    "vereiste_labels": [
+      "10038"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type slot",
+    "inhoud": "${80066}",
+    "maatschappijen": [
+      "02300",
+      "02301"
+    ],
+    "vereiste_labels": [
+      "80066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10637} ${10638} ${10636}                           ${10639}",
+    "maatschappijen": [
+      "02022",
+      "02094"
+    ],
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "€ ${84285} ${80049o}",
+    "maatschappijen": [
+      "02410"
+    ],
+    "vereiste_labels": [
+      "84285"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bedragen",
+    "inhoud": "${10102o}",
+    "maatschappijen": [
+      "02035",
+      "02042",
+      "02043"
+    ],
+    "vereiste_labels": [
+      "10102o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Datatag registratienr.",
+    "inhoud": "${10697}",
+    "maatschappijen": [
+      "02090",
+      "02093",
+      "02092",
+      "02091",
+      "02095",
+      "02096",
+      "02097",
+      "02205",
+      "02240"
+    ],
+    "vereiste_labels": [
+      "10697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${84357o}",
+    "maatschappijen": [
+      "02040",
+      "02041",
+      "02042",
+      "02043"
+    ],
+    "vereiste_labels": [
+      "84357o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kilometrage",
+    "inhoud": "${10036o}",
+    "maatschappijen": [
+      "02021",
+      "02020",
+      "02023",
+      "02022",
+      "02033",
+      "02036",
+      "02035",
+      "02039",
+      "02040",
+      "02041",
+      "02050",
+      "02042",
+      "02051",
+      "02052",
+      "02070",
+      "02080",
+      "02043",
+      "02110",
+      "02094",
+      "02111",
+      "02800",
+      "02890"
+    ],
+    "vereiste_labels": [
+      "10036o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merks slot",
+    "inhoud": "${11895}",
+    "maatschappijen": [
+      "02092"
+    ],
+    "vereiste_labels": [
+      "11895"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Slotnummer",
+    "inhoud": "${80110}",
+    "maatschappijen": [
+      "02300",
+      "02301"
+    ],
+    "vereiste_labels": [
+      "80110"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort vervoer",
+    "inhoud": "${81210o}",
+    "maatschappijen": [
+      "02050",
+      "02052"
+    ],
+    "vereiste_labels": [
+      "81210o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Werkrisico",
+    "inhoud": "${86390o}",
+    "maatschappijen": [
+      "02051"
+    ],
+    "vereiste_labels": [
+      "86390o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bedragen",
+    "inhoud": "${12685o}",
+    "maatschappijen": [
+      "02035",
+      "02042",
+      "02043"
+    ],
+    "vereiste_labels": [
+      "12685o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiliging",
+    "inhoud": "${86062o}",
+    "maatschappijen": [
+      "02090",
+      "02092",
+      "02091",
+      "02095",
+      "02096",
+      "02097",
+      "02205",
+      "02240"
+    ],
+    "vereiste_labels": [
+      "86062o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiligingssysteem",
+    "inhoud": "${11236o}",
+    "maatschappijen": [
+      "02033",
+      "02036",
+      "02035",
+      "02039"
+    ],
+    "vereiste_labels": [
+      "11236o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiligingssysteem",
+    "inhoud": "${80041o}",
+    "maatschappijen": [
+      "02029",
+      "02028",
+      "02036",
+      "02035",
+      "02040",
+      "02041",
+      "02042",
+      "02070",
+      "02043"
+    ],
+    "vereiste_labels": [
+      "80041o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonus/malus",
+    "inhoud": "Trede ${10046} = ${10050} %",
+    "maatschappijen": [
+      "02021",
+      "02020",
+      "02023",
+      "02022",
+      "02033",
+      "02036",
+      "02035",
+      "02039",
+      "02040",
+      "02041",
+      "02050",
+      "02042",
+      "02051",
+      "02052",
+      "02070",
+      "02080",
+      "02090",
+      "02043",
+      "02091",
+      "02095",
+      "02110",
+      "02111",
+      "02205",
+      "02800"
+    ],
+    "vereiste_labels": [
+      "10050"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "02530",
+      "02540"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Freq.verv.gevaarlijke stoffen",
+    "inhoud": "${12463o}",
+    "maatschappijen": [
+      "02050",
+      "02052"
+    ],
+    "vereiste_labels": [
+      "12463o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk slot",
+    "inhoud": "${11895}",
+    "maatschappijen": [
+      "02093",
+      "02091",
+      "02095",
+      "02205"
+    ],
+    "vereiste_labels": [
+      "11895"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Sleutelnummer",
+    "inhoud": "${80124}",
+    "maatschappijen": [
+      "02300",
+      "02301"
+    ],
+    "vereiste_labels": [
+      "80124"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Standplaats",
+    "inhoud": "${10708}",
+    "maatschappijen": [
+      "02510"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Standplaats",
+    "inhoud": "${86021}",
+    "maatschappijen": [
+      "02520",
+      "02540"
+    ],
+    "vereiste_labels": [
+      "86021"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Tellerstand",
+    "inhoud": "${84361} ${82103o} per ${84360}",
+    "maatschappijen": [
+      "02020",
+      "02023"
+    ],
+    "vereiste_labels": [
+      "84361"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80947}",
+    "maatschappijen": [
+      "02800",
+      "02890"
+    ],
+    "vereiste_labels": [
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "${99994} ${10043} bij diefstal of totaal verlies",
+    "maatschappijen": [
+      "02300",
+      "02301"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Getaxeerd door",
+    "inhoud": "${84996o}",
+    "maatschappijen": [
+      "02020",
+      "02023"
+    ],
+    "vereiste_labels": [
+      "84996o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gewicht",
+    "inhoud": "${10038}",
+    "maatschappijen": [
+      "02510",
+      "02520",
+      "02530",
+      "02540"
+    ],
+    "vereiste_labels": [
+      "10038"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk aanhanger",
+    "inhoud": "${80066}",
+    "maatschappijen": [
+      "02029",
+      "02028",
+      "02036",
+      "02035",
+      "02070"
+    ],
+    "vereiste_labels": [
+      "80066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Progressieve dekking",
+    "inhoud": "${80686o}",
+    "maatschappijen": [
+      "02890",
+      "02891"
+    ],
+    "vereiste_labels": [
+      "80686o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort vervoer",
+    "inhoud": "${86391o}",
+    "maatschappijen": [
+      "02051"
+    ],
+    "vereiste_labels": [
+      "86391o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort voertuig",
+    "inhoud": "${80183o}",
+    "maatschappijen": [
+      "02040",
+      "02041",
+      "02042",
+      "02043",
+      "02890",
+      "02891"
+    ],
+    "vereiste_labels": [
+      "80183o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Standplaats",
+    "inhoud": "${86021} ${10709}",
+    "maatschappijen": [
+      "02530"
+    ],
+    "vereiste_labels": [
+      "86021"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verhuur meeverzekerd",
+    "inhoud": "${84243o}",
+    "maatschappijen": [
+      "02540"
+    ],
+    "vereiste_labels": [
+      "84243o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verhuur meeverzekerd",
+    "inhoud": "${84864o}",
+    "maatschappijen": [
+      "02520"
+    ],
+    "vereiste_labels": [
+      "84864o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag slot",
+    "inhoud": "11241",
+    "maatschappijen": [
+      "02093",
+      "02092",
+      "02091",
+      "02095",
+      "02205"
+    ],
+    "vereiste_labels": [
+      "11241"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde bromfietsen",
+    "inhoud": "Merk/Type                       Kenteken     Meldcode            Bouwjaar",
+    "maatschappijen": [
+      "02094"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde motorrijtuigen",
+    "inhoud": "Merk/Type                       Kenteken  Meldcode           Bouwjaar",
+    "maatschappijen": [
+      "02022"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83064} ${84913}                             ${83069}         ${84902}                  ${83077}",
+    "maatschappijen": [
+      "02022",
+      "02094"
+    ],
+    "vereiste_labels": [
+      "83077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiliging",
+    "inhoud": "${10259o}",
+    "maatschappijen": [
+      "02050",
+      "02052"
+    ],
+    "vereiste_labels": [
+      "10259o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "${99994} ${80044} bij beschadiging",
+    "maatschappijen": [
+      "02300",
+      "02301"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik als stacaravan",
+    "inhoud": "${11443}",
+    "maatschappijen": [
+      "02530"
+    ],
+    "vereiste_labels": [
+      "11443"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Getaxeerd door",
+    "inhoud": "${84125}",
+    "maatschappijen": [
+      "02020",
+      "02023"
+    ],
+    "vereiste_labels": [
+      "84125"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.   ${80947}",
+    "maatschappijen": [
+      "02800",
+      "02890"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kilometrage",
+    "inhoud": "${87002o}",
+    "maatschappijen": [
+      "02029",
+      "02028"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "No-claim",
+    "inhoud": "Trede ${10046} = ${10050} %",
+    "maatschappijen": [
+      "02510",
+      "02520",
+      "02530",
+      "02540"
+    ],
+    "vereiste_labels": [
+      "10046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Type dekking",
+    "inhoud": "${84172o}",
+    "maatschappijen": [
+      "02890"
+    ],
+    "vereiste_labels": [
+      "84172o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "maatschappijen": [
+      "02021",
+      "02020",
+      "02023",
+      "02022",
+      "02029",
+      "02028",
+      "02033",
+      "02036",
+      "02035",
+      "02039",
+      "02070",
+      "02080",
+      "02090",
+      "02093",
+      "02092",
+      "02091",
+      "02095",
+      "02096",
+      "02098",
+      "02097",
+      "02094",
+      "02205",
+      "02240",
+      "02300",
+      "02301",
+      "02890",
+      "02900"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83065} ${84914}                             ${83070}         ${84903}                  ${83078}",
+    "maatschappijen": [
+      "02022",
+      "02094"
+    ],
+    "vereiste_labels": [
+      "83078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "2e oldtimer meeverzekerd",
+    "inhoud": "${86060o}",
+    "maatschappijen": [
+      "02093"
+    ],
+    "vereiste_labels": [
+      "86060o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aard bedrijf",
+    "inhoud": "${12454o}",
+    "maatschappijen": [
+      "02035"
+    ],
+    "vereiste_labels": [
+      "12454o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "BTW",
+    "inhoud": "${10102o}",
+    "maatschappijen": [
+      "02051"
+    ],
+    "vereiste_labels": [
+      "10102o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "Voor (beperkt) casco schaden € ${10043}",
+    "maatschappijen": [
+      "02080"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "Zie de bijzondere voorwaarden onder \"Eigen risico\"",
+    "maatschappijen": [
+      "02090",
+      "02093",
+      "02092",
+      "02091",
+      "02095",
+      "02096",
+      "02097",
+      "02205",
+      "02240"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Extra dekking",
+    "inhoud": "De onderstaande bedragen zijn voor de bestuurders-zitplaats dubbel verzekerd  ${84318c}",
+    "maatschappijen": [
+      "02890"
+    ],
+    "vereiste_labels": [
+      "84318c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk aanhanger",
+    "inhoud": "${11493}",
+    "maatschappijen": [
+      "02036",
+      "02035"
+    ],
+    "vereiste_labels": [
+      "11493"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaarderegeling",
+    "inhoud": "Meeverzekerd voor ${12353} jaar",
+    "maatschappijen": [
+      "02070"
+    ],
+    "vereiste_labels": [
+      "12353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaardetermijn",
+    "inhoud": "${12353} jaar",
+    "maatschappijen": [
+      "02029",
+      "02028",
+      "02036",
+      "02035"
+    ],
+    "vereiste_labels": [
+      "12353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Taxatiedatum",
+    "inhoud": "${84124}",
+    "maatschappijen": [
+      "02020",
+      "02023"
+    ],
+    "vereiste_labels": [
+      "84124"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Winterstop",
+    "inhoud": "${84106}",
+    "maatschappijen": [
+      "02110",
+      "02111"
+    ],
+    "vereiste_labels": [
+      "84106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83066} ${84915}                             ${83071}         ${84904}                  ${83079}",
+    "maatschappijen": [
+      "02022",
+      "02094"
+    ],
+    "vereiste_labels": [
+      "83079"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "Caravan                      ${99994} ${10043}",
+    "maatschappijen": [
+      "02510"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hagelschade",
+    "inhoud": "${83103o}",
+    "maatschappijen": [
+      "02530"
+    ],
+    "vereiste_labels": [
+      "83103o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Lid oldtimer club",
+    "inhoud": "${84754}",
+    "maatschappijen": [
+      "02020",
+      "02023"
+    ],
+    "vereiste_labels": [
+      "84754"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "02800"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10046}",
+    "maatschappijen": [
+      "02530"
+    ],
+    "vereiste_labels": [
+      "10046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83067} ${84916}                             ${83072}         ${84905}                  ${84921}",
+    "maatschappijen": [
+      "02022",
+      "02094"
+    ],
+    "vereiste_labels": [
+      "84921"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vrijwillig",
+    "inhoud": "${99994} ${80045}",
+    "maatschappijen": [
+      "02510"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bijz. accessoires / kuip",
+    "inhoud": "11239",
+    "maatschappijen": [
+      "02110"
+    ],
+    "vereiste_labels": [
+      "11239"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "Caravan                      € ${80047}",
+    "maatschappijen": [
+      "02520",
+      "02530"
+    ],
+    "vereiste_labels": [
+      "80047"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83068} ${84917}                             ${83073}         ${84906}                  ${84922}",
+    "maatschappijen": [
+      "02022",
+      "02094"
+    ],
+    "vereiste_labels": [
+      "84922"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inventaris/inboedel",
+    "inhoud": "${99994} ${80044}",
+    "maatschappijen": [
+      "02510"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vrijwillig",
+    "inhoud": "80045",
+    "maatschappijen": [
+      "02520"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Accessoires",
+    "inhoud": "11241",
+    "maatschappijen": [
+      "02110"
+    ],
+    "vereiste_labels": [
+      "11241"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonus/malus",
+    "inhoud": "Trede ${10046} = ${10050} %                                             ${86397}",
+    "maatschappijen": [
+      "02029"
+    ],
+    "vereiste_labels": [
+      "10046",
+      "86397"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonus/malus",
+    "inhoud": "Trede ${10046} = ${10050} %                                            ${86397}",
+    "maatschappijen": [
+      "02028"
+    ],
+    "vereiste_labels": [
+      "10046",
+      "86397"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaarderegeling",
+    "inhoud": "${86253o}",
+    "maatschappijen": [
+      "02040",
+      "02042",
+      "02043"
+    ],
+    "vereiste_labels": [
+      "86253o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaardetermijn",
+    "inhoud": "${86253o}",
+    "maatschappijen": [
+      "02036",
+      "02035"
+    ],
+    "vereiste_labels": [
+      "86253o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84910} ${84918}                             ${84276}         ${84907}                  ${84923}",
+    "maatschappijen": [
+      "02022",
+      "02094"
+    ],
+    "vereiste_labels": [
+      "84923"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inventaris/inboedel",
+    "inhoud": "80044",
+    "maatschappijen": [
+      "02520",
+      "02530",
+      "02540"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Voortent/aanbouw",
+    "inhoud": "${99994} ${80046}",
+    "maatschappijen": [
+      "02510"
+    ],
+    "vereiste_labels": [
+      "80046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "Caravan                     € ${80047}",
+    "maatschappijen": [
+      "02540"
+    ],
+    "vereiste_labels": [
+      "80047"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herstelservice",
+    "inhoud": "${12401}",
+    "maatschappijen": [
+      "02042",
+      "02043"
+    ],
+    "vereiste_labels": [
+      "12401"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaarderegeling",
+    "inhoud": "${86269o}",
+    "maatschappijen": [
+      "02040",
+      "02042",
+      "02043",
+      "02110"
+    ],
+    "vereiste_labels": [
+      "86269o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zijspan",
+    "inhoud": "11233",
+    "maatschappijen": [
+      "02110"
+    ],
+    "vereiste_labels": [
+      "11233"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zuivere schadevrije jaren",
+    "inhoud": "${80401}                                                    ${10047c}",
+    "maatschappijen": [
+      "02029",
+      "02028",
+      "02033",
+      "02036",
+      "02035",
+      "02039",
+      "02040",
+      "02041",
+      "02050",
+      "02042",
+      "02051",
+      "02052",
+      "02070",
+      "02043",
+      "02110",
+      "02111"
+    ],
+    "vereiste_labels": [
+      "10047c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84911} ${84919}                             ${84277}         ${84908}                  ${84924}",
+    "maatschappijen": [
+      "02022",
+      "02094"
+    ],
+    "vereiste_labels": [
+      "84924"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "waarvan vrijwillig",
+    "inhoud": "80045",
+    "maatschappijen": [
+      "02530",
+      "02540"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Overall",
+    "inhoud": "${99994} ${84295}",
+    "maatschappijen": [
+      "02510"
+    ],
+    "vereiste_labels": [
+      "84295"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Voortent/aanbouw",
+    "inhoud": "80046",
+    "maatschappijen": [
+      "02520",
+      "02530",
+      "02540"
+    ],
+    "vereiste_labels": [
+      "80046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Pluspakket",
+    "inhoud": "${80682o}",
+    "maatschappijen": [
+      "02036",
+      "02035"
+    ],
+    "vereiste_labels": [
+      "80682o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Rijvaardigheidskorting",
+    "inhoud": "${84777}",
+    "maatschappijen": [
+      "02110"
+    ],
+    "vereiste_labels": [
+      "84777"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zuivere schadevrije jaren",
+    "inhoud": "${80401}                                                  ${10047c}${10050}",
+    "maatschappijen": [
+      "02020",
+      "02023"
+    ],
+    "vereiste_labels": [
+      "10047c",
+      "10050"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84912} ${84920}                             ${84278}         ${84909}                  ${84925}",
+    "maatschappijen": [
+      "02022",
+      "02094"
+    ],
+    "vereiste_labels": [
+      "84925"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Overall",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "02520",
+      "02530",
+      "02540"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonusbeschermer",
+    "inhoud": "${86271o}",
+    "maatschappijen": [
+      "02020",
+      "02023",
+      "02029",
+      "02028",
+      "02040",
+      "02042",
+      "02070",
+      "02043"
+    ],
+    "vereiste_labels": [
+      "86271o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonusbescherming",
+    "inhoud": "${86271o}",
+    "maatschappijen": [
+      "02110"
+    ],
+    "vereiste_labels": [
+      "86271o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Groene polis",
+    "inhoud": "${80827}",
+    "maatschappijen": [
+      "02036",
+      "02035"
+    ],
+    "vereiste_labels": [
+      "80827"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86065} ${86074}                             ${84279}            ${86089}                   ${86098}",
+    "maatschappijen": [
+      "02094"
+    ],
+    "vereiste_labels": [
+      "86065"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonusbeschermer",
+    "inhoud": "${10830}",
+    "maatschappijen": [
+      "02020",
+      "02023",
+      "02029",
+      "02028",
+      "02036",
+      "02035",
+      "02040",
+      "02042",
+      "02070",
+      "02043"
+    ],
+    "vereiste_labels": [
+      "10830"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonusbescherming",
+    "inhoud": "${10830}",
+    "maatschappijen": [
+      "02110"
+    ],
+    "vereiste_labels": [
+      "10830"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico ruitschade",
+    "inhoud": "€ ${11625} per gebeurtenis bij vervanging ruit, zie tevens het gestelde",
+    "maatschappijen": [
+      "02029",
+      "02028"
+    ],
+    "vereiste_labels": [
+      "11625"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken / artikelen",
+    "inhoud": "${10001o}                        Verzekerd(e) bedrag(en)     Basispremie",
+    "maatschappijen": [
+      "02510"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80066}",
+    "maatschappijen": [
+      "02040",
+      "02041",
+      "02050",
+      "02042",
+      "02051",
+      "02052",
+      "02043"
+    ],
+    "vereiste_labels": [
+      "80066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86066} ${86075}                             ${84280}            ${86090}                   ${86099}",
+    "maatschappijen": [
+      "02094"
+    ],
+    "vereiste_labels": [
+      "86066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "in de voorwaarden/clausules",
+    "inhoud": " ${11625}",
+    "maatschappijen": [
+      "02029",
+      "02028"
+    ],
+    "vereiste_labels": [
+      "11625"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "maatschappijen": [
+      "02110"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zomertijdtarief van toepassing",
+    "inhoud": "${${84106}}                                              84106",
+    "maatschappijen": [
+      "02020",
+      "02023"
+    ],
+    "vereiste_labels": [
+      "84106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86067} ${86076}                             ${84281}            ${86091}                   ${86100}",
+    "maatschappijen": [
+      "02094"
+    ],
+    "vereiste_labels": [
+      "86067"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanhanger merk",
+    "inhoud": "${80066}",
+    "maatschappijen": [
+      "02040",
+      "02041",
+      "02050",
+      "02042",
+      "02051",
+      "02052",
+      "02043"
+    ],
+    "vereiste_labels": [
+      "80066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Extra meeverzekerde accessoires",
+    "inhoud": "${83420}",
+    "maatschappijen": [
+      "02020",
+      "02023",
+      "02029",
+      "02028",
+      "02036",
+      "02035",
+      "02070"
+    ],
+    "vereiste_labels": [
+      "83420"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Schadeservice",
+    "inhoud": "Uw autoverzekering biedt standaard dekking voor verhaalsbijstand.",
+    "maatschappijen": [
+      "02029"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83421}",
+    "maatschappijen": [
+      "02020",
+      "02023",
+      "02029",
+      "02028",
+      "02036",
+      "02035",
+      "02070"
+    ],
+    "vereiste_labels": [
+      "83421"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86068} ${86077}                             ${86083}            ${86092}                   ${86101}",
+    "maatschappijen": [
+      "02094"
+    ],
+    "vereiste_labels": [
+      "86068"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanhanger merk",
+    "inhoud": "${11493}",
+    "maatschappijen": [
+      "02040",
+      "02042",
+      "02043"
+    ],
+    "vereiste_labels": [
+      "11493"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86069} ${86078}                             ${86084}            ${86093}                   ${86102}",
+    "maatschappijen": [
+      "02094"
+    ],
+    "vereiste_labels": [
+      "86069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${11252}",
+    "maatschappijen": [
+      "02040",
+      "02042",
+      "02043"
+    ],
+    "vereiste_labels": [
+      "11252"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86070} ${86079}                             ${86085}            ${86094}                   ${86103}",
+    "maatschappijen": [
+      "02094"
+    ],
+    "vereiste_labels": [
+      "86070"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${80139}",
+    "maatschappijen": [
+      "02040",
+      "02041",
+      "02050",
+      "02042",
+      "02051",
+      "02052",
+      "02043"
+    ],
+    "vereiste_labels": [
+      "80139"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86071} ${86080}                             ${86086}            ${86095}                   ${86104}",
+    "maatschappijen": [
+      "02094"
+    ],
+    "vereiste_labels": [
+      "86071"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${11491}",
+    "maatschappijen": [
+      "02040",
+      "02042",
+      "02043"
+    ],
+    "vereiste_labels": [
+      "11491"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86072} ${86081}                             ${86087}            ${86096}                   ${86105}",
+    "maatschappijen": [
+      "02094"
+    ],
+    "vereiste_labels": [
+      "86072"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Registratienummer",
+    "inhoud": "${83042}",
+    "maatschappijen": [
+      "02040",
+      "02041",
+      "02050",
+      "02042",
+      "02051",
+      "02052",
+      "02080",
+      "02043"
+    ],
+    "vereiste_labels": [
+      "83042"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86073} ${86082}                             ${86088}            ${86097}                   ${86106}",
+    "maatschappijen": [
+      "02094"
+    ],
+    "vereiste_labels": [
+      "86073"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "02040",
+      "02041",
+      "02050",
+      "02042",
+      "02051",
+      "02052",
+      "02043",
+      "02110",
+      "02111",
+      "02410",
+      "02520",
+      "02530",
+      "02540",
+      "02891"
+    ],
+    "type": "standaard"
+  }
+]

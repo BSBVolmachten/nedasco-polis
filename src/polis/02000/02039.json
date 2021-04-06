@@ -1,0 +1,174 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Personenauto",
+    "maatschappijen": [
+      "P315",
+      "P311"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220} ${10221o}",
+    "maatschappijen": [
+      "P315",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${10033}",
+    "maatschappijen": [
+      "P315",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10033"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meldcode",
+    "inhoud": "${10112}",
+    "maatschappijen": [
+      "P315",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10112"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "P315",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gewicht",
+    "inhoud": "${10038} kg",
+    "maatschappijen": [
+      "P315",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10038"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Brandstof",
+    "inhoud": "${10234o}",
+    "maatschappijen": [
+      "P315",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10234o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${10260o}",
+    "maatschappijen": [
+      "P315",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10260o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiligingssysteem",
+    "inhoud": "${11236o}",
+    "maatschappijen": [
+      "P315",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "11236o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kilometrage",
+    "inhoud": "${10036o}",
+    "maatschappijen": [
+      "P315",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10036o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonus/malus",
+    "inhoud": "Trede ${10046} = ${10050} %",
+    "maatschappijen": [
+      "P315",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonus/malus (beperkt)casco",
+    "inhoud": "Trede ${13199} = ${13203} %",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "13199"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zuivere schadevrije jaren",
+    "inhoud": "${80401}                                                  ${10047c}",
+    "maatschappijen": [
+      "P315",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10047c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico Casco",
+    "inhoud": "€ ${84295} per gebeurtenis, zie tevens de voorwaarden/clausules",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "84295"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "maatschappijen": [
+      "P315",
+      "P311"
+    ],
+    "type": "standaard"
+  }
+]

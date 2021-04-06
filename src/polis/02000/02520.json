@@ -1,0 +1,605 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Stacaravan",
+    "maatschappijen": [
+      "P300",
+      "P325",
+      "P353",
+      "P350",
+      "P359",
+      "P369"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P313",
+      "P356",
+      "P368",
+      "P357",
+      "P372"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220}",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P313",
+      "P357",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220} ${10221o}",
+    "maatschappijen": [
+      "P356",
+      "P368",
+      "P357"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd object",
+    "inhoud": "${10218} ${10219}",
+    "maatschappijen": [
+      "P300",
+      "P325",
+      "P353",
+      "P350",
+      "P359",
+      "P369"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${10033}",
+    "maatschappijen": [
+      "P300",
+      "P306",
+      "P308",
+      "P313",
+      "P325",
+      "P353",
+      "P350",
+      "P357",
+      "P359",
+      "P369",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10033"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${10697}",
+    "maatschappijen": [
+      "P300",
+      "P306",
+      "P308",
+      "P313",
+      "P325",
+      "P353",
+      "P350",
+      "P356",
+      "P368",
+      "P357",
+      "P359",
+      "P369",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "P300",
+      "P306",
+      "P308",
+      "P313",
+      "P325",
+      "P353",
+      "P350",
+      "P356",
+      "P368",
+      "P357",
+      "P359",
+      "P369",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gewicht",
+    "inhoud": "${10038} kg",
+    "maatschappijen": [
+      "P300",
+      "P325",
+      "P353",
+      "P350",
+      "P356",
+      "P368",
+      "P359",
+      "P369"
+    ],
+    "vereiste_labels": [
+      "10038"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaardetermijn",
+    "inhoud": "${84290o}",
+    "maatschappijen": [
+      "P306",
+      "P313",
+      "P325",
+      "P350",
+      "P356",
+      "P368",
+      "P357",
+      "P369",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "84290o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${10260o}",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P356",
+      "P368",
+      "P357",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10260o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "No-claim",
+    "inhoud": "Trede ${10046} = ${10050} %",
+    "maatschappijen": [
+      "P300",
+      "P306",
+      "P308",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verhuur",
+    "inhoud": "Het risico van niet-bedrijfsmatige verhuur is ${84834o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84834o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiliging",
+    "inhoud": "${80041o}",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P313",
+      "P356",
+      "P368",
+      "P357",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "80041o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dagwaarde",
+    "inhoud": "10041",
+    "maatschappijen": [
+      "P356",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "10041"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "Zie polisvoorwaarden",
+    "maatschappijen": [
+      "P300"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaardegarantie",
+    "inhoud": "Meeverzekerd voor de periode van ${12353} jaar",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P313",
+      "P325",
+      "P350",
+      "P369"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} per gebeurtenis",
+    "maatschappijen": [
+      "P353",
+      "P359"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hagelschade",
+    "inhoud": "${83103o}",
+    "maatschappijen": [
+      "P306",
+      "P325",
+      "P350",
+      "P357",
+      "P369"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaarde",
+    "inhoud": "10040",
+    "maatschappijen": [
+      "P356",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "10040"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Standplaats",
+    "inhoud": "${86021}",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P313",
+      "P325",
+      "P350",
+      "P357",
+      "P369",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "86021"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P300",
+      "P306",
+      "P308",
+      "P313",
+      "P325",
+      "P353",
+      "P350",
+      "P357",
+      "P369",
+      "P372"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                  Verzekerd bedrag",
+    "maatschappijen": [
+      "P359"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Standaard eigen risico",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "P356",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verhuur meeverzekerd",
+    "inhoud": "${84864o}",
+    "maatschappijen": [
+      "P306",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "84864o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "Zie het gestelde in de polisvoorwaarden",
+    "maatschappijen": [
+      "P308"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gewicht",
+    "inhoud": "${10038}",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P313",
+      "P357",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10038"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaardegarantie",
+    "inhoud": "${12348}",
+    "maatschappijen": [
+      "P372"
+    ],
+    "vereiste_labels": [
+      "12348"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verhuur",
+    "inhoud": "${84243o}",
+    "maatschappijen": [
+      "P325",
+      "P350",
+      "P369"
+    ],
+    "vereiste_labels": [
+      "84243o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Extra vrijwillig eigen risico €",
+    "inhoud": "${80045}",
+    "maatschappijen": [
+      "P308"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043}  per gebeurtenis",
+    "maatschappijen": [
+      "P325",
+      "P350",
+      "P369"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Garantietermijn",
+    "inhoud": "${12353} jaar (ingangsdatum ${11221})",
+    "maatschappijen": [
+      "P372"
+    ],
+    "vereiste_labels": [
+      "12353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Standaard eigen risico",
+    "inhoud": "80046",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "80046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "maatschappijen": [
+      "P356",
+      "P368"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80045}",
+    "maatschappijen": [
+      "P308"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- Aansprakelijkheid",
+    "inhoud": "10042",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico hagelschade",
+    "inhoud": "€ ${80044}  per gebeurtenis",
+    "maatschappijen": [
+      "P325",
+      "P350",
+      "P369"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vrijwillig eigen risico",
+    "inhoud": "80045",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "Overall                      € ${10043}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Totaal eigen risico",
+    "inhoud": "€ ${10043}  per gebeurtenis",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Caravan",
+    "inhoud": "80047",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80047"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043}  ${10044o}",
+    "maatschappijen": [
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vrijwillig",
+    "inhoud": "80045",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inventaris/inboedel",
+    "inhoud": "80044",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Voortent/aanbouw",
+    "inhoud": "80046",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80046"
+    ],
+    "type": "standaard"
+  }
+]

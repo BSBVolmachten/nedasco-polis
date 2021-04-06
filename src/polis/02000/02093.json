@@ -1,0 +1,200 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort bromfiets",
+    "inhoud": "${10616o}",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10616o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220}",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${10033}",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10033"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meldcode",
+    "inhoud": "${10112}",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10112"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Framenummer",
+    "inhoud": "${84876}",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "84876"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiliging",
+    "inhoud": "${86062o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "86062o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Datatag registratienr.",
+    "inhoud": "${10697}",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${10260o}",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10260o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "2e oldtimer meeverzekerd",
+    "inhoud": "${86060o}",
+    "maatschappijen": [
+      "P308"
+    ],
+    "vereiste_labels": [
+      "86060o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "B/M-regeling",
+    "inhoud": "Niet van toepassing",
+    "maatschappijen": [
+      "P306"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk slot",
+    "inhoud": "${11895}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "11895"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaarkilometrage",
+    "inhoud": "${10036o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10036o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "In bezit van bromfietscertificaat",
+    "inhoud": "${11902}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "11902"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  }
+]

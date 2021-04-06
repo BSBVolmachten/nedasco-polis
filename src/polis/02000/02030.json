@@ -1,0 +1,539 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P300",
+      "P315",
+      "P359",
+      "P367",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o} ${10136o}",
+    "maatschappijen": [
+      "P308"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Personenauto",
+    "maatschappijen": [
+      "P368"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220} ${10221o}",
+    "maatschappijen": [
+      "P300",
+      "P315",
+      "P308",
+      "P359",
+      "P367",
+      "P368",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${10033}",
+    "maatschappijen": [
+      "P300",
+      "P315",
+      "P308",
+      "P359",
+      "P367",
+      "P368",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10033"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meldcode",
+    "inhoud": "${10112}",
+    "maatschappijen": [
+      "P300",
+      "P315",
+      "P308",
+      "P359",
+      "P367",
+      "P368",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10112"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "P300",
+      "P315",
+      "P308",
+      "P359",
+      "P367",
+      "P368",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gewicht",
+    "inhoud": "${10038} kg",
+    "maatschappijen": [
+      "P300",
+      "P315",
+      "P308",
+      "P359",
+      "P367",
+      "P368",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10038"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Brandstof",
+    "inhoud": "${10234o}",
+    "maatschappijen": [
+      "P300",
+      "P315",
+      "P308",
+      "P359",
+      "P367",
+      "P368",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10234o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${10260o}",
+    "maatschappijen": [
+      "P300",
+      "P315",
+      "P308",
+      "P359",
+      "P367",
+      "P368",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10260o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiligingssysteem",
+    "inhoud": "${80041o}",
+    "maatschappijen": [
+      "P300",
+      "P315",
+      "P308",
+      "P359",
+      "P367",
+      "P368",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80041o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk aanhanger",
+    "inhoud": "${80066}",
+    "maatschappijen": [
+      "P300",
+      "P315",
+      "P308",
+      "P359",
+      "P367",
+      "P368",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar aanhanger",
+    "inhoud": "${11490}",
+    "maatschappijen": [
+      "P368"
+    ],
+    "vereiste_labels": [
+      "11490"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kilometrage",
+    "inhoud": "${10036o}",
+    "maatschappijen": [
+      "P300",
+      "P315",
+      "P308",
+      "P359",
+      "P367",
+      "P368",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10036o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonusbeschermer",
+    "inhoud": "${86271o}",
+    "maatschappijen": [
+      "P315",
+      "P308",
+      "P367",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "86271o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaarderegeling",
+    "inhoud": "${86269o}",
+    "maatschappijen": [
+      "P367",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "86269o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaardetermijn",
+    "inhoud": "${86253o}",
+    "maatschappijen": [
+      "P300",
+      "P308",
+      "P359"
+    ],
+    "vereiste_labels": [
+      "86253o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanschafwaardegarantie 3 jaar",
+    "inhoud": "${86269o}",
+    "maatschappijen": [
+      "P368"
+    ],
+    "vereiste_labels": [
+      "86269o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonusbeschermer",
+    "inhoud": "${10830}",
+    "maatschappijen": [
+      "P300",
+      "P315",
+      "P308",
+      "P359",
+      "P367",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekeringsvorm",
+    "inhoud": "${10136o}",
+    "maatschappijen": [
+      "P367",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10136o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonus/malus",
+    "inhoud": "Trede ${10046} = ${10050} %",
+    "maatschappijen": [
+      "P300",
+      "P315",
+      "P308",
+      "P359",
+      "P367",
+      "P368",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vervangend vervoer",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P368"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonus/malus casco",
+    "inhoud": "Trede ${13199} = ${13203} %",
+    "maatschappijen": [
+      "P359"
+    ],
+    "vereiste_labels": [
+      "13199"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zuivere schadevrije jaren",
+    "inhoud": "${80060}                                                   ${10047c}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10047c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zuivere schadevrije jaren",
+    "inhoud": "${80401}                                                  ${10047c}",
+    "maatschappijen": [
+      "P300",
+      "P308",
+      "P359",
+      "P367",
+      "P368",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10047c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Extra meeverzekerde accessoires",
+    "inhoud": "${83420}",
+    "maatschappijen": [
+      "P300",
+      "P315",
+      "P308",
+      "P359",
+      "P367",
+      "P368",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "83420"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83421}",
+    "maatschappijen": [
+      "P300",
+      "P315",
+      "P308",
+      "P359",
+      "P367",
+      "P368",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "83421"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waarde meeverzekerde",
+    "inhoud": "${84081}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "84081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "accessoires",
+    "inhoud": "84081",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "84081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "maatschappijen": [
+      "P300",
+      "P315",
+      "P308",
+      "P359",
+      "P367",
+      "P368",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bijzonderheden",
+    "inhoud": "${86280o}",
+    "maatschappijen": [
+      "P315",
+      "P367",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "86280o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waarde meeverzekerde accessoires",
+    "inhoud": "84081",
+    "maatschappijen": [
+      "P367",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "84081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico casco",
+    "inhoud": "Het hieronder genoemde eigen risico voor casco schades wordt met                       ${83401}",
+    "maatschappijen": [
+      "P367",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "83401"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "€ 500,- verhoogd in geval van reparaties door een niet AEGON Schade Service herstelbedrijf",
+    "inhoud": " ${83401}",
+    "maatschappijen": [
+      "P367",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "83401"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "€ 500,- verhoogd in geval van reparaties door een niet bij Select Autoschade Service",
+    "inhoud": " ${83401}",
+    "maatschappijen": [
+      "P376"
+    ],
+    "vereiste_labels": [
+      "83401"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "aangesloten herstelbedrijf",
+    "inhoud": " ${83401}",
+    "maatschappijen": [
+      "P376"
+    ],
+    "vereiste_labels": [
+      "83401"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ruitreparatie",
+    "inhoud": "Ruitreparatie anders dan door AEGON Schade Service wordt niet vergoed                       ${83401}",
+    "maatschappijen": [
+      "P367",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "83401"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ruitreparatie",
+    "inhoud": "Ruitreparatie anders dan door Glasgarant wordt niet vergoed                       ${83401}",
+    "maatschappijen": [
+      "P376"
+    ],
+    "vereiste_labels": [
+      "83401"
+    ],
+    "type": "standaard"
+  }
+]

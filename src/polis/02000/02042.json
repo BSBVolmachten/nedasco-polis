@@ -1,0 +1,323 @@
+[
+  {
+    "omschrijving": "Soort voertuig",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220} ${10221o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${10033}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10033"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Datum eerste afgifte",
+    "inhoud": "${13871}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "13871"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meldcode",
+    "inhoud": "${10112}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10112"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Treingewicht",
+    "inhoud": "${10235} kg",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10235"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gewicht",
+    "inhoud": "${10038} kg",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10038"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bedragen",
+    "inhoud": "${10102o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10102o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${10260o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10260o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${84357o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "84357o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiligingssysteem",
+    "inhoud": "${80041o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "80041o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort voertuig",
+    "inhoud": "${80183o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "80183o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Brandstof",
+    "inhoud": "${10234o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10234o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herstelservice",
+    "inhoud": "${12401}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "12401"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kilometrage",
+    "inhoud": "${10036o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10036o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonusbeschermer",
+    "inhoud": "${86271o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "86271o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonusbeschermer",
+    "inhoud": "${10830}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10830"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaarderegeling",
+    "inhoud": "${86253o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "86253o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaarderegeling",
+    "inhoud": "${86269o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "86269o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonus/malus",
+    "inhoud": "Trede ${10046} = ${10050} %",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zuivere schadevrije jaren",
+    "inhoud": "${80401}                                                  ${10047c}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10047c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80066}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "80066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanhanger merk",
+    "inhoud": "${80066}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "80066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanhanger merk",
+    "inhoud": "${11493}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "11493"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${11252}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "11252"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${80139}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "80139"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${11491}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "11491"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Registratienummer",
+    "inhoud": "${83042}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "83042"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  }
+]

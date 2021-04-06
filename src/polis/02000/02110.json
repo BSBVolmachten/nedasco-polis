@@ -1,0 +1,434 @@
+[
+  {
+    "omschrijving": "Soort voertuig",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P308",
+      "P316",
+      "P357",
+      "P356",
+      "P368",
+      "P372"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P308",
+      "P316",
+      "P357",
+      "P356",
+      "P368",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${10033}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P308",
+      "P316",
+      "P357",
+      "P356",
+      "P368",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10033"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meldcode",
+    "inhoud": "${10112}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P308",
+      "P316",
+      "P357",
+      "P356",
+      "P368",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10112"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P308",
+      "P316",
+      "P357",
+      "P356",
+      "P368",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Cylinderinhoud",
+    "inhoud": "${10227} cc",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P308",
+      "P316",
+      "P357",
+      "P356",
+      "P368",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10227"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${10260o}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P308",
+      "P316",
+      "P357",
+      "P356",
+      "P368",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10260o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiliging",
+    "inhoud": "${80041o}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P308",
+      "P316",
+      "P357",
+      "P356",
+      "P368",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "80041o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kilometrage",
+    "inhoud": "${10036o}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P308",
+      "P316",
+      "P357",
+      "P356",
+      "P368",
+      "P372"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonus/malus",
+    "inhoud": "Trede ${10046} = ${10050} %",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P308",
+      "P316",
+      "P357",
+      "P356",
+      "P368",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zuivere schadevrije jaren",
+    "inhoud": "${80401}                                                  ${10047c}",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P308",
+      "P316",
+      "P357",
+      "P356",
+      "P368",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10047c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "No-claimbeschermer",
+    "inhoud": "${86271o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86271o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Winterstop",
+    "inhoud": "${84106}",
+    "maatschappijen": [
+      "P308"
+    ],
+    "vereiste_labels": [
+      "84106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Winterstop",
+    "inhoud": "${86053}",
+    "maatschappijen": [
+      "P316",
+      "P357"
+    ],
+    "vereiste_labels": [
+      "86053"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Winterstopkorting",
+    "inhoud": "${11710}",
+    "maatschappijen": [
+      "P302",
+      "P356",
+      "P368",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "11710"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aankoopdatum",
+    "inhoud": "${11221}",
+    "maatschappijen": [
+      "P308"
+    ],
+    "vereiste_labels": [
+      "11221"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaarderegeling",
+    "inhoud": "${86269o}",
+    "maatschappijen": [
+      "P316",
+      "P357"
+    ],
+    "vereiste_labels": [
+      "86269o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "No-claimbeschermer",
+    "inhoud": "${10830}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10830"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Rijvaardigheidskorting",
+    "inhoud": "${84777}",
+    "maatschappijen": [
+      "P302",
+      "P308",
+      "P316",
+      "P357",
+      "P356",
+      "P368",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "84777"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aankoopgarantie",
+    "inhoud": "${84946}",
+    "maatschappijen": [
+      "P308"
+    ],
+    "vereiste_labels": [
+      "84946"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bijz. accessoires / kuip",
+    "inhoud": "11239",
+    "maatschappijen": [
+      "P316",
+      "P357"
+    ],
+    "vereiste_labels": [
+      "11239"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zomertijd tarief",
+    "inhoud": "${84106}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "3 jaar nieuwwaarde",
+    "inhoud": "${86189}",
+    "maatschappijen": [
+      "P308"
+    ],
+    "vereiste_labels": [
+      "86189"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Accessoires",
+    "inhoud": "11241",
+    "maatschappijen": [
+      "P316",
+      "P357"
+    ],
+    "vereiste_labels": [
+      "11241"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P302",
+      "P313",
+      "P308",
+      "P316",
+      "P357",
+      "P356",
+      "P368",
+      "P372"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Winterstopkorting",
+    "inhoud": "${86053}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86053"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nieuwwaarde",
+    "inhoud": "${84290o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84290o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zijspan",
+    "inhoud": "11233",
+    "maatschappijen": [
+      "P316",
+      "P357"
+    ],
+    "vereiste_labels": [
+      "11233"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aankoopgarantie",
+    "inhoud": "${86269o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86269o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonusbescherming",
+    "inhoud": "${86271o}",
+    "maatschappijen": [
+      "P316",
+      "P357"
+    ],
+    "vereiste_labels": [
+      "86271o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonusbescherming",
+    "inhoud": "${10830}",
+    "maatschappijen": [
+      "P316",
+      "P357"
+    ],
+    "vereiste_labels": [
+      "10830"
+    ],
+    "type": "standaard"
+  }
+]

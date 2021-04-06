@@ -1,0 +1,144 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${10260o}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "10260o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kilometrage",
+    "inhoud": "${10036o}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "10036o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonus/malus",
+    "inhoud": "De bonus/malusregeling is niet van toepassing",
+    "maatschappijen": [
+      "P300"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde motorrijtuigen",
+    "inhoud": "Merk/Type                       Kenteken  Meldcode           Bouwjaar",
+    "maatschappijen": [
+      "P300"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83064} ${84913}                             ${83069}         ${84902}                  ${83077}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "83077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83065} ${84914}                             ${83070}         ${84903}                  ${83078}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "83078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83066} ${84915}                             ${83071}         ${84904}                  ${83079}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "83079"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83067} ${84916}                             ${83072}         ${84905}                  ${84921}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "84921"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83068} ${84917}                             ${83073}         ${84906}                  ${84922}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "84922"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84910} ${84918}                             ${84276}         ${84907}                  ${84923}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "84923"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84911} ${84919}                             ${84277}         ${84908}                  ${84924}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "84924"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84912} ${84920}                             ${84278}         ${84909}                  ${84925}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "84925"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "maatschappijen": [
+      "P300"
+    ],
+    "type": "standaard"
+  }
+]

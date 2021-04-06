@@ -1,0 +1,261 @@
+[
+  {
+    "omschrijving": "Soort voertuig",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P315",
+      "P353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220} ${10221o}",
+    "maatschappijen": [
+      "P315",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${10033}",
+    "maatschappijen": [
+      "P315",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10033"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meldcode",
+    "inhoud": "${10112}",
+    "maatschappijen": [
+      "P315",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10112"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "P315",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Treingewicht",
+    "inhoud": "${10038} kg",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10038"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Treingewicht",
+    "inhoud": "${10235} kg",
+    "maatschappijen": [
+      "P353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${10260o}",
+    "maatschappijen": [
+      "P315",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10260o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiliging",
+    "inhoud": "${80041o}",
+    "maatschappijen": [
+      "P315",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80041o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort vervoer",
+    "inhoud": "${81210o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "81210o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Freq.vervoer gevaarlijke stoffen",
+    "inhoud": "${12463o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12463o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kilometrage",
+    "inhoud": "${10036o}",
+    "maatschappijen": [
+      "P315",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10036o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "${99994} ${11625} ruitvervanging",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "11625"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiliging",
+    "inhoud": "${10259o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10259o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "${99994} ${11624} ruitherstel",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "11624"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonus/malus",
+    "inhoud": "Trede ${10046} = ${10050} %",
+    "maatschappijen": [
+      "P315",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zuivere schadevrije jaren",
+    "inhoud": "${80401}                                                  ${10047c}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10047c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80066}",
+    "maatschappijen": [
+      "P315",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zuivere schadevrije jaren",
+    "inhoud": "${13218}                                                  ${10047c}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "13218",
+      "10047c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanhanger merk",
+    "inhoud": "${11493} ${11495}",
+    "maatschappijen": [
+      "P315",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "11493"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${11491}",
+    "maatschappijen": [
+      "P315",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "11491"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken aanhanger",
+    "inhoud": "${11252}",
+    "maatschappijen": [
+      "P315",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "11252"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P315",
+      "P353"
+    ],
+    "type": "standaard"
+  }
+]

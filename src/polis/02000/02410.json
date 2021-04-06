@@ -1,0 +1,393 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P308",
+      "P315",
+      "P322"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde hoedanigheid",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P308",
+      "P315",
+      "P322"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "P308",
+      "P315",
+      "P322"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "P308",
+      "P315",
+      "P322"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032}${80472}   ${10709}",
+    "maatschappijen": [
+      "P308",
+      "P315",
+      "P322"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10713o}",
+    "maatschappijen": [
+      "P308",
+      "P315",
+      "P322"
+    ],
+    "vereiste_labels": [
+      "10713o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80048} ${10044o}",
+    "maatschappijen": [
+      "P308",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "80048"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Handelaarskenteken",
+    "inhoud": "${83069}",
+    "maatschappijen": [
+      "P322"
+    ],
+    "vereiste_labels": [
+      "83069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "${84283o}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "84283o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Casco omzet per jaar",
+    "inhoud": "€ ${10078} ${84264o}",
+    "maatschappijen": [
+      "P322"
+    ],
+    "vereiste_labels": [
+      "10078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde bedragen",
+    "inhoud": "ten aanzien van rubriek ${84082}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "84082"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "€",
+    "inhoud": "${10241} max. per gebeurtenis                                                   ${84082}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10241",
+      "84082"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "Aansprakelijkheid voor bedrijven  € ${80048} per gebeurtenis",
+    "maatschappijen": [
+      "P322"
+    ],
+    "vereiste_labels": [
+      "80048"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P308",
+      "P322"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "€",
+    "inhoud": "${10242} max. per verzekeringsjaar                                              ${84082}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10242",
+      "84082"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Schade aan clinten auto's",
+    "inhoud": "€ ${84285} per gebeurtenis",
+    "maatschappijen": [
+      "P322"
+    ],
+    "vereiste_labels": [
+      "84285"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Casco omzet",
+    "inhoud": "€ ${84286} per gebeurtenis per auto",
+    "maatschappijen": [
+      "P322"
+    ],
+    "vereiste_labels": [
+      "84286"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Echter ten aanzien van brand, explosie en blusmiddelen voor schade aan zaken,",
+    "inhoud": "${84082}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "84082"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "In het geval een brandverzekering regres neemt op verzekerde terzake van een door",
+    "maatschappijen": [
+      "P322"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "waaronder begrepen eigendommen van clinten, beperkt tot",
+    "inhoud": "${84082}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "84082"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "€",
+    "inhoud": "    453.780,22 max. per gebeurtenis                                        ${84082}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "84082"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "hem gedane uitkering wegens zaakschade als bedoeld in artikel 14 sub 6A van de",
+    "maatschappijen": [
+      "P322"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "€",
+    "inhoud": "    907.560,43 max. per verzekeringsjaar                                   ${84082}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "84082"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "voorwaarden 62 D, geldt een eigen risico van €",
+    "inhoud": " 4.537,80 per gebeurtenis.",
+    "maatschappijen": [
+      "P322"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "ten aanzien van rubriek",
+    "inhoud": "${84254}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "84254"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "€",
+    "inhoud": "${10243} max. per gebeurtenis",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10243"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ingeval van een motorrijtuig dat is ingericht tot het vervoer van meer dan acht personen",
+    "inhoud": "${84254}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "84254"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "buiten de bestuurder, is het verzekerd bedrag zoveel maal € 136.134,00 als buiten de",
+    "inhoud": "${84254}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "84254"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "bestuurder het aantal personen bedraagt waarvoor het motorrijtuig is ingericht, tot ten",
+    "inhoud": "${84254}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "84254"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "hoogste € 2.722.681,30 per gebeurtenis.",
+    "inhoud": "${84254}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "84254"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "€ ${84285} ${80049o}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "84285"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiebasis",
+    "inhoud": "De premie is gebaseerd op de navolgende factoren:                                       ${10069}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- Jaarloon €",
+    "inhoud": "${10069} ${84261o}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "-",
+    "inhoud": "${80165} rijrisico's, inclusief handelaarskenteken(s)",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "80165"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Korting voor schadevrij verloop",
+    "inhoud": "${10050}%",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10050"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P315"
+    ],
+    "type": "standaard"
+  }
+]
