@@ -1,0 +1,179 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde(n)",
+    "inhoud": "Naam                Geboortedatum",
+    "maatschappijen": [
+      "E430"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630}               ${10633}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10637} ${10638} ${10636}               ${10639}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10643} ${10644} ${10642}               ${10645}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "10642"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10649} ${10650} ${10648}               ${10651}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "10648"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10655} ${10656} ${10654}               ${10657}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "10654"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10661} ${10662} ${10660}               ${10663}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "10660"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10667} ${10668} ${10666}               ${10669}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "10666"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10673} ${10674} ${10672}               ${10675}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "10672"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10679} ${10680} ${10678}               ${10681}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "10678"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bagage",
+    "inhoud": "${81150o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "81150o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Medische kosten",
+    "inhoud": "${83185o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bijzondere sporten",
+    "inhoud": "${83085o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "83085o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Alarmnummer",
+    "inhoud": "In geval van calamiteiten kunt u contact opnemen met de alarmcentrale",
+    "maatschappijen": [
+      "E430"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "onder telefoonnummer",
+    "inhoud": "+31 ${87024o}.",
+    "maatschappijen": [
+      "E430"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "E430"
+    ],
+    "type": "standaard"
+  }
+]

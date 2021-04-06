@@ -1,0 +1,384 @@
+[
+  {
+    "omschrijving": "Rubriek G",
+    "inhoud": "Pleziervaartuig",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort vaartuig",
+    "inhoud": "${10696o}                            Vaarsnelheid ${80127o}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10696o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10220}                          Bouwjaar     ${10034}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Naam object",
+    "inhoud": "${80110}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80110"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${10697}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zeiloppervlak",
+    "inhoud": "${80114} mý",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80114"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${11465o}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "11465o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gasfles aan boord",
+    "inhoud": "${11464o}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "11464o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiliging",
+    "inhoud": "${80041o}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80041o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80123o}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80123o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort volgboot",
+    "inhoud": "${80123o}                            Vaarsnelheid ${80136o}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80123o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type volgboot",
+    "inhoud": "${10597}                            Bouwjaar     ${80128}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10597"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${80133}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80133"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort motor",
+    "inhoud": "${80129}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80129"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type motor",
+    "inhoud": "${80130}                            Bouwjaar     ${80135}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80130"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort brandstof",
+    "inhoud": "${80134o}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80134o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal Pk's",
+    "inhoud": "${80132}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80132"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10597}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10597"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type trailer",
+    "inhoud": "${80137} ${80138}                          Bouwjaar     ${80140}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80137",
+      "80140"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer trailer",
+    "inhoud": "${80139}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80139"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ligplaats",
+    "inhoud": "${80121}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80121"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Stallingsplaats",
+    "inhoud": "${80122}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80122"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vaarbewijs",
+    "inhoud": "${84352o}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "84352o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico vrijwillig",
+    "inhoud": "€  ${10043} per gebeurtenis",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Afkoop eigen risico",
+    "inhoud": "${11242}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "11242"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Loyaliteitskorting",
+    "inhoud": "${89996}%",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "89996"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  }
+]

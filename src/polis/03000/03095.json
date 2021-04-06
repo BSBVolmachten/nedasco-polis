@@ -1,0 +1,335 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P346",
+      "P300",
+      "P315"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde zaken",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P346",
+      "P300",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "P346",
+      "P300",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80696}",
+    "maatschappijen": [
+      "P346",
+      "P300",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "80696"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80697}",
+    "maatschappijen": [
+      "P346",
+      "P300",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "80697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Tijdens",
+    "inhoud": "${84891}",
+    "maatschappijen": [
+      "P346",
+      "P300",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "84891"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84892}",
+    "maatschappijen": [
+      "P346",
+      "P300",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "84892"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vervoermiddel",
+    "inhoud": "${84863o}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "84863o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vervoermiddel",
+    "inhoud": "${84893}",
+    "maatschappijen": [
+      "P346",
+      "P300"
+    ],
+    "vereiste_labels": [
+      "84893"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84894}",
+    "maatschappijen": [
+      "P346",
+      "P300"
+    ],
+    "vereiste_labels": [
+      "84894"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${83069}",
+    "maatschappijen": [
+      "P346",
+      "P300",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "83069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${84889}",
+    "maatschappijen": [
+      "P346",
+      "P300"
+    ],
+    "vereiste_labels": [
+      "84889"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Transport",
+    "inhoud": "${83057o}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "83057o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84890}",
+    "maatschappijen": [
+      "P346",
+      "P300"
+    ],
+    "vereiste_labels": [
+      "84890"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verblijfsdekking",
+    "inhoud": "${83061o}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "83061o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "maatschappijen": [
+      "P346",
+      "P300",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Omzet",
+    "inhoud": "10078",
+    "maatschappijen": [
+      "P346",
+      "P300",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risicoadres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032} ${10709}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10709"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Promillage",
+    "inhoud": "${10055}",
+    "maatschappijen": [
+      "P346",
+      "P300",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10055"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Imaginaire winst",
+    "inhoud": "${80108o}",
+    "maatschappijen": [
+      "P346",
+      "P300",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "80108o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Oorlogsmolest",
+    "inhoud": "${83059o}",
+    "maatschappijen": [
+      "P346",
+      "P300",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "83059o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Stakersmolest",
+    "inhoud": "${83060o}",
+    "maatschappijen": [
+      "P346",
+      "P300",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "83060o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P346"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "maatschappijen": [
+      "P300",
+      "P315"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80947}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.   ${80947}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  }
+]

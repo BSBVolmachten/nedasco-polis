@@ -1,0 +1,386 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P300",
+      "P302",
+      "P375",
+      "P310",
+      "P311",
+      "P315",
+      "P383",
+      "P376",
+      "P382",
+      "P346"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd object",
+    "inhoud": "${80110}",
+    "maatschappijen": [
+      "P300",
+      "P302",
+      "P375",
+      "P310",
+      "P311",
+      "P315",
+      "P383",
+      "P376",
+      "P382",
+      "P346"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10220}",
+    "maatschappijen": [
+      "P300",
+      "P302",
+      "P375",
+      "P310",
+      "P311",
+      "P315",
+      "P383",
+      "P376",
+      "P382",
+      "P346"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort apparatuur",
+    "inhoud": "${13719o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "13719o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnr./kenteken",
+    "inhoud": "${10697}",
+    "maatschappijen": [
+      "P300",
+      "P302",
+      "P375",
+      "P310",
+      "P311",
+      "P315",
+      "P376",
+      "P346"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${10697}",
+    "maatschappijen": [
+      "P383",
+      "P382"
+    ],
+    "vereiste_labels": [
+      "10697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "P300",
+      "P302",
+      "P375",
+      "P310",
+      "P311",
+      "P315",
+      "P383",
+      "P376",
+      "P382",
+      "P346"
+    ],
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${10033}",
+    "maatschappijen": [
+      "P383",
+      "P382"
+    ],
+    "vereiste_labels": [
+      "10033"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gewicht",
+    "inhoud": "${10038} kg",
+    "maatschappijen": [
+      "P300",
+      "P311",
+      "P383",
+      "P382",
+      "P346"
+    ],
+    "vereiste_labels": [
+      "10038"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80044} per gebeurtenis voor Wettelijke Aansprakelijkheid Rubriek ${84934o}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hefvermogen",
+    "inhoud": "${13495} kg",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "13495"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verhuur",
+    "inhoud": "${84864o}",
+    "maatschappijen": [
+      "P300",
+      "P346"
+    ],
+    "vereiste_labels": [
+      "84864o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043}  ${10044o}",
+    "maatschappijen": [
+      "P382"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80044}  per gebeurtenis voor Wettelijke Aansprakelijkheid (WAM)",
+    "maatschappijen": [
+      "P383"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80045} per gebeurtenis voor Wettelijke Aansprakelijkheid (WAM)",
+    "maatschappijen": [
+      "P300",
+      "P346"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${11721} per gebeurtenis voor Wettelijke Aansprakelijkheid (WAM)",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "11721"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80044} per gebeurtenis voor Wettelijke Aansprakelijkheid (WAM)",
+    "maatschappijen": [
+      "P302",
+      "P375",
+      "P310",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80045}  per gebeurtenis voor Schade aan eigen zaken",
+    "maatschappijen": [
+      "P383"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico casco",
+    "inhoud": "€ ${10043} per gebeurtenis",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico casco",
+    "inhoud": "€ ${10043} per gebeurtenis voor Casco",
+    "maatschappijen": [
+      "P346"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P300",
+      "P302",
+      "P375",
+      "P310",
+      "P311",
+      "P315",
+      "P383",
+      "P376",
+      "P382",
+      "P346"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043}  per gebeurtenis voor Casco",
+    "maatschappijen": [
+      "P383"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80044} per gebeurtenis voor Kabelschade",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80045} per gebeurtenis voor Schade aan eigen zaken",
+    "maatschappijen": [
+      "P302",
+      "P375",
+      "P310",
+      "P315",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} per gebeurtenis voor Casco",
+    "maatschappijen": [
+      "P302",
+      "P375",
+      "P310",
+      "P311",
+      "P315",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gevaarlijke stoffen",
+    "inhoud": "${83040o}",
+    "maatschappijen": [
+      "P300",
+      "P311",
+      "P383",
+      "P382",
+      "P346"
+    ],
+    "vereiste_labels": [
+      "83040o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                     Verzekerd bedrag",
+    "maatschappijen": [
+      "P311"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "maatschappijen": [
+      "P300",
+      "P302",
+      "P375",
+      "P310",
+      "P315",
+      "P383",
+      "P376",
+      "P382"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P346"
+    ],
+    "type": "standaard"
+  }
+]

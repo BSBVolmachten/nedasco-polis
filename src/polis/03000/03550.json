@@ -1,0 +1,210 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P356",
+      "P368"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P356",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "maatschappijen": [
+      "P356",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde objecten",
+    "inhoud": "Merk   Nummer Aankoopdatum Aankoopprijs                   ${10040}",
+    "maatschappijen": [
+      "P368"
+    ],
+    "vereiste_labels": [
+      "10040"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde objecten",
+    "inhoud": "Omschrijving Merk  Nummer Aankoopdatum Aankoopprijs                   ${10040}",
+    "maatschappijen": [
+      "P356"
+    ],
+    "vereiste_labels": [
+      "10040"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "1.",
+    "inhoud": "${84133}            ${83064}     ${83074}      ${84375}            € ${10241}",
+    "maatschappijen": [
+      "P356"
+    ],
+    "vereiste_labels": [
+      "10241"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "1.",
+    "inhoud": "${84133}                ${83064}      ${83074}      ${84375}            € ${10241}",
+    "maatschappijen": [
+      "P368"
+    ],
+    "vereiste_labels": [
+      "10241"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "2.",
+    "inhoud": "${84134}            ${83065}     ${83075}      ${84376}            € ${10242}",
+    "maatschappijen": [
+      "P356"
+    ],
+    "vereiste_labels": [
+      "10242"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "2.",
+    "inhoud": "${84134}                ${83065}      ${83075}      ${84376}            € ${10242}",
+    "maatschappijen": [
+      "P368"
+    ],
+    "vereiste_labels": [
+      "10242"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "3.",
+    "inhoud": "${84135}            ${83066}     ${83076}      ${84377}            € ${10243}",
+    "maatschappijen": [
+      "P356"
+    ],
+    "vereiste_labels": [
+      "10243"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "3.",
+    "inhoud": "${84135}                ${83066}      ${83076}      ${84377}            € ${10243}",
+    "maatschappijen": [
+      "P368"
+    ],
+    "vereiste_labels": [
+      "10243"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "4.",
+    "inhoud": "${84136}            ${83067}     ${80139}      ${84378}            € ${10244}",
+    "maatschappijen": [
+      "P356"
+    ],
+    "vereiste_labels": [
+      "10244"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "4.",
+    "inhoud": "${84136}                ${83067}      ${80139}      ${84378}            € ${10244}",
+    "maatschappijen": [
+      "P368"
+    ],
+    "vereiste_labels": [
+      "10244"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "5.",
+    "inhoud": "${84137}            ${83068}     ${87014}      ${87016}            € ${80371}",
+    "maatschappijen": [
+      "P356"
+    ],
+    "vereiste_labels": [
+      "80371"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "5.",
+    "inhoud": "${84137}                ${83068}      ${87014}      ${87016}            € ${80371}",
+    "maatschappijen": [
+      "P368"
+    ],
+    "vereiste_labels": [
+      "80371"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "6.",
+    "inhoud": "${87013}            ${84910}     ${87015}      ${87017}            € ${80373}",
+    "maatschappijen": [
+      "P356"
+    ],
+    "vereiste_labels": [
+      "80373"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "6.",
+    "inhoud": "${87013}                ${84910}      ${87015}      ${87017}            € ${80373}",
+    "maatschappijen": [
+      "P368"
+    ],
+    "vereiste_labels": [
+      "80373"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10040}",
+    "maatschappijen": [
+      "P356",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "10040"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P356",
+      "P368"
+    ],
+    "type": "standaard"
+  }
+]

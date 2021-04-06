@@ -1,0 +1,38 @@
+[
+  {
+    "omschrijving": "Rubriek",
+    "inhoud": "Goederentransport (K)",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vervoermiddel",
+    "inhoud": "${10079o} met kenteken ${10033}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10079o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanhanger",
+    "inhoud": "met chassisnummer ${10697}                                              ${80712c}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80712c"
+    ],
+    "type": "standaard"
+  }
+]

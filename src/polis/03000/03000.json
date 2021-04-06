@@ -1,0 +1,1914 @@
+[
+  {
+    "omschrijving": "Rubriek F",
+    "inhoud": "Doorlopende Reisverzekering",
+    "maatschappijen": [
+      "03850"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P346",
+      "03000",
+      "P311",
+      "03015",
+      "P300",
+      "03025",
+      "03020",
+      "03060",
+      "03080",
+      "03095",
+      "03120",
+      "03200",
+      "03300",
+      "03410",
+      "03420",
+      "03440",
+      "03465",
+      "03600"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Doorlopende Vakantiereis ${11248o}",
+    "maatschappijen": [
+      "03405"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Huwelijksdag",
+    "maatschappijen": [
+      "03500"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Huwelijksdag",
+    "inhoud": "${84375}",
+    "maatschappijen": [
+      "03500"
+    ],
+    "vereiste_labels": [
+      "84375"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220} ${10221o}",
+    "maatschappijen": [
+      "03000",
+      "P311",
+      "P300",
+      "03025",
+      "03080",
+      "03300"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort vaartuig",
+    "inhoud": "${10696o}                            Vaarsnelheid ${80127o}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "10696o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort vervoermiddel",
+    "inhoud": "${10079o}",
+    "maatschappijen": [
+      "03025"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd is",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "03015"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd object",
+    "inhoud": "${80110}",
+    "maatschappijen": [
+      "03020",
+      "03120"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde zaken",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P346",
+      "03000",
+      "P311",
+      "P300",
+      "03025",
+      "03095",
+      "03300"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde(n)",
+    "inhoud": "Naam                                   Geboortedatum     ${10630}",
+    "maatschappijen": [
+      "03405"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde(n)",
+    "inhoud": "Naam                Geboortedatum",
+    "maatschappijen": [
+      "03410",
+      "03420"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "${84308o}",
+    "maatschappijen": [
+      "03440"
+    ],
+    "vereiste_labels": [
+      "84308o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630}                                  ${10633}",
+    "maatschappijen": [
+      "03405",
+      "03410",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "P346",
+      "03000",
+      "P311",
+      "03015",
+      "P300",
+      "03025",
+      "03095",
+      "03300"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${10033}",
+    "maatschappijen": [
+      "03465"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Lokatie Naam",
+    "inhoud": "${86281}",
+    "maatschappijen": [
+      "03500"
+    ],
+    "vereiste_labels": [
+      "86281"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Maximale reisduur",
+    "inhoud": "${86441o}",
+    "maatschappijen": [
+      "03850"
+    ],
+    "vereiste_labels": [
+      "86441o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10220}                          Bouwjaar     ${10034}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10220}",
+    "maatschappijen": [
+      "03020",
+      "03060",
+      "03120",
+      "03465"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Naam object",
+    "inhoud": "${80110}",
+    "maatschappijen": [
+      "03000",
+      "P311",
+      "P300",
+      "03060",
+      "03080",
+      "03200",
+      "03300"
+    ],
+    "vereiste_labels": [
+      "80110"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd paard",
+    "inhoud": "${84133}",
+    "maatschappijen": [
+      "03600"
+    ],
+    "vereiste_labels": [
+      "84133"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10637} ${10638} ${10636}                                  ${10639}",
+    "maatschappijen": [
+      "03405",
+      "03410",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80696}",
+    "maatschappijen": [
+      "P346",
+      "03000",
+      "P311",
+      "03015",
+      "P300",
+      "03025",
+      "03095",
+      "03300"
+    ],
+    "vereiste_labels": [
+      "80696"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Adres",
+    "inhoud": "${86282} ${86283} ${86284}",
+    "maatschappijen": [
+      "03500"
+    ],
+    "vereiste_labels": [
+      "86282"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnr./kenteken",
+    "inhoud": "${10697}",
+    "maatschappijen": [
+      "03120"
+    ],
+    "vereiste_labels": [
+      "10697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${10697}",
+    "maatschappijen": [
+      "03020",
+      "03060",
+      "03200"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geboortedatum",
+    "inhoud": "${84375}",
+    "maatschappijen": [
+      "03600"
+    ],
+    "vereiste_labels": [
+      "84375"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Rubriek Zakenreis",
+    "inhoud": "${84179o}",
+    "maatschappijen": [
+      "03850"
+    ],
+    "vereiste_labels": [
+      "84179o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Samengestelde reis",
+    "inhoud": "${86138o}",
+    "maatschappijen": [
+      "03440"
+    ],
+    "vereiste_labels": [
+      "86138o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vervoersgelegenheid",
+    "inhoud": "${84863o}",
+    "maatschappijen": [
+      "03000",
+      "P311",
+      "P300",
+      "03025"
+    ],
+    "vereiste_labels": [
+      "84863o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10643} ${10644} ${10642}                                  ${10645}",
+    "maatschappijen": [
+      "03405",
+      "03410",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "10642"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80697}",
+    "maatschappijen": [
+      "P346",
+      "03000",
+      "P311",
+      "03015",
+      "P300",
+      "03025",
+      "03095",
+      "03300"
+    ],
+    "vereiste_labels": [
+      "80697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verz. personen",
+    "inhoud": "${86296o}",
+    "maatschappijen": [
+      "03440"
+    ],
+    "vereiste_labels": [
+      "86296o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ligplaats",
+    "inhoud": "${80121}",
+    "maatschappijen": [
+      "03080",
+      "03200"
+    ],
+    "vereiste_labels": [
+      "80121"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Postcode/Woonplaats",
+    "inhoud": "${86285} ${86286}",
+    "maatschappijen": [
+      "03500"
+    ],
+    "vereiste_labels": [
+      "86286"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort pakket",
+    "inhoud": "${86432o}",
+    "maatschappijen": [
+      "03465"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10649} ${10650} ${10648}                                  ${10651}",
+    "maatschappijen": [
+      "03405",
+      "03410",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "10648"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal PK's",
+    "inhoud": "${80126}",
+    "maatschappijen": [
+      "03060",
+      "03200"
+    ],
+    "vereiste_labels": [
+      "80126"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "03000",
+      "P311",
+      "P300",
+      "03025",
+      "03020",
+      "03060",
+      "03080",
+      "03120",
+      "03300",
+      "03465"
+    ],
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Getuigen meeverzekerd?",
+    "inhoud": "${12881}",
+    "maatschappijen": [
+      "03500"
+    ],
+    "vereiste_labels": [
+      "12881"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gewicht",
+    "inhoud": "${10038} kg",
+    "maatschappijen": [
+      "03020",
+      "03120"
+    ],
+    "vereiste_labels": [
+      "10038"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Harnachement",
+    "inhoud": "${84134}",
+    "maatschappijen": [
+      "03600"
+    ],
+    "vereiste_labels": [
+      "84134"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Loyaliteitskorting",
+    "inhoud": "${89996}%",
+    "maatschappijen": [
+      "03850"
+    ],
+    "vereiste_labels": [
+      "89996"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Tijdens",
+    "inhoud": "${84891}",
+    "maatschappijen": [
+      "P346",
+      "P311",
+      "P300",
+      "03095"
+    ],
+    "vereiste_labels": [
+      "84891"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zeilnummer",
+    "inhoud": "${80115}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "80115"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10655} ${10656} ${10654}                                  ${10657}",
+    "maatschappijen": [
+      "03405",
+      "03410",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "10654"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84892}",
+    "maatschappijen": [
+      "P346",
+      "P311",
+      "P300",
+      "03095"
+    ],
+    "vereiste_labels": [
+      "84892"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043}  ${10044o}",
+    "maatschappijen": [
+      "03120"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ligplaats",
+    "inhoud": "${80121} ${10710} ${10711}",
+    "maatschappijen": [
+      "03060"
+    ],
+    "vereiste_labels": [
+      "80121"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk/type trailer",
+    "inhoud": "${80137}",
+    "maatschappijen": [
+      "03600"
+    ],
+    "vereiste_labels": [
+      "80137"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort motor",
+    "inhoud": "${10599o}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "10599o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort vaartuig",
+    "inhoud": "${10696o}",
+    "maatschappijen": [
+      "03000",
+      "03300"
+    ],
+    "vereiste_labels": [
+      "10696o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vervoersgelegenheid",
+    "inhoud": "${84893}",
+    "maatschappijen": [
+      "03015"
+    ],
+    "vereiste_labels": [
+      "84893"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032}  ${10709}",
+    "maatschappijen": [
+      "03060",
+      "03095"
+    ],
+    "vereiste_labels": [
+      "10709"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10661} ${10662} ${10660}                                  ${10663}",
+    "maatschappijen": [
+      "03405",
+      "03410",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "10660"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "onder telefoonnummer",
+    "inhoud": "+31 (0)20 851 22 94.",
+    "maatschappijen": [
+      "03465"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type motor",
+    "inhoud": "${80124} ${80125}                          Bouwjaar     ${80145}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "80145"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort vervoer",
+    "inhoud": "${80070o}",
+    "maatschappijen": [
+      "03000",
+      "03025",
+      "03300"
+    ],
+    "vereiste_labels": [
+      "80070o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vervoermiddel",
+    "inhoud": "${84863o}",
+    "maatschappijen": [
+      "03095"
+    ],
+    "vereiste_labels": [
+      "84863o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vervoermiddel",
+    "inhoud": "${84893}",
+    "maatschappijen": [
+      "P346",
+      "P311",
+      "P300"
+    ],
+    "vereiste_labels": [
+      "84893"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "03300"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10667} ${10668} ${10666}                                  ${10669}",
+    "maatschappijen": [
+      "03405",
+      "03410"
+    ],
+    "vereiste_labels": [
+      "10666"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10713o}",
+    "maatschappijen": [
+      "03060"
+    ],
+    "vereiste_labels": [
+      "10713o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84894}",
+    "maatschappijen": [
+      "P346",
+      "P311",
+      "03015",
+      "P300"
+    ],
+    "vereiste_labels": [
+      "84894"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "03000",
+      "P311",
+      "03015",
+      "P300",
+      "03025",
+      "03020",
+      "03095",
+      "03120",
+      "03200",
+      "03300",
+      "03405",
+      "03410",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${84214o}",
+    "maatschappijen": [
+      "03025"
+    ],
+    "vereiste_labels": [
+      "84214o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gevaarlijke stoffen",
+    "inhoud": "${83040o}",
+    "maatschappijen": [
+      "03020",
+      "03120"
+    ],
+    "vereiste_labels": [
+      "83040o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort brandstof",
+    "inhoud": "${80071o}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "80071o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10673} ${10674} ${10672}                                  ${10675}",
+    "maatschappijen": [
+      "03405",
+      "03410"
+    ],
+    "vereiste_labels": [
+      "10672"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal medewerkers",
+    "inhoud": "${12409}",
+    "maatschappijen": [
+      "03025"
+    ],
+    "vereiste_labels": [
+      "12409"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard",
+    "inhoud": "${10082o}",
+    "maatschappijen": [
+      "03060",
+      "03080"
+    ],
+    "vereiste_labels": [
+      "10082o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${83069}",
+    "maatschappijen": [
+      "P346",
+      "03000",
+      "P311",
+      "P300",
+      "03025",
+      "03095"
+    ],
+    "vereiste_labels": [
+      "83069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Motornummer",
+    "inhoud": "${80216}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "80216"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vervoerscondities",
+    "inhoud": "${80118o}",
+    "maatschappijen": [
+      "03015"
+    ],
+    "vereiste_labels": [
+      "80118o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "${83216o}",
+    "maatschappijen": [
+      "03420"
+    ],
+    "vereiste_labels": [
+      "83216o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10679} ${10680} ${10678}                                  ${10681}",
+    "maatschappijen": [
+      "03405",
+      "03410"
+    ],
+    "vereiste_labels": [
+      "10678"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal motorrijtuigen",
+    "inhoud": "${12307}",
+    "maatschappijen": [
+      "03025",
+      "03405"
+    ],
+    "vereiste_labels": [
+      "12307"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard dak",
+    "inhoud": "${10685o}",
+    "maatschappijen": [
+      "03060",
+      "03080"
+    ],
+    "vereiste_labels": [
+      "10685o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bruto tonnage",
+    "inhoud": "${80117}",
+    "maatschappijen": [
+      "03015"
+    ],
+    "vereiste_labels": [
+      "80117"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${84889}",
+    "maatschappijen": [
+      "P346",
+      "P311",
+      "P300"
+    ],
+    "vereiste_labels": [
+      "84889"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Transport",
+    "inhoud": "${83057o}",
+    "maatschappijen": [
+      "03095"
+    ],
+    "vereiste_labels": [
+      "83057o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "03850"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80123o}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "80123o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10694c}",
+    "maatschappijen": [
+      "03405"
+    ],
+    "vereiste_labels": [
+      "10694c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84890}",
+    "maatschappijen": [
+      "P346",
+      "P311",
+      "P300"
+    ],
+    "vereiste_labels": [
+      "84890"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${10081o}",
+    "maatschappijen": [
+      "03060",
+      "03080"
+    ],
+    "vereiste_labels": [
+      "10081o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiligingsklasse",
+    "inhoud": "${11236o}",
+    "maatschappijen": [
+      "03025"
+    ],
+    "vereiste_labels": [
+      "11236o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Preventie",
+    "inhoud": "${80041o}",
+    "maatschappijen": [
+      "03015"
+    ],
+    "vereiste_labels": [
+      "80041o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verblijfsdekking",
+    "inhoud": "${83061o}",
+    "maatschappijen": [
+      "03095"
+    ],
+    "vereiste_labels": [
+      "83061o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "maatschappijen": [
+      "P346",
+      "03000",
+      "P311",
+      "P300",
+      "03025",
+      "03020",
+      "03060",
+      "03080",
+      "03095",
+      "03300",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "03405",
+      "03850"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort volgboot",
+    "inhoud": "${80123o}                            Vaarsnelheid ${80136o}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "80123o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubriek",
+    "inhoud": "${83216o}",
+    "maatschappijen": [
+      "03410"
+    ],
+    "vereiste_labels": [
+      "83216o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${82500c}",
+    "maatschappijen": [
+      "03025"
+    ],
+    "vereiste_labels": [
+      "82500c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekking",
+    "inhoud": "${84303o}",
+    "maatschappijen": [
+      "03410"
+    ],
+    "vereiste_labels": [
+      "84303o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} per gebeurtenis voor vervoer onder A.V.C. condities",
+    "maatschappijen": [
+      "03015"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type volgboot",
+    "inhoud": "${10597}                            Bouwjaar     ${80128}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "10597"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aard goederen",
+    "inhoud": "${82500o}",
+    "maatschappijen": [
+      "03025"
+    ],
+    "vereiste_labels": [
+      "82500o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${80133}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "80133"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekking",
+    "inhoud": "Basisdekking                           meeverzekerd",
+    "maatschappijen": [
+      "03405"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80044} per gebeurtenis voor vervoer onder C.M.R. condities",
+    "maatschappijen": [
+      "03015"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Omzet",
+    "inhoud": "10078",
+    "maatschappijen": [
+      "P346",
+      "P311",
+      "P300",
+      "03095"
+    ],
+    "vereiste_labels": [
+      "10078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risicoadres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "03095"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verblijfsduur",
+    "inhoud": "max. 180 dagen${84304c}",
+    "maatschappijen": [
+      "03410"
+    ],
+    "vereiste_labels": [
+      "84304c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80947}",
+    "maatschappijen": [
+      "03000",
+      "P311",
+      "03015",
+      "P300",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${82501o}",
+    "maatschappijen": [
+      "03025"
+    ],
+    "vereiste_labels": [
+      "82501o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Maximale reisduur (per reis)",
+    "inhoud": "${11497} dagen",
+    "maatschappijen": [
+      "03405"
+    ],
+    "vereiste_labels": [
+      "11497"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80045} per aanspraak voor vervoer onder A.V.K. condities",
+    "maatschappijen": [
+      "03015"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Maximale verblijfsduur",
+    "inhoud": "${83098o}",
+    "maatschappijen": [
+      "03410",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "83098o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Promillage",
+    "inhoud": "${10055}",
+    "maatschappijen": [
+      "P346",
+      "P311",
+      "P300",
+      "03095"
+    ],
+    "vereiste_labels": [
+      "10055"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort motor",
+    "inhoud": "${80129}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "80129"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${82502o}",
+    "maatschappijen": [
+      "03025"
+    ],
+    "vereiste_labels": [
+      "82502o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Automobilistenhulp",
+    "inhoud": "${11501}",
+    "maatschappijen": [
+      "03405"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.    ${80947}",
+    "maatschappijen": [
+      "03000",
+      "03015"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Imaginaire winst",
+    "inhoud": "${80108o}",
+    "maatschappijen": [
+      "P346",
+      "P311",
+      "P300",
+      "03095"
+    ],
+    "vereiste_labels": [
+      "80108o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type motor",
+    "inhoud": "${80130}                            Bouwjaar     ${80135}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "80130"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Oorlogsmolest",
+    "inhoud": "${83059o}",
+    "maatschappijen": [
+      "P346",
+      "P311",
+      "P300",
+      "03095"
+    ],
+    "vereiste_labels": [
+      "83059o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort brandstof",
+    "inhoud": "${80134o}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "80134o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "SOS/transportkosten",
+    "inhoud": "${83083o}",
+    "maatschappijen": [
+      "03410",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "83083o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Winter-/bijzondere sporten",
+    "inhoud": "${11512}",
+    "maatschappijen": [
+      "03405"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Motornummer",
+    "inhoud": "${84334}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "84334"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Personal Service",
+    "inhoud": "${83088o}",
+    "maatschappijen": [
+      "03410",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "83088o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Stakersmolest",
+    "inhoud": "${83060o}",
+    "maatschappijen": [
+      "P346",
+      "P311",
+      "P300",
+      "03095"
+    ],
+    "vereiste_labels": [
+      "83060o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Annulering",
+    "inhoud": "${80214o}                           ${11505}",
+    "maatschappijen": [
+      "03405"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal Pk's",
+    "inhoud": "${80132}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "80132"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ongevallen",
+    "inhoud": "${83090o}",
+    "maatschappijen": [
+      "03410",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "83090o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10597}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "10597"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- reissom/verzekerd bedrag",
+    "inhoud": "10039",
+    "maatschappijen": [
+      "03405"
+    ],
+    "vereiste_labels": [
+      "10039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Reisbagage",
+    "inhoud": "${83089o}",
+    "maatschappijen": [
+      "03410",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "83089o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "maatschappijen": [
+      "P346",
+      "03000",
+      "03025",
+      "03020",
+      "03060",
+      "03080",
+      "03095",
+      "03120",
+      "03440",
+      "03500",
+      "03600"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- maximum per jaar",
+    "inhoud": "10611",
+    "maatschappijen": [
+      "03405"
+    ],
+    "vereiste_labels": [
+      "10611"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Medische kosten",
+    "inhoud": "${83082o}",
+    "maatschappijen": [
+      "03410",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "83082o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type trailer",
+    "inhoud": "${80137} ${80138}                          Bouwjaar     ${80140}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "80137",
+      "80140"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Zie voor een volledig overzicht van de verzekerde bedragen per",
+    "maatschappijen": [
+      "03405"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Autohulp",
+    "inhoud": "${83091o}",
+    "maatschappijen": [
+      "03410",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "83091o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer trailer",
+    "inhoud": "${80139}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "80139"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "onderdeel/rubriek de polisvoorwaarden.",
+    "maatschappijen": [
+      "03405"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geld en cheques",
+    "inhoud": "${83102o}",
+    "maatschappijen": [
+      "03410",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "83102o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Annulering",
+    "inhoud": "${83092o}",
+    "maatschappijen": [
+      "03410",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "83092o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.   ${80947}",
+    "maatschappijen": [
+      "P311",
+      "P300",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Stallingsplaats",
+    "inhoud": "${80122}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "80122"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zaakwaarnemer",
+    "inhoud": "${83093o}",
+    "maatschappijen": [
+      "03410",
+      "03420",
+      "03440"
+    ],
+    "vereiste_labels": [
+      "83093o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geldigheid",
+    "inhoud": "${83098o}",
+    "maatschappijen": [
+      "03405"
+    ],
+    "vereiste_labels": [
+      "83098o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Rechtsbijstand",
+    "inhoud": "${84797o}",
+    "maatschappijen": [
+      "03410"
+    ],
+    "vereiste_labels": [
+      "84797o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "No-claim",
+    "inhoud": "Trede ${10046} = ${10050} %",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "10046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P311",
+      "03015",
+      "P300",
+      "03200",
+      "03300"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Wintersport",
+    "inhoud": "${83086o}",
+    "maatschappijen": [
+      "03410",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "83086o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Alarmnummer",
+    "inhoud": "In geval van calamiteiten kunt u contact opnemen met de alarmcentrale",
+    "maatschappijen": [
+      "03405",
+      "03410",
+      "03420",
+      "03465",
+      "03850"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€  ${10043} per gebeurtenis",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Onderwatersport",
+    "inhoud": "${83084o}",
+    "maatschappijen": [
+      "03410",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "83084o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "onder telefoonnummer",
+    "inhoud": "+31 ${87024o}.",
+    "maatschappijen": [
+      "03405",
+      "03410",
+      "03420",
+      "03850"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bijzondere sporten",
+    "inhoud": "${83085o}",
+    "maatschappijen": [
+      "03410",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "83085o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico vrijwillig",
+    "inhoud": "€  ${80045}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico trailer",
+    "inhoud": "€  ${80044}",
+    "maatschappijen": [
+      "03200"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nederlanddekking recreatie-object",
+    "inhoud": "${83087o}",
+    "maatschappijen": [
+      "03410"
+    ],
+    "vereiste_labels": [
+      "83087o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zakenreis",
+    "inhoud": "${84179o}",
+    "maatschappijen": [
+      "03410",
+      "03420"
+    ],
+    "vereiste_labels": [
+      "84179o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Golfverzekering",
+    "inhoud": "€ ${84306o} als maximum verzekerd bedrag",
+    "maatschappijen": [
+      "03410"
+    ],
+    "vereiste_labels": [
+      "84306o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "03420"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": " € ${10043} ${10044o}",
+    "maatschappijen": [
+      "03410"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "03410"
+    ],
+    "type": "standaard"
+  }
+]

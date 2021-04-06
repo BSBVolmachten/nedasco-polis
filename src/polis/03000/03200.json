@@ -1,0 +1,1082 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort vaartuig",
+    "inhoud": "${10696o}                            Vaarsnelheid ${80127o}",
+    "maatschappijen": [
+      "P302",
+      "P310",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10696o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort vaartuig",
+    "inhoud": "${10696o}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10696o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gesloten kajuit",
+    "inhoud": "${11466}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "11466"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10220}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10220}                          Bouwjaar     ${10034}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P372"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Naam object",
+    "inhoud": "${80110}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80110"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${10697}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zeilnummer",
+    "inhoud": "${80115}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P308",
+      "P313",
+      "P353",
+      "P356",
+      "P368",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80115"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hinnummer",
+    "inhoud": "${11467}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "11467"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort motor",
+    "inhoud": "${10599o}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10599o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Lengte",
+    "inhoud": "${80111}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "80111"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type motor",
+    "inhoud": "${80124} ${80125}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type motor",
+    "inhoud": "${80124} ${80125}                          Bouwjaar     ${80145}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "80145"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort brandstof",
+    "inhoud": "${80071o}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80071o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Motornummer",
+    "inhoud": "${80216}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80216"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal kW's",
+    "inhoud": "${80126}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80126"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal Pk's",
+    "inhoud": "${80126}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "80126"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag",
+    "inhoud": "10041",
+    "maatschappijen": [
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10041"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag",
+    "inhoud": "10242",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10242"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag",
+    "inhoud": "${99994} ${10242}",
+    "maatschappijen": [
+      "P356",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "10242"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80123o}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80123o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort volgboot",
+    "inhoud": "${80123o}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80123o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Taxatierapport",
+    "inhoud": "11234",
+    "maatschappijen": [
+      "P372"
+    ],
+    "vereiste_labels": [
+      "11234"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aankoopbedrag",
+    "inhoud": "11700",
+    "maatschappijen": [
+      "P372"
+    ],
+    "vereiste_labels": [
+      "11700"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort volgboot",
+    "inhoud": "${80123o}                            Vaarsnelheid ${80136o}",
+    "maatschappijen": [
+      "P302",
+      "P310",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80123o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aankoopgarantie",
+    "inhoud": "${12353} jaar",
+    "maatschappijen": [
+      "P372"
+    ],
+    "vereiste_labels": [
+      "12353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type volgboot",
+    "inhoud": "${10597}                            Bouwjaar     ${80128}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10597"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${80133}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80133"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort motor volgboot",
+    "inhoud": "${80129}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80129"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk/type motor volgboot",
+    "inhoud": "${80130}                            Bouwjaar     ${80135}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80130"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort motor",
+    "inhoud": "${80129}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "80129"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag volgboot",
+    "inhoud": "${99994} ${80141}",
+    "maatschappijen": [
+      "P356",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "80141"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type motor",
+    "inhoud": "${80130}                            Bouwjaar     ${80135}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "80130"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort brandstof",
+    "inhoud": "${80134o}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80134o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal kW's",
+    "inhoud": "${80132}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80132"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Motornummer",
+    "inhoud": "${84334}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "84334"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal Pk's",
+    "inhoud": "${80132}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "80132"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag",
+    "inhoud": "80141",
+    "maatschappijen": [
+      "P302",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "80141"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10597}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10597"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type trailer",
+    "inhoud": "${80137} ${80138}                          Bouwjaar     ${80140}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80137",
+      "80140"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag",
+    "inhoud": "${99994} ${10243}",
+    "maatschappijen": [
+      "P356",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "10243"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag trailer",
+    "inhoud": "80142",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "80142"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer trailer",
+    "inhoud": "${80139}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80139"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag",
+    "inhoud": "80142",
+    "maatschappijen": [
+      "P302",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "80142"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${80229o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80229o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vaargebied",
+    "inhoud": "${84812o}",
+    "maatschappijen": [
+      "P308"
+    ],
+    "vereiste_labels": [
+      "84812o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${86254o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86254o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ligplaats",
+    "inhoud": "${80121}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80121"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag",
+    "inhoud": "${99994} ${80142}",
+    "maatschappijen": [
+      "P356",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "80142"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "maatschappijen": [
+      "P308"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Schadevrije jaren",
+    "inhoud": "${10049}",
+    "maatschappijen": [
+      "P306",
+      "P315"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Stallingsplaats",
+    "inhoud": "${80122}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80122"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "${84823o}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "84823o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico standaard",
+    "inhoud": "€  ${80046}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "80046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico vrijwillig",
+    "inhoud": "80045",
+    "maatschappijen": [
+      "P308"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "met een minimum van €",
+    "inhoud": "${10043}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico trailer",
+    "inhoud": "€  ${80044}",
+    "maatschappijen": [
+      "P310",
+      "P313",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico trailer",
+    "inhoud": "80044",
+    "maatschappijen": [
+      "P308"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "No-claim",
+    "inhoud": "Trede ${10046} = ${10050} %",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P356",
+      "P368",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€  ${10043} per gebeurtenis",
+    "maatschappijen": [
+      "P302",
+      "P310",
+      "P315",
+      "P353",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico totaal",
+    "inhoud": "€  ${10043} per gebeurtenis",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico vrijwillig",
+    "inhoud": "€  ${80045}",
+    "maatschappijen": [
+      "P302",
+      "P310",
+      "P313",
+      "P315",
+      "P375",
+      "P372",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P306",
+      "P310",
+      "P308",
+      "P313",
+      "P315",
+      "P353",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": " ${99994} ${10043} ${10044o}",
+    "maatschappijen": [
+      "P356",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico trailer",
+    "inhoud": " €  ${80044}",
+    "maatschappijen": [
+      "P302",
+      "P315"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "No-claim",
+    "inhoud": " Trede ${10046} = ${10050} %",
+    "maatschappijen": [
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "Zie voorwaarden",
+    "maatschappijen": [
+      "P372"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                    Verzekerd bedrag",
+    "maatschappijen": [
+      "P356",
+      "P368"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken / artikelen",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken / artikelen",
+    "inhoud": "",
+    "maatschappijen": [
+      "P372"
+    ],
+    "type": "standaard"
+  }
+]

@@ -1,0 +1,399 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P315",
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort evenement",
+    "inhoud": "${80467}",
+    "maatschappijen": [
+      "P315",
+      "P313"
+    ],
+    "vereiste_labels": [
+      "80467"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Begindatum",
+    "inhoud": "${84375}",
+    "maatschappijen": [
+      "P315",
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84375"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Einddatum",
+    "inhoud": "${84376}",
+    "maatschappijen": [
+      "P315",
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal dagen",
+    "inhoud": "${80165}",
+    "maatschappijen": [
+      "P315",
+      "P313"
+    ],
+    "vereiste_labels": [
+      "80165"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal personen",
+    "inhoud": "${80167}",
+    "maatschappijen": [
+      "P315",
+      "P313"
+    ],
+    "vereiste_labels": [
+      "80167"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kostenbudget",
+    "inhoud": "10241",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10241"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Lokatie",
+    "inhoud": "${86281}",
+    "maatschappijen": [
+      "P315",
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86281"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86282} ${86283} ${86284}",
+    "maatschappijen": [
+      "P315",
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86282"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86285} ${86286}",
+    "maatschappijen": [
+      "P315",
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86285"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "Verzekerd bedrag",
+    "maatschappijen": [
+      "P315"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Verzekerde rubriek(en)",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Niet doorgaan evenement",
+    "inhoud": "10242",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10242"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10242}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10242"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Niet verschijnen verzekerde pers.",
+    "inhoud": "Naam                Geboortedatum                   ${10630}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630}               ${10633}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10637} ${10638} ${10636}               ${10639}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10643} ${10644} ${10642}               ${10645}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10642"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10630}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Regen",
+    "inhoud": "${84783}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84783"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "datum",
+    "inhoud": "${84377}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84377"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "aantal dagen",
+    "inhoud": "${80169}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "80169"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "tijdvak",
+    "inhoud": "van ${86313} tot ${86314} uur",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86313",
+      "86314"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "aantal milimeters",
+    "inhoud": "${84783}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84783"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84783}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84783"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ongevallen",
+    "inhoud": "${84784}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84784"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "aantal personen",
+    "inhoud": "${84784}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84784"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "verzekerd bedrag",
+    "inhoud": "Overlijden   € ${11592}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "11592"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Invaliditeit",
+    "inhoud": "84885",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84885"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84784}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84784"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Objectverzekeringen",
+    "inhoud": "                                                                          ${10243}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10243"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "omschrijving",
+    "inhoud": " ${80469}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "80469"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84335}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84335"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "verzekerd bedrag",
+    "inhoud": "10243",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10243"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10243}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10243"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aansprakelijkheid",
+    "inhoud": "${86316o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86316o"
+    ],
+    "type": "standaard"
+  }
+]

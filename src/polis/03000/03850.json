@@ -1,0 +1,89 @@
+[
+  {
+    "omschrijving": "Rubriek F",
+    "inhoud": "Vakantie-jaarverzekering",
+    "maatschappijen": [
+      "P374"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Maximale reisduur",
+    "inhoud": "${11497} dagen",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "11497"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zakenreis",
+    "inhoud": "${11797}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "11797"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Afkoop eigen risico",
+    "inhoud": "${11242}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "11242"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vrijwillig eigen risico",
+    "inhoud": "${11450}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "11450"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Alarmnummer",
+    "inhoud": "In geval van calamiteiten kunt u contact opnemen met de alarmcentrale",
+    "maatschappijen": [
+      "P374"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "onder telefoonnummer",
+    "inhoud": "+31 ${87024o}.",
+    "maatschappijen": [
+      "P374"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "maatschappijen": [
+      "P374"
+    ],
+    "type": "standaard"
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort pakket",
+    "inhoud": "${80488o} ${10246o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekking",
+    "inhoud": "Personenhulp                  meeverzekerd",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geneeskundige kosten",
+    "inhoud": "${83082o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ongevallen",
+    "inhoud": "${83090o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bagage",
+    "inhoud": "${83089o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geld",
+    "inhoud": "${83102o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Rechtsbijstand",
+    "inhoud": "${84797o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hulp en huur vervoermiddel",
+    "inhoud": "${83091o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Annulering",
+    "inhoud": "${83092o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Werknemers buiten NL",
+    "inhoud": "${80489o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Molestrisico",
+    "inhoud": "${86472o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geschat aantal reisdagen",
+    "inhoud": "${86531}                          ${84383}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86531"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal auto's",
+    "inhoud": "${86474}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86474"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal werknemers buiten NL",
+    "inhoud": "${86306o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86306o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "Zie artikel 1.1 en 1.2 van de polisvoorwaarden ${84685}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84685"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Alarmnummer",
+    "inhoud": "In geval van calamiteiten kunt u contact opnemen met de alarmcentrale",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "onder telefoonnummer",
+    "inhoud": "+31 ${87024o}.",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Minumumpremie",
+    "inhoud": "De minimumpremie voor deze verzekering bedraagt € 250,00 exclusief annulering.",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80947}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.   ${80947}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  }
+]

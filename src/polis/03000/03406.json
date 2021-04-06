@@ -1,0 +1,290 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Doorlopende Vakantiereis",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde(n)",
+    "inhoud": "Naam                                   Geboortedatum",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630}                                  ${10633}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10637} ${10638} ${10636}                                  ${10639}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10643} ${10644} ${10642}                                  ${10645}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10642"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10649} ${10650} ${10648}                                  ${10651}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10648"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10655} ${10656} ${10654}                                  ${10657}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10654"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10661} ${10662} ${10660}                                  ${10663}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10660"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10667} ${10668} ${10666}                                  ${10669}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10666"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10673} ${10674} ${10672}                                  ${10675}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10672"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10679} ${10680} ${10678}                                  ${10681}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10678"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "Wereld",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geldigheid",
+    "inhoud": "${83098o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "83098o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekking",
+    "inhoud": "Basisdekking bestaande uit:",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Bagage",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Geneeskundige kosten",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Ongevallen",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Wintersport",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Rechtsbijstand",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Huur vervangend vervoermiddel",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Extra dekking(en)",
+    "inhoud": "Geld                                   ${83102o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "83102o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Topdekking",
+    "inhoud": "${86136o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86136o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nederlanddekking recreatie-object",
+    "inhoud": "${83087o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "83087o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Sportuitrusting",
+    "inhoud": "${86394o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waarnemer",
+    "inhoud": "${83093o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "83093o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "(",
+    "inhoud": "${86248} ${86249} ${86247}, geboren ${86250})",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86247"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Samengestelde reis",
+    "inhoud": "${86138o}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86138o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Alarmnummer",
+    "inhoud": "In geval van calamiteiten kunt u contact opnemen met de alarmcentrale",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "onder telefoonnummer",
+    "inhoud": " +31 ${87024o}.",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  }
+]

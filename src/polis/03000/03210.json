@@ -1,0 +1,172 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220} ${10221o}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Naam object",
+    "inhoud": "${80110}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80110"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort vaartuig",
+    "inhoud": "${10696o}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10696o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort vervoer",
+    "inhoud": "${80070o}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80070o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bm trede",
+    "inhoud": "${10046}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Schadevrije jaren",
+    "inhoud": "${10049}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10049"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde zaken",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80696}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80696"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80697}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P306"
+    ],
+    "type": "standaard"
+  }
+]

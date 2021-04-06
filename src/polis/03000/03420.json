@@ -1,0 +1,1432 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "E430",
+      "P311",
+      "P357",
+      "P384",
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde(n)",
+    "inhoud": "Naam                Geboortedatum",
+    "maatschappijen": [
+      "P311",
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630}               ${10633}",
+    "maatschappijen": [
+      "P311",
+      "P357"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Naam",
+    "inhoud": "Geboortedatum",
+    "maatschappijen": [
+      "E430"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Naam                Geboortedatum    ${10630}",
+    "maatschappijen": [
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Naam                Geboortedatum    ${84684}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84684"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10637} ${10638} ${10636}               ${10639}",
+    "maatschappijen": [
+      "P311",
+      "P357"
+    ],
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde",
+    "inhoud": "${10631} ${10632} ${10630}               ${10633}",
+    "maatschappijen": [
+      "E430",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde",
+    "inhoud": "${10631} ${10632} ${10630}               ${10633} ${84684}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10630",
+      "84684"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Medeverzekerde(n)",
+    "inhoud": "${10636}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Medeverzekerde(n) vakantiereizen",
+    "inhoud": "${10637} ${10638} ${10636}               ${10639} ${84684}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10636",
+      "84684"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Medeverzekerde(n) vakantiereizen",
+    "inhoud": "${10637} ${10638} ${10636}     ${10639}",
+    "maatschappijen": [
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10643} ${10644} ${10642}               ${10645} ${84684}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10642",
+      "84684"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "vakantiereizen",
+    "inhoud": "${10637} ${10638} ${10636}               ${10639}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10643} ${10644} ${10642}               ${10645}",
+    "maatschappijen": [
+      "E430",
+      "P311",
+      "P357",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10642"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10649} ${10650} ${10648}               ${10651} ${84684}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10648",
+      "84684"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10649} ${10650} ${10648}               ${10651}",
+    "maatschappijen": [
+      "E430",
+      "P311",
+      "P357",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10648"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10655} ${10656} ${10654}               ${10657} ${84684}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10654",
+      "84684"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10655} ${10656} ${10654}               ${10657}",
+    "maatschappijen": [
+      "E430",
+      "P311",
+      "P357",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10654"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10661} ${10662} ${10660}               ${10663} ${84684}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10660",
+      "84684"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10661} ${10662} ${10660}               ${10663}",
+    "maatschappijen": [
+      "E430",
+      "P311",
+      "P357",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "10660"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84684}",
+    "maatschappijen": [
+      "P384",
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84684"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroep van de 1e verzekerde",
+    "inhoud": "${10063o}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10063o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekking",
+    "inhoud": "Basisdekking          meeverzekerd",
+    "maatschappijen": [
+      "P357",
+      "P384"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekking",
+    "inhoud": "Basisdekking          meeverzekerd ${84684}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84684"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde combinatie",
+    "inhoud": "${83216o}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "83216o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "-incl. bagage, buitengewone sporten, annuleringskosten,",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bagage",
+    "inhoud": "${83089o} ${84684}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "83089o",
+      "84684"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P311",
+      "P357",
+      "P384",
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Product",
+    "inhoud": "${86511o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "86511o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "rechtsbijstand en schade aan logiesverblijven.",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ongevallen",
+    "inhoud": "${83090o} ${84684}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "83090o",
+      "84684"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Rubrieken",
+    "inhoud": "Buitengewone kosten        ${83089o}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "83089o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Annuleringskosten",
+    "inhoud": "${83089o}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "83089o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bijz. sporten",
+    "inhoud": "${83085o}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "83085o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geneeskundige kosten",
+    "inhoud": "${83082o} ${84684}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "83082o",
+      "84684"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekking",
+    "inhoud": "S.O.S.-Pakket                meeverzekerd",
+    "maatschappijen": [
+      "E430"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bagage",
+    "inhoud": "${83089o}",
+    "maatschappijen": [
+      "P311",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "83089o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geld",
+    "inhoud": "${83102o}",
+    "maatschappijen": [
+      "P384"
+    ],
+    "vereiste_labels": [
+      "83102o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geld",
+    "inhoud": "${83102o} ${84684}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "83102o",
+      "84684"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinsdekking/Vakantiereizen",
+    "inhoud": "${84204o}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "84204o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Reisongevallen",
+    "inhoud": "${84788o}             ${83090o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "83090o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geld/geldswaardig papier",
+    "inhoud": "${83102o}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "83102o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hulp vervoermiddel",
+    "inhoud": "${83091o} ${84684}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "83091o",
+      "84684"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Reisbagage",
+    "inhoud": "${84787o}                 ${83089o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "83089o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geneeskundige kosten",
+    "inhoud": "${83082o}",
+    "maatschappijen": [
+      "P311",
+      "P357",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "83082o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitbreiding reisbagage",
+    "inhoud": "${86513o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "86513o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vakantiereizen (prive)",
+    "inhoud": "${84204o}",
+    "maatschappijen": [
+      "P384"
+    ],
+    "vereiste_labels": [
+      "84204o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vakantiereizen (prive)",
+    "inhoud": "${84204o} ${84684}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84204o",
+      "84684"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Annulering",
+    "inhoud": "${83092o}",
+    "maatschappijen": [
+      "P384"
+    ],
+    "vereiste_labels": [
+      "83092o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Annulering",
+    "inhoud": "${83092o} ${84684}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "83092o",
+      "84684"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Medische kosten",
+    "inhoud": "${83082o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "83082o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ongevallen",
+    "inhoud": "${83090o}",
+    "maatschappijen": [
+      "P311",
+      "P357",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "83090o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hulp vervoermiddel",
+    "inhoud": "${83091o}",
+    "maatschappijen": [
+      "P357",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "83091o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Rechtsbijstand",
+    "inhoud": "${86514o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "86514o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Samengestelde reis",
+    "inhoud": "${86138o} ${84684}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86138o",
+      "84684"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- kenteken",
+    "inhoud": "${83069} incl. caravan/aanhanger ${80712o}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "83069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Assistent",
+    "inhoud": "${86517o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "86517o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meereizend assistent",
+    "inhoud": "${83093o}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "83093o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Automobilistenhulp",
+    "inhoud": "${83091o}",
+    "maatschappijen": [
+      "P311",
+      "P357"
+    ],
+    "vereiste_labels": [
+      "83091o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Extra annuleringsverz",
+    "inhoud": "${83092o}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "83092o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "SMS assistant",
+    "inhoud": "${86518o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "86518o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- extra verzekerd bedrag van €",
+    "inhoud": "${10241}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "10241"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- kenteken",
+    "inhoud": "${83069}  inclusief aanhangwagen: ${80712o}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "83069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Luggage assistant",
+    "inhoud": "${86519o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "86519o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geldigheidsduur zakenreis",
+    "inhoud": "maximaal ${86531} dagen",
+    "maatschappijen": [
+      "P384"
+    ],
+    "vereiste_labels": [
+      "86531"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- kenteken",
+    "inhoud": "${83070}  inclusief aanhangwagen: ${84315o}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "83070"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vakantiereizen",
+    "inhoud": "${84204o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "84204o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geldigheidsduur zakenreis",
+    "inhoud": "maximaal ${86531} dagen ${84684}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86531",
+      "84684"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Afkoop eigen risico bagage",
+    "inhoud": "${11242}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "11242"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Wintersport",
+    "inhoud": "${83086o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "83086o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanvullende Nederlanddekking",
+    "inhoud": "${83087o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "83087o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "Voor de rubriek \"bagage\" geldt een eigen risico van € ${10043} per gebeurtenis",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geldigheidsduur vakantiereis",
+    "inhoud": "maximaal ${80149} dagen ${84684}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "80149",
+      "84684"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geschat aantal reisdagen",
+    "inhoud": "${86531}",
+    "maatschappijen": [
+      "P384",
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86531"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanvullende gelddekking",
+    "inhoud": "${83102o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "83102o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "per polis.",
+    "inhoud": "${10043}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "Zie artikel 1.1 en 1.2 van de polisvoorwaarden",
+    "maatschappijen": [
+      "P384"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Autohulppakket",
+    "inhoud": "${83214o}             ${83091o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "83091o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Registratienummer Personal Service",
+    "inhoud": "${83042}",
+    "maatschappijen": [
+      "P384",
+      "P313"
+    ],
+    "vereiste_labels": [
+      "83042"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "Zie artikel 1.1 en 1.2 van de polisvoorwaarden ${84685}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84685"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Wintersportrisico",
+    "inhoud": "De verzekering biedt dekking voor schade tijdens of in verband met de  ${83225o}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "83225o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "beoefening van de ski-/langlaufsport. Het bepaalde in artikel 12 lid J",
+    "inhoud": "${83225o}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "83225o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "SOS Autohulp",
+    "inhoud": "${86515o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "86515o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zaakwaarnemer(s)",
+    "inhoud": "Naam                 Geboortedatum",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86248} ${86249} ${86247}                ${86250}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "86247"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Annulering zakelijk",
+    "inhoud": "${86516o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "86516o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "van de polisvoorwaarden blijft evenwel onverminderd van kracht.",
+    "inhoud": "${83225o}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "83225o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Molestrisico",
+    "inhoud": "is ${86472o}",
+    "maatschappijen": [
+      "P384"
+    ],
+    "vereiste_labels": [
+      "86472o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10679} ${10680} ${10678}                ${10681}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "10678"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Annulering privreizen",
+    "inhoud": "${83092o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "83092o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Molestrisico",
+    "inhoud": "is ${86472o}                                                    ${84685}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86472o",
+      "84685"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Annulering dubbel zeker",
+    "inhoud": "${86529o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "86529o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Annulering",
+    "inhoud": "Bij annulering of voortijdige reisbeindiging wegens ziekte of ongeval",
+    "maatschappijen": [
+      "P311"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "dient de maatschappij terstond rechtstreeks telefonisch in kennis te",
+    "maatschappijen": [
+      "P311"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "ELVIA Personal Data Service",
+    "inhoud": "${83042}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "83042"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Privereizen",
+    "inhoud": "Naam                         Geboortedatum   ${84860o}${84685}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84860o",
+      "84685"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630}                        ${10633} ${84685}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10630",
+      "84685"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Samengestelde reis",
+    "inhoud": "${86138o}",
+    "maatschappijen": [
+      "E430",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "86138o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "worden gesteld. Telefoonnummer:",
+    "inhoud": "+31 ${87024o}.",
+    "maatschappijen": [
+      "P311"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84860o} ${84685}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84860o",
+      "84685"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zaakwaarnemer",
+    "inhoud": " ${83093o}",
+    "maatschappijen": [
+      "E430",
+      "P357"
+    ],
+    "vereiste_labels": [
+      "83093o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": " Op deze verzekering is ${80946o} van toepassing.    ${80947}",
+    "maatschappijen": [
+      "P384"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10637} ${10638} ${10636}                        ${10639} ${84685}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10636",
+      "84685"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.    ${80947}",
+    "maatschappijen": [
+      "P311",
+      "P313"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86524o} ${84685}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86524o",
+      "84685"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geldigheidsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "E430"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P384"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10643} ${10644} ${10642}                        ${10645} ${84685}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10642",
+      "84685"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geldigheidsduur zakenreis",
+    "inhoud": "maximaal ${83100} dagen",
+    "maatschappijen": [
+      "E430",
+      "P384",
+      "P313"
+    ],
+    "vereiste_labels": [
+      "83100"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P311"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86525o} ${84685}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86525o",
+      "84685"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geldigheidsduur vakantiereis",
+    "inhoud": "maximaal ${80149} dagen",
+    "maatschappijen": [
+      "E430",
+      "P384"
+    ],
+    "vereiste_labels": [
+      "80149"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10649} ${10650} ${10648}                        ${10651} ${84685}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10648",
+      "84685"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "maatschappijen": [
+      "E430",
+      "P384",
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86526o} ${84685}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86526o",
+      "84685"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10655} ${10656} ${10654}                        ${10657} ${84685}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10654",
+      "84685"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Alarmnummer",
+    "inhoud": "In geval van calamiteiten kunt u contact opnemen met de alarmcentrale",
+    "maatschappijen": [
+      "E430",
+      "P357",
+      "P384",
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86527o} ${84685}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86527o",
+      "84685"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "onder telefoonnummer",
+    "inhoud": "+31 ${87024o}.",
+    "maatschappijen": [
+      "E430",
+      "P357",
+      "P384",
+      "P313"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80947}",
+    "maatschappijen": [
+      "E430",
+      "P311",
+      "P357",
+      "P384",
+      "P313"
+    ],
+    "vereiste_labels": [
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10655} ${10662} ${10660}                        ${10663} ${84685}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "10660",
+      "84685"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86528o} ${84685}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "86528o",
+      "84685"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.   ${80947}",
+    "maatschappijen": [
+      "E430",
+      "P357"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84860o}${84685}",
+    "maatschappijen": [
+      "P313"
+    ],
+    "vereiste_labels": [
+      "84860o",
+      "84685"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P313"
+    ],
+    "type": "standaard"
+  }
+]
