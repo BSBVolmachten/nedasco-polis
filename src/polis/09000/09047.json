@@ -1,0 +1,196 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Rechtsbijstandverzekering bij Evenementen",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Medeverzekerde ondernemingen",
+    "inhoud": "${86558}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "86558"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80086} ${80092}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "80092"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86559}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "86559"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84749} ${84751}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "84751"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86560}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "86560"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84750} ${84752}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "84752"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde hoedanigheid",
+    "inhoud": "${80722}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "80722"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Evenement",
+    "inhoud": "${80722}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "80722"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Plaats",
+    "inhoud": "${86561}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "86561"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Van",
+    "inhoud": "${86562}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "86562"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Tot",
+    "inhoud": "${86563}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "86563"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal medewerkers bij evenement",
+    "inhoud": "${80165}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "80165"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waarvan tijdelijke arbeidskrachten",
+    "inhoud": "${80167}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "80167"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde som",
+    "inhoud": "per rechtsbijstandgebeurtenis in totaal: € ${10241}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ondernemingsgegevens",
+    "inhoud": "Betreffende het jaar ${86551}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Budget €",
+    "inhoud": "${10242}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "10242"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  }
+]

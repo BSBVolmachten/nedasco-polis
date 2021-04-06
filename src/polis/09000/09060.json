@@ -1,0 +1,253 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Rechtsbijstand voor verkeersdeelnemers",
+    "maatschappijen": [
+      "P300"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "D323",
+      "P302",
+      "P315",
+      "P359",
+      "P372"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Anker Eigen Jurist Polis",
+    "maatschappijen": [
+      "A328"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${80227o}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "80227o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Pluspakket",
+    "inhoud": "${80682o}",
+    "maatschappijen": [
+      "D323",
+      "P300"
+    ],
+    "vereiste_labels": [
+      "80682o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10245o}",
+    "maatschappijen": [
+      "P302",
+      "P315",
+      "P359",
+      "A328"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "No-claim",
+    "inhoud": "Trede ${10046} = ${10050} %                                                   ${10047o}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "10047o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "P302",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Motorrijtuigen",
+    "inhoud": "${80692o}",
+    "maatschappijen": [
+      "P300",
+      "P302",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "80692o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geschil",
+    "inhoud": "Als u een juridisch geschil wilt melden of behoefte heeft aan juridisch advies",
+    "maatschappijen": [
+      "D323",
+      "P300",
+      "P302",
+      "P315",
+      "P359",
+      "P372",
+      "A328"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "kunt u contact opnemen met:",
+    "maatschappijen": [
+      "D323",
+      "P300",
+      "P302",
+      "P315",
+      "P359",
+      "P372",
+      "A328"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Anker Rechtshulp B.V.",
+    "maatschappijen": [
+      "A328"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meeverzekerd pluspakket",
+    "inhoud": "Ja                                                                      ${12352}",
+    "maatschappijen": [
+      "P302",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "12352"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "DAS Rechtsbijstand",
+    "maatschappijen": [
+      "D323",
+      "P300",
+      "P302",
+      "P315",
+      "P359",
+      "P372"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T (050) - 520 97 95",
+    "maatschappijen": [
+      "A328"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T (020) - 651 75 17",
+    "maatschappijen": [
+      "D323"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "E nieuwezaak@anker.nl",
+    "maatschappijen": [
+      "A328"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T (033) - 651 75 17",
+    "maatschappijen": [
+      "P300",
+      "P302",
+      "P315",
+      "P359",
+      "P372"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "D323"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P315"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P359"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "A328"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P300"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P372"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  }
+]

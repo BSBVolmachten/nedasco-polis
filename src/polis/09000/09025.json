@@ -1,0 +1,1037 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Anker Eigen Jurist Polis",
+    "maatschappijen": [
+      "A328"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde hoedanigheid",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bedrijfsadres",
+    "inhoud": "${80080}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80080"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80696}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80696"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80085} ${80091}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80085",
+      "80091"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10069}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "10069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nevenactiviteiten",
+    "inhoud": "${80207o}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80207o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80080}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80080"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Loonsom",
+    "inhoud": "€ ${10069} ${84261o}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "10069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80194}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80194"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoofdvestiging",
+    "inhoud": "${80080}  ${80085}  ${80091}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80080"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal medewerkers",
+    "inhoud": "${80194}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80194"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nevenvestiging(en)",
+    "inhoud": "${80081}  ${80086}  ${80092}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84768}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "84768"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84747}  ${84749}  ${84751}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "84747"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84748}  ${84750}  ${84752}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "84748"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gelieerde ondernemingen",
+    "inhoud": "${84768}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "84768"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84762}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "84762"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84763}, ${84764}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "84764"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Franchisebedrag",
+    "inhoud": "€ ${12434},-",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "12434"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84769}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "84769"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84771}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "84771"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verhuurde wooneenheden",
+    "inhoud": "${80680}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80680"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84773}, ${84775}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "84775"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84770}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "84770"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verhuurde percelen/grond",
+    "inhoud": "${80836}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80836"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84772}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "84772"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84774}, ${84776}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "84776"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Particuliere gezinsdekking t.b.v.",
+    "inhoud": "${10630}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80812}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80812"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80079}  ${80084}  ${80090}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80079"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${80812}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80812"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80813}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80813"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80814}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80814"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80077}  ${80082}  ${80088}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bedrijfsactiviteit(en)",
+    "inhoud": "${80814}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80814"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80815}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80815"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10043}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80078}  ${80083}  ${80089}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80078",
+      "80089"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80804c}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80804c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Pluspakket",
+    "inhoud": "De dekking is ${80682o} het pluspakket",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80682o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Maximale dekkingssom",
+    "inhoud": "${80804o}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80804o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10246c}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "10246c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10245c}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "10245c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "DAS Rechtsbijstand",
+    "maatschappijen": [
+      "D323"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T (020) - 651 75 17",
+    "maatschappijen": [
+      "D323"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10245o}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "10245o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80680}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80680"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80947}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verhuurde woninge",
+    "inhoud": "n${80680}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80680"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": " Op deze verzekering is ${80946o} van toepassing.    ${80947}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Adresgegevens",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80805o}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80805o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "D323"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "A328",
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80806o}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80806o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80681}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80681"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verhuurde bedrijfseenheden",
+    "inhoud": "${80681}",
+    "maatschappijen": [
+      "A328",
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80681"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Adresgegevens",
+    "inhoud": "${80696}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80696"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80807o}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80807o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80697}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80808o}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80808o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80081}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nevenvestiging ander adres",
+    "inhoud": "${80081}, ${80086}, ${80092}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nevenvestiging ander adres",
+    "inhoud": "${84747}, ${84749}, ${84751}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "84747"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nevenvestiging ander adres",
+    "inhoud": "${84748}, ${84750}, ${84752}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "84748"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83069}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "83069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Motorrijtuigen",
+    "inhoud": "${83069} ; ${84240o}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "83069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83070} ; ${84241o}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "83070"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83071} ; ${84242o}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "83071"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83072} ; ${84273o}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "83072",
+      "84273o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83073} ; ${84274o}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "83073",
+      "84274o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84276} ; ${87008o}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "84276"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84277} ; ${87009o}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "84277"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84278} ; ${87010o}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "84278"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84279} ; ${87011o}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "84279"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84280} ; ${87012o}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "84280"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10630}",
+    "maatschappijen": [
+      "A328",
+      "D323"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekking Persoon & Gezin Top tbv",
+    "inhoud": "${10630}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80079}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80079"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80084} ${80090}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80090"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10636}",
+    "maatschappijen": [
+      "A328",
+      "D323"
+    ],
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80077}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80082} ${80088}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80088"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10642}",
+    "maatschappijen": [
+      "A328",
+      "D323"
+    ],
+    "vereiste_labels": [
+      "10642"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80078}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80083} ${80089}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "80089"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geschil",
+    "inhoud": "Als u een juridisch geschil wilt melden of behoefte heeft aan juridisch advies",
+    "maatschappijen": [
+      "A328",
+      "D323"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "kunt u contact opnemen met:",
+    "maatschappijen": [
+      "A328",
+      "D323"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Anker Rechtshulp B.V.",
+    "maatschappijen": [
+      "A328"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T (050) - 520 97 95",
+    "maatschappijen": [
+      "A328"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "",
+    "maatschappijen": [
+      "A328"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "A328"
+    ],
+    "type": "standaard"
+  }
+]

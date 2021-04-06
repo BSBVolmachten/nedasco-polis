@@ -1,0 +1,105 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P372"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen woning",
+    "inhoud": "${11515}",
+    "maatschappijen": [
+      "P372"
+    ],
+    "vereiste_labels": [
+      "11515"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Motorrijtuigen meeverzekerd",
+    "inhoud": "${11516}",
+    "maatschappijen": [
+      "P372"
+    ],
+    "vereiste_labels": [
+      "11516"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Arbeid meeverzekerd",
+    "inhoud": "${11519}",
+    "maatschappijen": [
+      "P372"
+    ],
+    "vereiste_labels": [
+      "11519"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geschil",
+    "inhoud": "Als u een juridisch geschil wilt melden of behoefte heeft aan juridisch advies",
+    "maatschappijen": [
+      "P372"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "kunt u contact opnemen met:",
+    "maatschappijen": [
+      "P372"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "DAS Rechtsbijstand",
+    "maatschappijen": [
+      "P372"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T (020) - 651 75 17",
+    "maatschappijen": [
+      "P372"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P372"
+    ],
+    "type": "standaard"
+  }
+]

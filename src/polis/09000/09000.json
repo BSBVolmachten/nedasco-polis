@@ -1,0 +1,1666 @@
+[
+  {
+    "omschrijving": "Rubriek D",
+    "inhoud": "Gezinsrechtsbijstand",
+    "maatschappijen": [
+      "09850"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "09020",
+      "09080",
+      "09800",
+      "09085"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "ProRechtCombinatie Assurantiebemiddeling",
+    "maatschappijen": [
+      "09090"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Rechtsbijstand voor verkeersdeelnemers",
+    "maatschappijen": [
+      "09060"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "09800"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde hoedanigheid",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Vrije Advocaat Keuze (VAK)",
+    "maatschappijen": [
+      "09080"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Externe kostendekking",
+    "inhoud": "${99994} ${80691o}",
+    "maatschappijen": [
+      "09800"
+    ],
+    "vereiste_labels": [
+      "80691o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "09060",
+      "09850"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag VAK",
+    "inhoud": "80448",
+    "maatschappijen": [
+      "09080"
+    ],
+    "vereiste_labels": [
+      "80448"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80696}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "80696"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen bijdrage VAK",
+    "inhoud": "80449",
+    "maatschappijen": [
+      "09080"
+    ],
+    "vereiste_labels": [
+      "80449"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Franchise",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "09060"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "No-claim",
+    "inhoud": "Trede ${10046} = ${10050} %                                                   ${10047o}",
+    "maatschappijen": [
+      "09800"
+    ],
+    "vereiste_labels": [
+      "10047o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meeverzekerd pand",
+    "inhoud": "${80077} te ${80082} ${80088}",
+    "maatschappijen": [
+      "09850"
+    ],
+    "vereiste_labels": [
+      "80077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nevenactiviteiten",
+    "inhoud": "${80207o}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "80207o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80080}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "80080"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80078} te ${80083} ${80089}",
+    "maatschappijen": [
+      "09850"
+    ],
+    "vereiste_labels": [
+      "80078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bedrijfsadres(sen)",
+    "inhoud": "${80080}  ${80085}  ${80091}",
+    "maatschappijen": [
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "80080"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geschil",
+    "inhoud": "Als u een juridisch geschil wilt melden of behoefte heeft aan juridisch advies",
+    "maatschappijen": [
+      "09080",
+      "09850",
+      "09085",
+      "09090"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken(s)",
+    "inhoud": "${10033} ${83069} ${83070} ${83071} ${83072} ${83073}",
+    "maatschappijen": [
+      "09800"
+    ],
+    "vereiste_labels": [
+      "10033"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "09060"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "kunt u contact opnemen met:",
+    "maatschappijen": [
+      "09080",
+      "09850",
+      "09085",
+      "09090"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80079} te ${80084} ${80090}",
+    "maatschappijen": [
+      "09850"
+    ],
+    "vereiste_labels": [
+      "80079"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80081}  ${80086}  ${80092}",
+    "maatschappijen": [
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "80081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoofdvestiging",
+    "inhoud": "${80080}  ${80085}  ${80091}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "80080"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "ARAG",
+    "maatschappijen": [
+      "09080",
+      "09085",
+      "09090"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nevenvestiging(en)",
+    "inhoud": "${80081}  ${80086}  ${80092}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "80081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "09800"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T (033) - 434 23 42",
+    "maatschappijen": [
+      "09080",
+      "09085",
+      "09090"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84747}  ${84749}  ${84751}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "84747"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Verzekerde modules",
+    "maatschappijen": [
+      "09850"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84748}  ${84750}  ${84752}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "84748"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Motorrijtuig",
+    "inhoud": "${80185}",
+    "maatschappijen": [
+      "09850"
+    ],
+    "vereiste_labels": [
+      "80185"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84768}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "84768"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Fiscaal recht & vermogensbeheer",
+    "inhoud": "${84765}",
+    "maatschappijen": [
+      "09850"
+    ],
+    "vereiste_labels": [
+      "84765"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "09080"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gelieerde onderneming(en)",
+    "inhoud": "${84768}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "84768"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Statutair directeur",
+    "inhoud": "${84766}",
+    "maatschappijen": [
+      "09850"
+    ],
+    "vereiste_labels": [
+      "84766"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84762}  ${84763}  ${84764}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "84762"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verhuur woning",
+    "inhoud": "${84195o}",
+    "maatschappijen": [
+      "09850"
+    ],
+    "vereiste_labels": [
+      "84195o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84769}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "84769"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Personen",
+    "inhoud": "${80249}",
+    "maatschappijen": [
+      "09850"
+    ],
+    "vereiste_labels": [
+      "80249"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84769}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "84769"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Wonen",
+    "inhoud": "${12438}",
+    "maatschappijen": [
+      "09850"
+    ],
+    "vereiste_labels": [
+      "12438"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84771}  ${84773}  ${84775}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "84771"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Werk en Inkomen",
+    "inhoud": "${11519}",
+    "maatschappijen": [
+      "09850"
+    ],
+    "vereiste_labels": [
+      "11519"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84770}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "84770"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Fiscaal recht & vermogensbeheer",
+    "inhoud": "${80254}",
+    "maatschappijen": [
+      "09850"
+    ],
+    "vereiste_labels": [
+      "80254"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84770}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "84770"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Statutair directeur",
+    "inhoud": "${11518}",
+    "maatschappijen": [
+      "09850"
+    ],
+    "vereiste_labels": [
+      "11518"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84772}  ${84774}  ${84776}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "84772"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal firmanten",
+    "inhoud": "${84789}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "84789"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Andere kosten",
+    "inhoud": "Conform polisvoorwaarden",
+    "maatschappijen": [
+      "09085"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Externe kosten",
+    "inhoud": "Conform polisvoorwaarden",
+    "maatschappijen": [
+      "09090"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Loyaliteitskorting",
+    "inhoud": "${89996}%",
+    "maatschappijen": [
+      "09850"
+    ],
+    "vereiste_labels": [
+      "89996"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal werknemers",
+    "inhoud": "${80404}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "80404"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Vrije Advocaat Keuze",
+    "maatschappijen": [
+      "09085"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal medewerkers",
+    "inhoud": "${12409}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "12409"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag VAK Zakelijk",
+    "inhoud": "80486",
+    "maatschappijen": [
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "80486"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal oproepkrachten",
+    "inhoud": "${87152}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "87152"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen bijdrage VAK Zakelijk",
+    "inhoud": "80487",
+    "maatschappijen": [
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "80487"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "SRK Rechtsbijstand",
+    "maatschappijen": [
+      "09850"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal co-/arts-assistenten",
+    "inhoud": "${80194}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "80194"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag VAK Part.",
+    "inhoud": "80448",
+    "maatschappijen": [
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "80448"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T (079) - 344 81 81",
+    "maatschappijen": [
+      "09850"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal adm./verpl. assistenten",
+    "inhoud": "${80195}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "80195"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen bijdrage VAK Part.",
+    "inhoud": "80449",
+    "maatschappijen": [
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "80449"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10069}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "10069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaarloon",
+    "inhoud": "€ ${10069}   ${80015} %o",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "10069",
+      "80015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Premiebebepalende factoren",
+    "maatschappijen": [
+      "09085",
+      "09090"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "09850"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaaromzet",
+    "inhoud": "€ ${10078}   ${80014} %o",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "10078",
+      "80014"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Loonsom",
+    "inhoud": "84392",
+    "maatschappijen": [
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "84392"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Loonsom voor premieberekening",
+    "inhoud": "€ ${10069} ${84261o}                                        ${86157}",
+    "maatschappijen": [
+      "09090"
+    ],
+    "vereiste_labels": [
+      "10069",
+      "86157"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "€",
+    "inhoud": "${13624}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "13624"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Loonsom voor premieberekening",
+    "inhoud": "€ ${10069} ${84261o}                                         ${86157}",
+    "maatschappijen": [
+      "09085"
+    ],
+    "vereiste_labels": [
+      "10069",
+      "86157"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10078}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "10078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Omzet",
+    "inhoud": "€ ${10078} ${84264o}",
+    "maatschappijen": [
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "10078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal m2 glas",
+    "inhoud": "${84353o}",
+    "maatschappijen": [
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "84353o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Motorrijtuigendekking",
+    "inhoud": "Soort motorrijtuig     Kenteken                        ${84240o}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "84240o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- ${84240o}                    ${83069}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "84240o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Medewerkers",
+    "inhoud": "${80404} (bij NV/BV inclusief directeuren)",
+    "maatschappijen": [
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "80404"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- ${84241o}                    ${83070}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "84241o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigenaren/firmanten",
+    "inhoud": "${84789} (bij VOF/eenmanszaak)",
+    "maatschappijen": [
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "84789"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "-",
+    "inhoud": " ${84242o}                    ${83071}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "84242o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Personen/bestelauto",
+    "inhoud": " Inclusief",
+    "maatschappijen": [
+      "09090"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Specialisten",
+    "inhoud": " ${84804}",
+    "maatschappijen": [
+      "09085"
+    ],
+    "vereiste_labels": [
+      "84804"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- ${84273o}                    ${83072}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "84273o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "(para)medici",
+    "inhoud": "${80194}",
+    "maatschappijen": [
+      "09085"
+    ],
+    "vereiste_labels": [
+      "80194"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- ${84274o}                    ${83073}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "84274o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Overige medewerkers",
+    "inhoud": "${80195}",
+    "maatschappijen": [
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "80195"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Particuliere dekking t.b.v",
+    "inhoud": "${10630}",
+    "maatschappijen": [
+      "09090"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- ${87008o}                    ${84276}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "87008o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Appartementsrechten",
+    "inhoud": "${80198}",
+    "maatschappijen": [
+      "09085"
+    ],
+    "vereiste_labels": [
+      "80198"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- ${87009o}                    ${84277}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "87009o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verborgen gebreken",
+    "inhoud": "${87227o}",
+    "maatschappijen": [
+      "09085"
+    ],
+    "vereiste_labels": [
+      "87227o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde modules: A t/m D",
+    "inhoud": "${10630}",
+    "maatschappijen": [
+      "09090"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- ${87010o}                    ${84278}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "87010o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Leden",
+    "inhoud": "${80199}",
+    "maatschappijen": [
+      "09085"
+    ],
+    "vereiste_labels": [
+      "80199"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- ${87011o}                    ${84279}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "87011o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Personen/bestel/vrachtauto",
+    "inhoud": "${86128c}",
+    "maatschappijen": [
+      "09085"
+    ],
+    "vereiste_labels": [
+      "86128c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- ${87012o}                    ${84280}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "87012o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "(eigen vervoer)",
+    "inhoud": "${86128o}",
+    "maatschappijen": [
+      "09085"
+    ],
+    "vereiste_labels": [
+      "86128o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80680}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "80680"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroepsvervoer Benelux/Duitsland",
+    "inhoud": "${80167}",
+    "maatschappijen": [
+      "09085"
+    ],
+    "vereiste_labels": [
+      "80167"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verhuurde wooneenheden",
+    "inhoud": "${80680}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "80680"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroepsvervoer Europa",
+    "inhoud": "${80169}",
+    "maatschappijen": [
+      "09085"
+    ],
+    "vereiste_labels": [
+      "80169"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde modules: A t/m D",
+    "inhoud": "${10636}",
+    "maatschappijen": [
+      "09090"
+    ],
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verhuurde bedrijfseenheden",
+    "inhoud": "${80681}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "80681"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kleinbus personenvervoer",
+    "inhoud": "${84783}",
+    "maatschappijen": [
+      "09085"
+    ],
+    "vereiste_labels": [
+      "84783"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verhuurde bedrijfseenheden",
+    "inhoud": "${12308}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "12308"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bus/touringcar",
+    "inhoud": "${84784}",
+    "maatschappijen": [
+      "09085"
+    ],
+    "vereiste_labels": [
+      "84784"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal extra bedrijfsvestigingen",
+    "inhoud": "${13618}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "13618"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Lesauto",
+    "inhoud": "${84785}",
+    "maatschappijen": [
+      "09085"
+    ],
+    "vereiste_labels": [
+      "84785"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal leden",
+    "inhoud": "${80199}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "80199"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Taxi A'dam, Den Haag, R'dam, Utrecht",
+    "inhoud": "${86112}",
+    "maatschappijen": [
+      "09085"
+    ],
+    "vereiste_labels": [
+      "86112"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal appartementsrechten",
+    "inhoud": "${80198}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "80198"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Taxi overige steden",
+    "inhoud": "${86113}",
+    "maatschappijen": [
+      "09085"
+    ],
+    "vereiste_labels": [
+      "86113"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde modules: A t/m D",
+    "inhoud": "${10642}",
+    "maatschappijen": [
+      "09090"
+    ],
+    "vereiste_labels": [
+      "10642"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verhuurde percelen losse grond",
+    "inhoud": "${84795}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "84795"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verhuurauto",
+    "inhoud": "${86114}",
+    "maatschappijen": [
+      "09085"
+    ],
+    "vereiste_labels": [
+      "86114"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vereiste vergunningen aanwezig?",
+    "inhoud": "${81218}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "81218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10630}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Particuliere dekking t.b.v.",
+    "inhoud": "${10630}",
+    "maatschappijen": [
+      "09085"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80079}",
+    "maatschappijen": [
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "80079"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Particuliere gezinsdekking t.b.v.",
+    "inhoud": "${10630}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80079}  ${80084}  ${80090}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "80079"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10636}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde module(s):",
+    "inhoud": "${80706o}",
+    "maatschappijen": [
+      "09085"
+    ],
+    "vereiste_labels": [
+      "80706o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10636}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80077}  ${80082}  ${80088}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "80077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10642}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "10642"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80077}",
+    "maatschappijen": [
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "80077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10642}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "10642"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "09090"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80078}  ${80083}  ${80089}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "80078",
+      "80089"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde module(s):",
+    "inhoud": "${84810o}",
+    "maatschappijen": [
+      "09085"
+    ],
+    "vereiste_labels": [
+      "84810o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80682c}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "80682c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Pluspakket",
+    "inhoud": "De dekking is ${80682o} het pluspakket",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "80682o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80318}",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "80318"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80083}  ${80089}",
+    "maatschappijen": [
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "80089"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Franchisebedrag",
+    "inhoud": "80318",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "80318"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde module(s):",
+    "inhoud": "${84811o}",
+    "maatschappijen": [
+      "09085"
+    ],
+    "vereiste_labels": [
+      "84811o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Franchisebedrag",
+    "inhoud": "12434",
+    "maatschappijen": [
+      "09020"
+    ],
+    "vereiste_labels": [
+      "12434"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80947}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.    ${80947}",
+    "maatschappijen": [
+      "09020",
+      "09085",
+      "09090"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "09020"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "09085"
+    ],
+    "type": "standaard"
+  }
+]

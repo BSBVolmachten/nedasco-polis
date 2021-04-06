@@ -1,0 +1,299 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Strafrechtsbijstandverzekering Zakelijke Markt",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekeringnemer",
+    "inhoud": "Verzekeringnemer treedt tevens op namens de medeverzekerde",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "juridisch zelfstandige dochtermaatschappijen en deelnemingen.",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Medeverzekerde ondernemingen",
+    "inhoud": "Juridisch niet zelfstandige vestigingen/filialen van",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "verzekeringnemer en de volgende juridisch zelfstandige",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "dochtermaatschappijen en deelnemingen:",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86558}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "86558"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86559}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "86559"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86560}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "86560"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde hoedanigheid",
+    "inhoud": "Beschrijving is conform het uittreksel uit het handelsregister",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "van de Kamer van koophandel van de verzekeringnemer en de",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "medeverzekerde ondernemingen:",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80696}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "80696"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80697}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "80697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80698}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "80698"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80721}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "80721"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "1. De verzekeringnemer en de medeverzekerde ondernemingen;",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "2. De wettelijk bevoegde vertegenwoordigers van de verzekerinnemer",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "en van de medeverzekerde juridisch zelfstandige dochterondernemingen",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "en deelnemingen;",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "3. Alle personeelsleden incl.",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde som",
+    "inhoud": "per rechtsbijstandgebeurtenis in totaal: € ${10241}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "per persoon per rechtsbijstandgebeurtenis binnen de hierboven genoemde",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "verzekerde som € 100.000,00",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "strafborgstelling € 30.000,00",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ondernemingsgegevens",
+    "inhoud": "Betreffende het jaar ${86551}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal medewerkers",
+    "inhoud": "${80165} FTE",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal medewerkers",
+    "inhoud": "${80167} deeltijd",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "80167"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  }
+]

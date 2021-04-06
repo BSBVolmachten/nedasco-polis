@@ -1,0 +1,416 @@
+[
+  {
+    "omschrijving": "Rubriek D",
+    "inhoud": "Gezinsrechtsbijstand",
+    "maatschappijen": [
+      "P374",
+      "P375",
+      "D323"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "P374",
+      "P375",
+      "D323"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${11354o}",
+    "maatschappijen": [
+      "P374",
+      "P375",
+      "D323"
+    ],
+    "vereiste_labels": [
+      "11354o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gegevens statutair directeur",
+    "inhoud": "${11354o}",
+    "maatschappijen": [
+      "P374",
+      "P375",
+      "D323"
+    ],
+    "vereiste_labels": [
+      "11354o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630} geboren ${10633}",
+    "maatschappijen": [
+      "P374",
+      "P375",
+      "D323"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80077}",
+    "maatschappijen": [
+      "P374",
+      "P375",
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meeverzekerd pand",
+    "inhoud": "${80077}, ${80082} te ${80088}",
+    "maatschappijen": [
+      "P374",
+      "P375",
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80078}, ${80083} te ${80089}",
+    "maatschappijen": [
+      "P374",
+      "P375",
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80079}, ${80084} te ${80090}",
+    "maatschappijen": [
+      "P374",
+      "P375",
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80079"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Verzekerde modules",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Personen",
+    "inhoud": "${80249}",
+    "maatschappijen": [
+      "P374",
+      "P375",
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80249"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Rubrieken",
+    "maatschappijen": [
+      "D323"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Wonen",
+    "inhoud": "${12438}",
+    "maatschappijen": [
+      "P374",
+      "P375",
+      "D323"
+    ],
+    "vereiste_labels": [
+      "12438"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Arbeid en Inkomen",
+    "inhoud": "${11519}",
+    "maatschappijen": [
+      "P374",
+      "P375",
+      "D323"
+    ],
+    "vereiste_labels": [
+      "11519"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Motorrijtuig meeverzekerd",
+    "inhoud": "${80185}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80185"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Fiscaal recht & vermogensbeheer",
+    "inhoud": "${11517}",
+    "maatschappijen": [
+      "P374",
+      "P375",
+      "D323"
+    ],
+    "vereiste_labels": [
+      "11517"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Statutair directeur",
+    "inhoud": "${11518}",
+    "maatschappijen": [
+      "P374",
+      "P375",
+      "D323"
+    ],
+    "vereiste_labels": [
+      "11518"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verhuurde woningen",
+    "inhoud": "${12310}",
+    "maatschappijen": [
+      "P374",
+      "P375",
+      "D323"
+    ],
+    "vereiste_labels": [
+      "12310"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verhuurde bedrijfspanden",
+    "inhoud": "${80681}",
+    "maatschappijen": [
+      "P374",
+      "P375",
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80681"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Fiscaal recht & vermogensbeheer",
+    "inhoud": "${84765}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "84765"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Fiscaal recht & vermogensbeheer",
+    "inhoud": "${80254}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80254"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geschil",
+    "inhoud": "Als u een juridisch geschil wilt melden of behoefte heeft aan juridisch advies",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "kunt u contact opnemen met:",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "DAS Rechtsbijstand",
+    "maatschappijen": [
+      "P375",
+      "D323"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "SRK Rechtsbijstand",
+    "maatschappijen": [
+      "P374"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Statutair directeur",
+    "inhoud": "${84766}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "84766"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T 020 - 651 75 17",
+    "maatschappijen": [
+      "P375",
+      "D323"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T 079 - 344 81 81",
+    "maatschappijen": [
+      "P374"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Scheidingsmediation",
+    "inhoud": "${12436}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "12436"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verhuurde woningen",
+    "inhoud": "${84195o}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "84195o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P374"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P375"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verhuurde woningen",
+    "inhoud": "${80680}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80680"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geschil",
+    "inhoud": "Als u een juridisch geschil wilt melden of behoefte heeft aan",
+    "maatschappijen": [
+      "D323"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "juridisch advies kunt u contact opnemen met:",
+    "maatschappijen": [
+      "D323"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80947}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.    ${80947}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "D323"
+    ],
+    "type": "standaard"
+  }
+]

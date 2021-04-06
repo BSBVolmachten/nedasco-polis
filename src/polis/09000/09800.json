@@ -1,0 +1,199 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Anker Eigen Jurist Polis",
+    "maatschappijen": [
+      "A328"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk",
+    "inhoud": "${10218}",
+    "maatschappijen": [
+      "A327"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken(s)",
+    "inhoud": "${10033} ${83069} ${83070} ${83071} ${83072} ${83073}",
+    "maatschappijen": [
+      "A328"
+    ],
+    "vereiste_labels": [
+      "10033"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Model",
+    "inhoud": "${10219}",
+    "maatschappijen": [
+      "A327"
+    ],
+    "vereiste_labels": [
+      "10219"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Type",
+    "inhoud": "${10220}",
+    "maatschappijen": [
+      "A327"
+    ],
+    "vereiste_labels": [
+      "10220"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geschil",
+    "inhoud": "Als u een juridisch geschil wilt melden of behoefte heeft aan juridisch advies",
+    "maatschappijen": [
+      "A328",
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${10033}",
+    "maatschappijen": [
+      "A327"
+    ],
+    "vereiste_labels": [
+      "10033"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "kunt u contact opnemen met:",
+    "maatschappijen": [
+      "A328",
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meldcode",
+    "inhoud": "${10112}",
+    "maatschappijen": [
+      "A327"
+    ],
+    "vereiste_labels": [
+      "10112"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Anker Rechtshulp B.V.",
+    "maatschappijen": [
+      "A328"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T (050) - 520 97 95",
+    "maatschappijen": [
+      "A328"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag franchise",
+    "inhoud": "12434",
+    "maatschappijen": [
+      "A327"
+    ],
+    "vereiste_labels": [
+      "12434"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "E nieuwezaak@anker.nl",
+    "maatschappijen": [
+      "A328"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Vrije Advocaat Keuze (VAK)",
+    "maatschappijen": [
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag VAK",
+    "inhoud": "13617",
+    "maatschappijen": [
+      "A327"
+    ],
+    "vereiste_labels": [
+      "13617"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "A328"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen bijdrage VAK",
+    "inhoud": "80385",
+    "maatschappijen": [
+      "A327"
+    ],
+    "vereiste_labels": [
+      "80385"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "ARAG",
+    "maatschappijen": [
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T (033) - 434 23 42",
+    "maatschappijen": [
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "A327"
+    ],
+    "type": "standaard"
+  }
+]

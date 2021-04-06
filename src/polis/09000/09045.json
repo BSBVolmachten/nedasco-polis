@@ -1,0 +1,176 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Rechtsbijstand (para)medici middels vrije advocaatkeuze",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekking geldt voor",
+    "inhoud": "Beroep en priv",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingssom",
+    "inhoud": "€ ${10241},00 per gebeurtenis",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043},00 per gebeurtenis",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inlooprisico tot 4 jaar",
+    "inhoud": "${80699o}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "80699o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal (para)medici",
+    "inhoud": "${80165} in loondienst",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "80165"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal (para)medici",
+    "inhoud": "${80167} zelfstandig",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "80167"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde(n)",
+    "inhoud": "Naam               Geboortedatum  Hoedanigheid",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630}              ${10633}              ${87179o}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10637} ${10638} ${10636}              ${10639}              ${87180o}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10643} ${10644} ${10642}              ${10645}              ${87181o}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10649} ${10650} ${10648}              ${10651}              ${87182o}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "10648"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10655} ${10656} ${10654}              ${10657}              ${87183o}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "10654"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10661} ${10662} ${10660}              ${10663}              ${87184o}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "10660"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10667} ${10668} ${10666}              ${10669}              ${87185o}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "10666"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10673} ${10674} ${10672}              ${10675}              ${87186o}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "10672"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10679} ${10680} ${10678}              ${10681}              ${87187o}",
+    "maatschappijen": [
+      "R360"
+    ],
+    "vereiste_labels": [
+      "10678"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "R360"
+    ],
+    "type": "standaard"
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Woonsituatie",
+    "inhoud": "${10245o}",
+    "maatschappijen": [
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen woning",
+    "inhoud": "${11515}",
+    "maatschappijen": [
+      "A327"
+    ],
+    "vereiste_labels": [
+      "11515"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingslimiet",
+    "inhoud": "De maximale vergoeding voor externe kosten bedraagt € 15.000,-",
+    "maatschappijen": [
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitsluiting",
+    "inhoud": "Burenrecht                                             ${10704c}",
+    "maatschappijen": [
+      "A327"
+    ],
+    "vereiste_labels": [
+      "10704c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitsluiting",
+    "inhoud": "Motorrijtuigen                                         ${10705c}",
+    "maatschappijen": [
+      "A327"
+    ],
+    "vereiste_labels": [
+      "10705c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitsluiting",
+    "inhoud": "Arbeidsrecht                                           ${10706c}",
+    "maatschappijen": [
+      "A327"
+    ],
+    "vereiste_labels": [
+      "10706c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "maatschappijen": [
+      "A327"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Vrije Advocaat Keuze (VAK)",
+    "maatschappijen": [
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag VAK",
+    "inhoud": "80448",
+    "maatschappijen": [
+      "A327"
+    ],
+    "vereiste_labels": [
+      "80448"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen bijdrage VAK",
+    "inhoud": "80449",
+    "maatschappijen": [
+      "A327"
+    ],
+    "vereiste_labels": [
+      "80449"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geschil",
+    "inhoud": "Als u een juridisch geschil wilt melden of behoefte heeft aan juridisch advies",
+    "maatschappijen": [
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "kunt u contact opnemen met:",
+    "maatschappijen": [
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "ARAG",
+    "maatschappijen": [
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T (033) - 434 23 42",
+    "maatschappijen": [
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "A327"
+    ],
+    "type": "standaard"
+  }
+]
