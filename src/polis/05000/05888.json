@@ -1,0 +1,38 @@
+[
+  {
+    "omschrijving": "Rubriek",
+    "inhoud": "Milieuschade (L)",
+    "maatschappijen": [
+      "P310",
+      "P376",
+      "P375"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P310",
+      "P376",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "P310",
+      "P376",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  }
+]

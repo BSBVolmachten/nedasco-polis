@@ -1,0 +1,236 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}                          ${${10145}}10145${${93041}}93041${93047}${93086}${93051}${93088}${93042}${93082}${93046}${93119}",
+    "maatschappijen": [
+      "P302",
+      "P386"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${11657}",
+    "maatschappijen": [
+      "P386"
+    ],
+    "vereiste_labels": [
+      "11657"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "P302",
+      "P386"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P386"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico-adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032}${80472}  ${10709}",
+    "maatschappijen": [
+      "P302",
+      "P386"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoofdvestiging",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "P386"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bedrijfssector",
+    "inhoud": "${12713o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "12713o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal locaties",
+    "inhoud": "${13618}",
+    "maatschappijen": [
+      "P386"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Horeca aanwezig",
+    "inhoud": "${11891}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "11891"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gevaarlijke stoffen",
+    "inhoud": "${14044} kg / ltrs",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "14044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Neven vestigingen",
+    "inhoud": "${80077} ${80093} ${86451}  ${80082}  ${80088}",
+    "maatschappijen": [
+      "P386"
+    ],
+    "vereiste_labels": [
+      "80077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80078} ${80094} ${86577}  ${80083}  ${80089}",
+    "maatschappijen": [
+      "P386"
+    ],
+    "vereiste_labels": [
+      "80078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal bovengr. tanks",
+    "inhoud": "${12505}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "12505"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80079} ${80095} ${86578}  ${80084}  ${80090}",
+    "maatschappijen": [
+      "P386"
+    ],
+    "vereiste_labels": [
+      "80079"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal mestsilo's",
+    "inhoud": "${80785}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "80785"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoeveelheid brandstof",
+    "inhoud": "${13658} m3",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "13658"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Max. uitkeringstermijn",
+    "inhoud": "${10066} weken",
+    "maatschappijen": [
+      "P386"
+    ],
+    "vereiste_labels": [
+      "10066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Oppervlakte asbest",
+    "inhoud": "${12506} m2",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "12506"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Opslag mest",
+    "inhoud": "${80786} m3",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "80786"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                  Verzekerd bedrag",
+    "maatschappijen": [
+      "P302",
+      "P386"
+    ],
+    "type": "standaard"
+  }
+]

@@ -1,0 +1,2282 @@
+[
+  {
+    "omschrijving": "Rubriek A",
+    "inhoud": "Woonhuis/glas",
+    "maatschappijen": [
+      "05851"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Rubriek B",
+    "inhoud": "Inboedel",
+    "maatschappijen": [
+      "05861"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Rubriek H",
+    "inhoud": "2e Risico-adres",
+    "maatschappijen": [
+      "05852"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05500",
+      "05030",
+      "05505",
+      "05511",
+      "05545",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05640",
+      "05660",
+      "05661",
+      "05662",
+      "05700",
+      "05720",
+      "05730",
+      "05740",
+      "05770",
+      "05780",
+      "05975"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}                          ${${10145}}10145${${93041}}93041${93047}${93086}${93051}${93088}${93042}${93082}${93046}${93119}",
+    "maatschappijen": [
+      "05690"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05500",
+      "05505",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05640",
+      "05660",
+      "05661",
+      "05662",
+      "05700",
+      "05720",
+      "05730",
+      "05740",
+      "05770",
+      "05780",
+      "05851",
+      "05861"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres",
+    "inhoud": "${80077} ${80093} ${86451}",
+    "maatschappijen": [
+      "05852"
+    ],
+    "vereiste_labels": [
+      "80077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risicoadres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "05545",
+      "05975"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032}${80472}   ${10709}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05500",
+      "05505",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05640",
+      "05660",
+      "05690",
+      "05661",
+      "05662",
+      "05700",
+      "05720",
+      "05730",
+      "05740",
+      "05770",
+      "05780",
+      "05851",
+      "05861",
+      "05975"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80082}  ${80088}",
+    "maatschappijen": [
+      "05852"
+    ],
+    "vereiste_labels": [
+      "80082"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032} ${10709}",
+    "maatschappijen": [
+      "05545"
+    ],
+    "vereiste_labels": [
+      "10032"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekking",
+    "inhoud": "buitenshuis in Nederland, voor inboedelzaken volgens beschrijving",
+    "maatschappijen": [
+      "05030"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10713o}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05500",
+      "05505",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05640",
+      "05660",
+      "05661",
+      "05662",
+      "05700",
+      "05720",
+      "05730",
+      "05740",
+      "05770",
+      "05780",
+      "05851",
+      "05861",
+      "05975"
+    ],
+    "vereiste_labels": [
+      "10713o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "polisvoorwaarden tot maximaal € 2.500,- per gebeurtenis.",
+    "maatschappijen": [
+      "05030"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico-adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "05690"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort 2e risico-adres",
+    "inhoud": "${86445o}",
+    "maatschappijen": [
+      "05852"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort installatie",
+    "inhoud": "${80384o}",
+    "maatschappijen": [
+      "05730"
+    ],
+    "vereiste_labels": [
+      "80384o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort object",
+    "inhoud": "${10262o}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05640",
+      "05700",
+      "05720",
+      "05740"
+    ],
+    "vereiste_labels": [
+      "10262o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Woonhuis type",
+    "inhoud": "${10262o}",
+    "maatschappijen": [
+      "05852"
+    ],
+    "vereiste_labels": [
+      "10262o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${10081o}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05500",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05640",
+      "05660",
+      "05661",
+      "05662",
+      "05720",
+      "05740",
+      "05851",
+      "05861",
+      "05975"
+    ],
+    "vereiste_labels": [
+      "10081o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "05500",
+      "05505",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05640",
+      "05660",
+      "05690",
+      "05661",
+      "05662",
+      "05700",
+      "05720",
+      "05730",
+      "05740",
+      "05770",
+      "05780",
+      "05975"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard bak",
+    "inhoud": "${86548o}",
+    "maatschappijen": [
+      "05545"
+    ],
+    "vereiste_labels": [
+      "86548o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Koopwoning",
+    "inhoud": "${11262}",
+    "maatschappijen": [
+      "05861"
+    ],
+    "vereiste_labels": [
+      "11262"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantie",
+    "inhoud": "${83055o} met ingang van ${80480}",
+    "maatschappijen": [
+      "05851"
+    ],
+    "vereiste_labels": [
+      "83055o",
+      "80480"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "05500",
+      "05505",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05640",
+      "05660",
+      "05690",
+      "05661",
+      "05662",
+      "05700",
+      "05720",
+      "05730",
+      "05740",
+      "05770",
+      "05780",
+      "05975"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard muren",
+    "inhoud": "${10686o}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05500",
+      "05505",
+      "05511",
+      "05545",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05640",
+      "05660",
+      "05661",
+      "05662",
+      "05700",
+      "05720",
+      "05730",
+      "05740",
+      "05770",
+      "05780",
+      "05851",
+      "05852",
+      "05861"
+    ],
+    "vereiste_labels": [
+      "10686o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal kamers",
+    "inhoud": "${10250o}",
+    "maatschappijen": [
+      "05500"
+    ],
+    "vereiste_labels": [
+      "10250o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard dak",
+    "inhoud": "${10685o}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05500",
+      "05505",
+      "05511",
+      "05545",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05640",
+      "05660",
+      "05661",
+      "05662",
+      "05700",
+      "05720",
+      "05730",
+      "05740",
+      "05770",
+      "05780",
+      "05851",
+      "05852",
+      "05861"
+    ],
+    "vereiste_labels": [
+      "10685o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kluisgegevens",
+    "inhoud": "${80098}",
+    "maatschappijen": [
+      "05975"
+    ],
+    "vereiste_labels": [
+      "80098"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10220}",
+    "maatschappijen": [
+      "05545"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Specificatie glas",
+    "inhoud": "${80696}",
+    "maatschappijen": [
+      "05505"
+    ],
+    "vereiste_labels": [
+      "80696"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal ruiten",
+    "inhoud": "${80018o}",
+    "maatschappijen": [
+      "05500",
+      "05505"
+    ],
+    "vereiste_labels": [
+      "80018o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal vertrekken",
+    "inhoud": "${10250o}",
+    "maatschappijen": [
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05720",
+      "05740"
+    ],
+    "vereiste_labels": [
+      "10250o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard vloeren",
+    "inhoud": "${10684o}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05505",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05660",
+      "05661",
+      "05662",
+      "05720",
+      "05730",
+      "05740",
+      "05770",
+      "05780",
+      "05851",
+      "05852",
+      "05861"
+    ],
+    "vereiste_labels": [
+      "10684o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Maximale limiet",
+    "inhoud": "${80087}",
+    "maatschappijen": [
+      "05975"
+    ],
+    "vereiste_labels": [
+      "80087"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Naam object",
+    "inhoud": "${80110}",
+    "maatschappijen": [
+      "05545"
+    ],
+    "vereiste_labels": [
+      "80110"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80721}",
+    "maatschappijen": [
+      "05505"
+    ],
+    "vereiste_labels": [
+      "80721"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05511",
+      "05545",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05660",
+      "05661",
+      "05662",
+      "05720",
+      "05730",
+      "05740",
+      "05770",
+      "05780",
+      "05852"
+    ],
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Isolatieglas",
+    "inhoud": "${83047o}",
+    "maatschappijen": [
+      "05500"
+    ],
+    "vereiste_labels": [
+      "83047o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kamerverhuur",
+    "inhoud": "${85317}",
+    "maatschappijen": [
+      "05851",
+      "05861"
+    ],
+    "vereiste_labels": [
+      "85317"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort object",
+    "inhoud": "${84802}",
+    "maatschappijen": [
+      "05770",
+      "05780"
+    ],
+    "vereiste_labels": [
+      "84802"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardeberging",
+    "inhoud": "${80696}",
+    "maatschappijen": [
+      "05975"
+    ],
+    "vereiste_labels": [
+      "80696"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Woonhuis type",
+    "inhoud": "${10262o}",
+    "maatschappijen": [
+      "05852"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80271}",
+    "maatschappijen": [
+      "05505"
+    ],
+    "vereiste_labels": [
+      "80271"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal kamers",
+    "inhoud": "${11301}",
+    "maatschappijen": [
+      "05010",
+      "05020"
+    ],
+    "vereiste_labels": [
+      "11301"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bijzonderheden",
+    "inhoud": "${80696}",
+    "maatschappijen": [
+      "05500"
+    ],
+    "vereiste_labels": [
+      "80696"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${10697}",
+    "maatschappijen": [
+      "05545",
+      "05852"
+    ],
+    "vereiste_labels": [
+      "10697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gegevens stacaravan/chalet",
+    "inhoud": "${10218}",
+    "maatschappijen": [
+      "05852"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Maximum jaaromzet",
+    "inhoud": "10069",
+    "maatschappijen": [
+      "05975"
+    ],
+    "vereiste_labels": [
+      "10069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Permanente bewoning",
+    "inhoud": "${11307}",
+    "maatschappijen": [
+      "05851",
+      "05861"
+    ],
+    "vereiste_labels": [
+      "11307"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort object",
+    "inhoud": "${84216o}",
+    "maatschappijen": [
+      "05660",
+      "05661",
+      "05662"
+    ],
+    "vereiste_labels": [
+      "84216o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd belang",
+    "inhoud": "${80054o}",
+    "maatschappijen": [
+      "05700"
+    ],
+    "vereiste_labels": [
+      "80054o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd belang bedrijfsschade",
+    "inhoud": "${80054o}",
+    "maatschappijen": [
+      "05640"
+    ],
+    "vereiste_labels": [
+      "80054o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10043}",
+    "maatschappijen": [
+      "05975"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80697}",
+    "maatschappijen": [
+      "05500",
+      "05505"
+    ],
+    "vereiste_labels": [
+      "80697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal PK's",
+    "inhoud": "${80126}",
+    "maatschappijen": [
+      "05545"
+    ],
+    "vereiste_labels": [
+      "80126"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Buitenshuisdekking",
+    "inhoud": "${86055}",
+    "maatschappijen": [
+      "05010",
+      "05020"
+    ],
+    "vereiste_labels": [
+      "86055"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043}  ${10044o}",
+    "maatschappijen": [
+      "05861"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Fundamenten meeverzekerd",
+    "inhoud": "${80099}",
+    "maatschappijen": [
+      "05851"
+    ],
+    "vereiste_labels": [
+      "80099"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "In-decrease bedrijfsschade",
+    "inhoud": "${10084o}",
+    "maatschappijen": [
+      "05640"
+    ],
+    "vereiste_labels": [
+      "10084o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${80066}",
+    "maatschappijen": [
+      "05660",
+      "05661",
+      "05662",
+      "05770",
+      "05780"
+    ],
+    "vereiste_labels": [
+      "80066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk/type",
+    "inhoud": "${10218} ${10219}",
+    "maatschappijen": [
+      "05852"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Constructie/beveiliging/belending",
+    "inhoud": "${86416o}",
+    "maatschappijen": [
+      "05851",
+      "05852"
+    ],
+    "vereiste_labels": [
+      "86416o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Serienummer",
+    "inhoud": "${10697}",
+    "maatschappijen": [
+      "05660",
+      "05661",
+      "05662",
+      "05770",
+      "05780"
+    ],
+    "vereiste_labels": [
+      "10697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Sieraden",
+    "inhoud": "${86504o}",
+    "maatschappijen": [
+      "05010",
+      "05020"
+    ],
+    "vereiste_labels": [
+      "86504o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringstermijn",
+    "inhoud": "Maximaal ${10066} weken",
+    "maatschappijen": [
+      "05700",
+      "05730"
+    ],
+    "vereiste_labels": [
+      "10066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringstermijn bedrijfsschade",
+    "inhoud": "Maximaal ${10066} weken",
+    "maatschappijen": [
+      "05640"
+    ],
+    "vereiste_labels": [
+      "10066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Foto/audio",
+    "inhoud": "${86505o}",
+    "maatschappijen": [
+      "05010",
+      "05020"
+    ],
+    "vereiste_labels": [
+      "86505o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Oppervlakte asbest",
+    "inhoud": "${12506} m2",
+    "maatschappijen": [
+      "05511",
+      "05521",
+      "05550",
+      "05630",
+      "05631",
+      "05690",
+      "05700"
+    ],
+    "vereiste_labels": [
+      "12506"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico-adres bijgebouw",
+    "inhoud": "${86423} ${86424} ${86425}",
+    "maatschappijen": [
+      "05851"
+    ],
+    "vereiste_labels": [
+      "86423"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantie",
+    "inhoud": "Garantie tegen onderverzekering is van toepassing met ingang van ${80480}",
+    "maatschappijen": [
+      "05861"
+    ],
+    "vereiste_labels": [
+      "80480"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86426} ${86427}",
+    "maatschappijen": [
+      "05851"
+    ],
+    "vereiste_labels": [
+      "86426"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bijzondere bezittingen",
+    "inhoud": "${86506o}",
+    "maatschappijen": [
+      "05010",
+      "05020"
+    ],
+    "vereiste_labels": [
+      "86506o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "05660",
+      "05661",
+      "05662"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort rieten dak",
+    "inhoud": "${12643o}",
+    "maatschappijen": [
+      "05511"
+    ],
+    "vereiste_labels": [
+      "12643o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Staat van onderhoud",
+    "inhoud": "${10693o}",
+    "maatschappijen": [
+      "05852"
+    ],
+    "vereiste_labels": [
+      "10693o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "maatschappijen": [
+      "05545",
+      "05975"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantie",
+    "inhoud": "${83055o}     ${84622}",
+    "maatschappijen": [
+      "05861"
+    ],
+    "vereiste_labels": [
+      "83055o",
+      "84622"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard bijgebouw",
+    "inhoud": "${86428o}",
+    "maatschappijen": [
+      "05851"
+    ],
+    "vereiste_labels": [
+      "86428o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${83077}",
+    "maatschappijen": [
+      "05852"
+    ],
+    "vereiste_labels": [
+      "83077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Buiten de woning",
+    "inhoud": "${86507o}",
+    "maatschappijen": [
+      "05010",
+      "05020"
+    ],
+    "vereiste_labels": [
+      "86507o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Constructie riet. dak",
+    "inhoud": "${11333o}",
+    "maatschappijen": [
+      "05511"
+    ],
+    "vereiste_labels": [
+      "11333o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${84214o}",
+    "maatschappijen": [
+      "05660"
+    ],
+    "vereiste_labels": [
+      "84214o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${84887} per gebeurtenis, met uitzondering van schade door brand, ontploffing, bliksem",
+    "maatschappijen": [
+      "05640"
+    ],
+    "vereiste_labels": [
+      "84887"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Preventiekorting",
+    "inhoud": "${86050}%",
+    "maatschappijen": [
+      "05861"
+    ],
+    "vereiste_labels": [
+      "86050"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "bliksem en luchtvaartuigen. Zie tevens het in de polisvoorwaarden en eventueel",
+    "inhoud": "${84887}",
+    "maatschappijen": [
+      "05640"
+    ],
+    "vereiste_labels": [
+      "84887"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Afmakingscourtage",
+    "inhoud": "Is ${83048o}",
+    "maatschappijen": [
+      "05861"
+    ],
+    "vereiste_labels": [
+      "83048o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigenaarsbelang",
+    "inhoud": "${86508o}",
+    "maatschappijen": [
+      "05010",
+      "05020"
+    ],
+    "vereiste_labels": [
+      "86508o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "In-decrease",
+    "inhoud": "${10084o}",
+    "maatschappijen": [
+      "05560",
+      "05570",
+      "05700"
+    ],
+    "vereiste_labels": [
+      "10084o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Perc. rietdekking",
+    "inhoud": "${12383} %",
+    "maatschappijen": [
+      "05511"
+    ],
+    "vereiste_labels": [
+      "12383"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Staat van onderhoud",
+    "inhoud": "${86446o}",
+    "maatschappijen": [
+      "05852"
+    ],
+    "vereiste_labels": [
+      "86446o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "en luchtvaartuigen. Zie tevens het gestelde in de polisvoorwaarden en eventueel",
+    "inhoud": "${84887}",
+    "maatschappijen": [
+      "05730"
+    ],
+    "vereiste_labels": [
+      "84887"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "gestelde in de polisvoorwaarden en eventueel van toepassing zijde clausules.",
+    "inhoud": "${84887}",
+    "maatschappijen": [
+      "05700"
+    ],
+    "vereiste_labels": [
+      "84887"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "van toepassing zijnde clausules.",
+    "inhoud": "${84887}",
+    "maatschappijen": [
+      "05640",
+      "05730"
+    ],
+    "vereiste_labels": [
+      "84887"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o} per gebeurtenis",
+    "maatschappijen": [
+      "05660"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico elektronica",
+    "inhoud": "80044",
+    "maatschappijen": [
+      "05661",
+      "05662"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico storm",
+    "inhoud": "€ ${80440},-  per gebeurtenis",
+    "maatschappijen": [
+      "05851"
+    ],
+    "vereiste_labels": [
+      "80440"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inventaris",
+    "inhoud": "${86509o}",
+    "maatschappijen": [
+      "05010",
+      "05020"
+    ],
+    "vereiste_labels": [
+      "86509o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Machimale houtbew.",
+    "inhoud": "${11951}",
+    "maatschappijen": [
+      "05511"
+    ],
+    "vereiste_labels": [
+      "11951"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal uren per week",
+    "inhoud": "${14210}",
+    "maatschappijen": [
+      "05511"
+    ],
+    "vereiste_labels": [
+      "14210"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico elektronica",
+    "inhoud": "€ ${80044}  per gebeurtenis",
+    "maatschappijen": [
+      "05660"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Preventie",
+    "inhoud": "${80041o}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05720",
+      "05730",
+      "05740",
+      "05770",
+      "05780"
+    ],
+    "vereiste_labels": [
+      "80041o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vrijwillig eigen risico",
+    "inhoud": "11450",
+    "maatschappijen": [
+      "05851",
+      "05861"
+    ],
+    "vereiste_labels": [
+      "11450"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanvullende dekking %",
+    "inhoud": "${80032o}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05720",
+      "05730",
+      "05740",
+      "05770",
+      "05780"
+    ],
+    "vereiste_labels": [
+      "80032o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Afkoop eigen risico",
+    "inhoud": "${80684o}",
+    "maatschappijen": [
+      "05852"
+    ],
+    "vereiste_labels": [
+      "80684o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Brandgevaarl.wrkzhdn",
+    "inhoud": "${12417}",
+    "maatschappijen": [
+      "05511"
+    ],
+    "vereiste_labels": [
+      "12417"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico data",
+    "inhoud": "80045",
+    "maatschappijen": [
+      "05661",
+      "05662"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico extra kosten",
+    "inhoud": "${83171} dagen",
+    "maatschappijen": [
+      "05660",
+      "05661",
+      "05662"
+    ],
+    "vereiste_labels": [
+      "83171"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanvullende dekking",
+    "inhoud": "${84207o}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05720",
+      "05740",
+      "05770",
+      "05780"
+    ],
+    "vereiste_labels": [
+      "84207o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bijzonder glas",
+    "inhoud": "80373",
+    "maatschappijen": [
+      "05511"
+    ],
+    "vereiste_labels": [
+      "80373"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico data",
+    "inhoud": "€ ${80045}  per gebeurtenis",
+    "maatschappijen": [
+      "05660"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico programmatuur",
+    "inhoud": "80046",
+    "maatschappijen": [
+      "05661",
+      "05662"
+    ],
+    "vereiste_labels": [
+      "80046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Loyaliteitskorting",
+    "inhoud": "${89996}%",
+    "maatschappijen": [
+      "05851",
+      "05852",
+      "05861"
+    ],
+    "vereiste_labels": [
+      "89996"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vrijwillig eigen risico",
+    "inhoud": "80044",
+    "maatschappijen": [
+      "05770",
+      "05780"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico programmatuur",
+    "inhoud": "€ ${80046}  per gebeurtenis",
+    "maatschappijen": [
+      "05660"
+    ],
+    "vereiste_labels": [
+      "80046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Fundamenten",
+    "inhoud": "Zijn ${10596o}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05720",
+      "05740",
+      "05770",
+      "05780"
+    ],
+    "vereiste_labels": [
+      "10596o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico transport",
+    "inhoud": "€ ${80047}  per gebeurtenis",
+    "maatschappijen": [
+      "05660"
+    ],
+    "vereiste_labels": [
+      "80047"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "05500"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "05505"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantie",
+    "inhoud": "De waardegarantie is ingegaan in ${80057} met een geldigheid van ${80058} maanden",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05720",
+      "05740"
+    ],
+    "vereiste_labels": [
+      "80057"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "bliksem en luchtvaartuigen. Zie tevens het gestelde in de polisvoorwaarden",
+    "inhoud": "${84887}",
+    "maatschappijen": [
+      "05630",
+      "05631",
+      "05720",
+      "05740"
+    ],
+    "vereiste_labels": [
+      "84887"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05511",
+      "05545",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05640",
+      "05661",
+      "05662",
+      "05700",
+      "05720",
+      "05730",
+      "05740",
+      "05770",
+      "05780",
+      "05851",
+      "05852",
+      "05975"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${84887} per gebeurtenis, met uitzondering van schade door brand, ontploffing, bliksem,",
+    "maatschappijen": [
+      "05521",
+      "05700",
+      "05730"
+    ],
+    "vereiste_labels": [
+      "84887"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringstermijn extra kosten",
+    "inhoud": "${84212} weken",
+    "maatschappijen": [
+      "05660",
+      "05661",
+      "05662"
+    ],
+    "vereiste_labels": [
+      "84212"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "en eventueel van toepassing zijnde clausules.",
+    "inhoud": "${84887}",
+    "maatschappijen": [
+      "05630",
+      "05631",
+      "05720",
+      "05740"
+    ],
+    "vereiste_labels": [
+      "84887"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "luchtvaartuigen, stormschade aan gebouwen en schade aan glas. Zie tevens het",
+    "inhoud": "${84887}",
+    "maatschappijen": [
+      "05521",
+      "05700"
+    ],
+    "vereiste_labels": [
+      "84887"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico diefstal",
+    "inhoud": "80044",
+    "maatschappijen": [
+      "05010",
+      "05020"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "In-decrease %",
+    "inhoud": "${10084o}",
+    "maatschappijen": [
+      "05511",
+      "05521",
+      "05550",
+      "05630",
+      "05631",
+      "05720",
+      "05740",
+      "05770",
+      "05780"
+    ],
+    "vereiste_labels": [
+      "10084o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringstermijn data",
+    "inhoud": "${84223} weken",
+    "maatschappijen": [
+      "05660",
+      "05661",
+      "05662"
+    ],
+    "vereiste_labels": [
+      "84223"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "gestelde in de polisvoorwaarden en eventueel van toepassing zijnde clausules.",
+    "inhoud": "${84887}",
+    "maatschappijen": [
+      "05521"
+    ],
+    "vereiste_labels": [
+      "84887"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Eigen risico stormschade  2% van het verzekerd bedrag, minimum € 225,00, maximum € 450,00    ${84931c}",
+    "maatschappijen": [
+      "05010",
+      "05020"
+    ],
+    "vereiste_labels": [
+      "84931c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.    ${80947}",
+    "maatschappijen": [
+      "05640"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.   ${80947}",
+    "maatschappijen": [
+      "05700",
+      "05780"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inductie",
+    "inhoud": "Is ${83049o}",
+    "maatschappijen": [
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05640",
+      "05700",
+      "05720",
+      "05730",
+      "05740",
+      "05770",
+      "05780"
+    ],
+    "vereiste_labels": [
+      "83049o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Specificatie eigen risico",
+    "inhoud": "${84288o}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05720",
+      "05740",
+      "05770",
+      "05780"
+    ],
+    "vereiste_labels": [
+      "84288o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80039}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05500",
+      "05505",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05640",
+      "05660",
+      "05661",
+      "05662",
+      "05700",
+      "05720",
+      "05730",
+      "05740",
+      "05770",
+      "05780",
+      "05851",
+      "05852"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Co-assurantie",
+    "inhoud": "${80039}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05500",
+      "05505",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05640",
+      "05660",
+      "05661",
+      "05662",
+      "05700",
+      "05720",
+      "05730",
+      "05740",
+      "05770",
+      "05780",
+      "05851",
+      "05852",
+      "05861"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringstermijn",
+    "inhoud": "${10066} weken",
+    "maatschappijen": [
+      "05511"
+    ],
+    "vereiste_labels": [
+      "10066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- maatschappij",
+    "inhoud": "${80043}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05500",
+      "05505",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05640",
+      "05660",
+      "05661",
+      "05662",
+      "05700",
+      "05720",
+      "05730",
+      "05740",
+      "05770",
+      "05780",
+      "05851",
+      "05852",
+      "05861"
+    ],
+    "vereiste_labels": [
+      "80043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- polisnummer",
+    "inhoud": "${80471}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05500",
+      "05505",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05640",
+      "05660",
+      "05661",
+      "05662",
+      "05700",
+      "05720",
+      "05730",
+      "05740",
+      "05770",
+      "05780",
+      "05851",
+      "05852",
+      "05861"
+    ],
+    "vereiste_labels": [
+      "80471"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80044} ${80049o}",
+    "maatschappijen": [
+      "05511",
+      "05521"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing    ${80947}",
+    "maatschappijen": [
+      "05770"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- dekking",
+    "inhoud": "${80026}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05500",
+      "05505",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05640",
+      "05660",
+      "05661",
+      "05662",
+      "05700",
+      "05720",
+      "05730",
+      "05740",
+      "05770",
+      "05780",
+      "05851",
+      "05852",
+      "05861"
+    ],
+    "vereiste_labels": [
+      "80026"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Extra eigen risico",
+    "inhoud": "11450",
+    "maatschappijen": [
+      "05511",
+      "05630",
+      "05631"
+    ],
+    "vereiste_labels": [
+      "11450"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80947}",
+    "maatschappijen": [
+      "05560",
+      "05570",
+      "05640",
+      "05700",
+      "05770",
+      "05780"
+    ],
+    "vereiste_labels": [
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- verzekerd bedrag",
+    "inhoud": "80039",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05500",
+      "05505",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05640",
+      "05660",
+      "05661",
+      "05662",
+      "05700",
+      "05720",
+      "05730",
+      "05740",
+      "05770",
+      "05780",
+      "05851",
+      "05852",
+      "05861"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${84887} per gebeurtenis, met uitzondering van schade door brand, ontploffing,",
+    "maatschappijen": [
+      "05511",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05720",
+      "05740"
+    ],
+    "vereiste_labels": [
+      "84887"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "bliksem, luchtvaartuigen en stormschade aan gebouwen. Zie tevens het gestelde",
+    "inhoud": " ${84887}",
+    "maatschappijen": [
+      "05511",
+      "05550",
+      "05560",
+      "05570"
+    ],
+    "vereiste_labels": [
+      "84887"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- einddatum",
+    "inhoud": " ${80040}",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05500",
+      "05505",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05640",
+      "05660",
+      "05661",
+      "05662",
+      "05700",
+      "05720",
+      "05730",
+      "05740",
+      "05770",
+      "05780",
+      "05851",
+      "05852",
+      "05861"
+    ],
+    "vereiste_labels": [
+      "80040"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": " Op deze verzekering is ${80946o} van toepassing.   ${80947}",
+    "maatschappijen": [
+      "05560",
+      "05570"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                  Verzekerd bedrag",
+    "maatschappijen": [
+      "05660",
+      "05690",
+      "05720",
+      "05740"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "in de polisvoorwaarden en eventueel van toepassing zijnde clausules.",
+    "inhoud": "${84887}",
+    "maatschappijen": [
+      "05511",
+      "05550",
+      "05560",
+      "05570"
+    ],
+    "vereiste_labels": [
+      "84887"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "05010",
+      "05020",
+      "05030",
+      "05511",
+      "05521",
+      "05550",
+      "05560",
+      "05570",
+      "05630",
+      "05631",
+      "05640",
+      "05661",
+      "05662",
+      "05700",
+      "05730",
+      "05770",
+      "05780",
+      "05851",
+      "05852",
+      "05861"
+    ],
+    "type": "standaard"
+  }
+]

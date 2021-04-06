@@ -1,0 +1,154 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032}${80472}   ${10709}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10713o}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10713o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Rubriek I",
+    "inhoud": "Schade aan het werk",
+    "maatschappijen": [
+      "P315"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag",
+    "inhoud": "€ ${10039} inclusief BTW, zijnde de geschatte eindwaarde",
+    "maatschappijen": [
+      "P315"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} per gebeurtenis",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "€ ${80044} in geval van schade onstaan door diefstal, vandalisme, storm en brandstichting",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Rubriek II",
+    "inhoud": "Aansprakelijkheid",
+    "maatschappijen": [
+      "P315"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag",
+    "inhoud": "€ 250.000,00 zijnde het maximum per gebeurtenis",
+    "maatschappijen": [
+      "P315"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} per gebeurtenis, niet van toepassing in geval van letselschade",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Rubriek III",
+    "inhoud": "Bestaande eigendommen opdrachtgever",
+    "maatschappijen": [
+      "P315"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag",
+    "inhoud": "€  25.000,00 zijnde het maximum per gebeurtenis",
+    "maatschappijen": [
+      "P315"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} per gebeurtenis",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  }
+]

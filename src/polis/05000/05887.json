@@ -1,0 +1,32 @@
+[
+  {
+    "omschrijving": "Rubriek",
+    "inhoud": "Lichtreclame (H)",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort lichtreclame",
+    "inhoud": "${83043o}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aansprakelijkheid",
+    "inhoud": "${83206o}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}                          ${${10145}}10145${${93041}}93041${93047}${93086}${93051}${93088}${93042}${93082}${93046}${93119}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nevenactiviteit 1",
+    "inhoud": "${12529o}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "12529o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nevenactiviteit 2",
+    "inhoud": "${81205o}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "81205o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico-adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032}${80472}  ${10709}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bedrijfssector",
+    "inhoud": "${12713o}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "12713o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Horeca aanwezig",
+    "inhoud": "${11891}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "11891"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitgangspunten",
+    "inhoud": "- Gevaarlijke stoffen   ${14044} kg / ltrs",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "14044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- Aantal bovengr. tanks",
+    "inhoud": "${12505}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- Aantal mestsilo's",
+    "inhoud": "${80785}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "80785"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- Hoeveelheid brandstof",
+    "inhoud": "${13658} m3",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "13658"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- Oppervlakte asbest",
+    "inhoud": "${12506} m2",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "12506"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- Opslag mest",
+    "inhoud": "${80786} m3",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "80786"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- Jaardoorzet brandstof",
+    "inhoud": "${13658}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "13658"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- Hoev.kunststof/rubber",
+    "inhoud": "${14043}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "14043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaaromzet excl.BTW",
+    "inhoud": "10078",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "P311"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                  Verzekerd bedrag",
+    "maatschappijen": [
+      "P311"
+    ],
+    "type": "standaard"
+  }
+]

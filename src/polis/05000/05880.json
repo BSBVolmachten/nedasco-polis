@@ -1,0 +1,168 @@
+[
+  {
+    "omschrijving": "Rubriek",
+    "inhoud": "Gebouwen (A)",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico-adres",
+    "inhoud": "${10708} ${10710}${10711} ${10709}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard muren",
+    "inhoud": "${10686o}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10686o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard dak",
+    "inhoud": "${10685o}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10685o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard vloer",
+    "inhoud": "${10684o}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10684o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043}  ${10044o}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Afkoop eigen risico",
+    "inhoud": "${80684o}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80684o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Opruimingskosten",
+    "inhoud": "${84255o}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "84255o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Onderverzekering",
+    "inhoud": "${84256o}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "84256o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanvullende dekking",
+    "inhoud": "${80032o}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80032o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hak en breekwerk",
+    "inhoud": "${84257o}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "84257o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inductie",
+    "inhoud": "${84258o}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "84258o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Afmakingscourtage",
+    "inhoud": "Is ${83048o}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "83048o"
+    ],
+    "type": "standaard"
+  }
+]

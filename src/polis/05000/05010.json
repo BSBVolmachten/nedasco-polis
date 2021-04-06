@@ -1,0 +1,1012 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P306",
+      "P302",
+      "P308",
+      "P310",
+      "P315",
+      "P311",
+      "P330",
+      "P372",
+      "P357",
+      "P368",
+      "P353",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "P306",
+      "P302",
+      "P308",
+      "P310",
+      "P315",
+      "P311",
+      "P330",
+      "P372",
+      "P357",
+      "P368",
+      "P353",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032}${80472}   ${10709}",
+    "maatschappijen": [
+      "P306",
+      "P302",
+      "P308",
+      "P310",
+      "P315",
+      "P311",
+      "P330",
+      "P372",
+      "P357",
+      "P368",
+      "P353",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10713o}",
+    "maatschappijen": [
+      "P306",
+      "P302",
+      "P308",
+      "P310",
+      "P315",
+      "P311",
+      "P330",
+      "P372",
+      "P357",
+      "P368",
+      "P353",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10713o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${10081o}",
+    "maatschappijen": [
+      "P306",
+      "P302",
+      "P308",
+      "P315",
+      "P311",
+      "P330",
+      "P372",
+      "P357",
+      "P368",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10081o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort object",
+    "inhoud": "${10262o}",
+    "maatschappijen": [
+      "P302",
+      "P308",
+      "P315",
+      "P330",
+      "P372",
+      "P368",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10262o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard muren",
+    "inhoud": "${10686o}",
+    "maatschappijen": [
+      "P306",
+      "P302",
+      "P308",
+      "P310",
+      "P315",
+      "P311",
+      "P330",
+      "P372",
+      "P357",
+      "P368",
+      "P353",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10686o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard dak",
+    "inhoud": "${10685o}",
+    "maatschappijen": [
+      "P306",
+      "P302",
+      "P308",
+      "P310",
+      "P315",
+      "P311",
+      "P330",
+      "P372",
+      "P357",
+      "P368",
+      "P353",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10685o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard vloeren",
+    "inhoud": "${10684o}",
+    "maatschappijen": [
+      "P306",
+      "P302",
+      "P308",
+      "P310",
+      "P315",
+      "P330",
+      "P372",
+      "P357",
+      "P368",
+      "P353",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10684o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kamerverhuur",
+    "inhoud": "${85317}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "85317"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiliging",
+    "inhoud": "${10259o}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10259o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "P306",
+      "P302",
+      "P308",
+      "P315",
+      "P330",
+      "P372",
+      "P368",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Permanente bewoning",
+    "inhoud": "${11307}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "11307"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Buitenshuisdekking",
+    "inhoud": "${86055}",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P315",
+      "P311",
+      "P357",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "86055"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043}  ${10044o}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Garantie tegen onderverzekering",
+    "inhoud": "${10687o}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10687o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal kamers",
+    "inhoud": "${11301}",
+    "maatschappijen": [
+      "P308",
+      "P315",
+      "P311",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "11301"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Preventie",
+    "inhoud": "${80041o}",
+    "maatschappijen": [
+      "P306",
+      "P302",
+      "P308",
+      "P315",
+      "P311",
+      "P330",
+      "P372",
+      "P357",
+      "P368",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80041o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vrijwillig eigen risico",
+    "inhoud": "80044",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanvullende dekking %",
+    "inhoud": "${80032o}",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P315",
+      "P311",
+      "P330",
+      "P357",
+      "P368",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80032o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Buitenhuisdekking meeverzekerd",
+    "inhoud": "${86055}",
+    "maatschappijen": [
+      "P302",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "86055"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Extra vrijwillig eigen risico",
+    "inhoud": "11450",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "11450"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanvullende dekking",
+    "inhoud": "${84207o}",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P315",
+      "P311",
+      "P330",
+      "P357",
+      "P368",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "84207o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Afkoop eigen risico",
+    "inhoud": "${80684o}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80684o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Sieraden",
+    "inhoud": "${86504o}",
+    "maatschappijen": [
+      "P308",
+      "P311",
+      "P357",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "86504o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Foto/audio",
+    "inhoud": "${86505o}",
+    "maatschappijen": [
+      "P308",
+      "P311",
+      "P357",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "86505o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Fundamenten",
+    "inhoud": "Zijn ${10596o}",
+    "maatschappijen": [
+      "P306",
+      "P302",
+      "P308",
+      "P315",
+      "P311",
+      "P330",
+      "P372",
+      "P357",
+      "P368",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10596o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kantoor/praktijk",
+    "inhoud": "${80838o}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "80838o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantie",
+    "inhoud": "Garantie tegen onderverzekering is van toepassing met ingang van ${80057}",
+    "maatschappijen": [
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80057"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantie",
+    "inhoud": "Garantie tegen onderverzekering is van toepassing met ingang van ${80480}",
+    "maatschappijen": [
+      "P310",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80480"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bijzondere bezittingen",
+    "inhoud": "${86506o}",
+    "maatschappijen": [
+      "P308",
+      "P311",
+      "P357",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "86506o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag kantoor",
+    "inhoud": "${80838o}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "80838o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantie",
+    "inhoud": "${83055o}     ${84622}",
+    "maatschappijen": [
+      "P310",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "83055o",
+      "84622"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantie",
+    "inhoud": "De waardegarantie is ingegaan in ${80057} met een geldigheid van ${80058} maanden",
+    "maatschappijen": [
+      "P306",
+      "P302",
+      "P308",
+      "P315",
+      "P311",
+      "P330",
+      "P372",
+      "P368",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80057"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantie geldigheid",
+    "inhoud": "${80058} maanden",
+    "maatschappijen": [
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80058"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Afkoop eigen risco all risk",
+    "inhoud": "${80684o}",
+    "maatschappijen": [
+      "P302",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "80684o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Buiten de woning",
+    "inhoud": "${86507o}",
+    "maatschappijen": [
+      "P308",
+      "P311",
+      "P357",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "86507o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "maatschappijen": [
+      "P306",
+      "P302",
+      "P308",
+      "P315",
+      "P311",
+      "P372",
+      "P357",
+      "P368",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "${84299o}",
+    "maatschappijen": [
+      "P330"
+    ],
+    "vereiste_labels": [
+      "84299o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Extra bedrag lijfsieraden",
+    "inhoud": "11316",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "11316"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Preventiekorting",
+    "inhoud": "${86050}%",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "86050"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Afmakingscourtage",
+    "inhoud": "Is ${83048o}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "83048o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico diefstal",
+    "inhoud": "80044",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P315",
+      "P311",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico kostbaarh. 10%",
+    "inhoud": "${84998o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "84998o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigenaarsbelang",
+    "inhoud": "${86508o}",
+    "maatschappijen": [
+      "P308",
+      "P311",
+      "P357",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "86508o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Extra bedrag verzamelingen",
+    "inhoud": "11318",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "11318"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Omschrijving",
+    "inhoud": "${10044o}",
+    "maatschappijen": [
+      "P330"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico storm",
+    "inhoud": "${11330}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "11330"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Eigen risico stormschade  2% van het verzekerd bedrag, minimum € 225,00, maximum € 450,00    ${84931c}",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P315",
+      "P311",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "84931c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Extra bedrag audiovisueel",
+    "inhoud": "11319",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "11319"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inventaris",
+    "inhoud": "${86509o}",
+    "maatschappijen": [
+      "P308",
+      "P311",
+      "P357",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "86509o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Buitenshuisdekking",
+    "inhoud": "${10245o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10245o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Extra bedrag kunst/antiek",
+    "inhoud": "11322",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "11322"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Specificatie eigen risico",
+    "inhoud": "${84288o}",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P315",
+      "P311",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "84288o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80039}",
+    "maatschappijen": [
+      "P306",
+      "P302",
+      "P308",
+      "P315",
+      "P311",
+      "P330",
+      "P372",
+      "P357",
+      "P368",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Extra bedrag instrumenten",
+    "inhoud": "11324",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "11324"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Co-assurantie",
+    "inhoud": "${80039}",
+    "maatschappijen": [
+      "P306",
+      "P302",
+      "P308",
+      "P310",
+      "P315",
+      "P311",
+      "P330",
+      "P372",
+      "P357",
+      "P368",
+      "P353",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- maatschappij",
+    "inhoud": "${80043}",
+    "maatschappijen": [
+      "P306",
+      "P302",
+      "P308",
+      "P310",
+      "P315",
+      "P311",
+      "P330",
+      "P372",
+      "P357",
+      "P368",
+      "P353",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- polisnummer",
+    "inhoud": "${80471}",
+    "maatschappijen": [
+      "P306",
+      "P302",
+      "P308",
+      "P310",
+      "P315",
+      "P311",
+      "P330",
+      "P372",
+      "P357",
+      "P368",
+      "P353",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80471"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- dekking",
+    "inhoud": "${80026}",
+    "maatschappijen": [
+      "P306",
+      "P302",
+      "P308",
+      "P310",
+      "P315",
+      "P311",
+      "P330",
+      "P372",
+      "P357",
+      "P368",
+      "P353",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80026"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- verzekerd bedrag",
+    "inhoud": "80039",
+    "maatschappijen": [
+      "P306",
+      "P302",
+      "P308",
+      "P310",
+      "P311",
+      "P330",
+      "P372",
+      "P357",
+      "P368",
+      "P353",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P302",
+      "P310",
+      "P315",
+      "P311",
+      "P330",
+      "P372",
+      "P353",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- einddatum",
+    "inhoud": "${80040}",
+    "maatschappijen": [
+      "P306",
+      "P302",
+      "P308",
+      "P310",
+      "P315",
+      "P311",
+      "P330",
+      "P372",
+      "P357",
+      "P368",
+      "P353",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80040"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 ${87254o}",
+    "maatschappijen": [
+      "P306",
+      "P308",
+      "P368"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- verzekerd bedrag",
+    "inhoud": " € ${80039}",
+    "maatschappijen": [
+      "P315"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  }
+]

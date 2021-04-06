@@ -1,0 +1,323 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}                                           ${93116}${93047}${93086}${93088}${93051}${93042}${93082}${93046}${93041}${93043}",
+    "maatschappijen": [
+      "P353",
+      "P300"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "P353",
+      "P300"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032}${80472}   ${10709}",
+    "maatschappijen": [
+      "P353",
+      "P300"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aard bedrijf",
+    "inhoud": "${12454o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12454o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10713o}",
+    "maatschappijen": [
+      "P353",
+      "P300"
+    ],
+    "vereiste_labels": [
+      "10713o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${10081o}",
+    "maatschappijen": [
+      "P353",
+      "P300"
+    ],
+    "vereiste_labels": [
+      "10081o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P353",
+      "P300"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "P353",
+      "P300"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80696}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80696"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80697}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard muren",
+    "inhoud": "${10686o}",
+    "maatschappijen": [
+      "P353",
+      "P300"
+    ],
+    "vereiste_labels": [
+      "10686o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort object",
+    "inhoud": "${84216o}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "84216o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard dak",
+    "inhoud": "${10685o}",
+    "maatschappijen": [
+      "P353",
+      "P300"
+    ],
+    "vereiste_labels": [
+      "10685o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${80066}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "80066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard vloeren",
+    "inhoud": "${10684o}",
+    "maatschappijen": [
+      "P353",
+      "P300"
+    ],
+    "vereiste_labels": [
+      "10684o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Serienummer",
+    "inhoud": "${10697}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "10697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort apparatuur",
+    "inhoud": "${13719o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "13719o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "ZZP-er",
+    "inhoud": "${12499}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12499"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Percentage buiten gebruik",
+    "inhoud": "${13801}  %",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "13801"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043}  per gebeurtenis",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico transportdekking",
+    "inhoud": "€ ${80047}  per gebeurtenis",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "80047"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico elektronica",
+    "inhoud": "€ ${80044}  per gebeurtenis",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico data/extra kosten",
+    "inhoud": "€ ${80045}  per gebeurtenis",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P353",
+      "P300"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringstermijn extra kosten",
+    "inhoud": "${84212} weken",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "84212"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringstermijn data",
+    "inhoud": "${84223} weken",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "84223"
+    ],
+    "type": "standaard"
+  }
+]

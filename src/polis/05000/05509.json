@@ -1,0 +1,435 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032}${80472}   ${10709}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10713o}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10713o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort object",
+    "inhoud": "${10262o}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10262o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${10081o}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10081o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard muren",
+    "inhoud": "${10686o}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10686o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard dak",
+    "inhoud": "${10685o}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10685o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard vloeren",
+    "inhoud": "${10684o}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10684o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dakconstructie",
+    "inhoud": "${12339o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "12339o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Koopwoning",
+    "inhoud": "${11262}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "11262"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Horeca in pand",
+    "inhoud": "${11891}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "11891"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Monumentaal pand",
+    "inhoud": "${12425}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "12425"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiliging",
+    "inhoud": "${10259o}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10259o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vloeroppervlakte",
+    "inhoud": "${12380} m2",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12380"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geboortedatum",
+    "inhoud": "${10035}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10035"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Netto inkomen tot",
+    "inhoud": "10622",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10622"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Oppervlakte bijgebouw(en)",
+    "inhoud": "${80437} m2",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "80437"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Garage >25 M2 meeverzekerd",
+    "inhoud": "${12478}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12478"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80039}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres garage",
+    "inhoud": "${80430} ${13551} ${13559}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80430",
+      "13551",
+      "13559"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${13555}  ${80431}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "13555"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Co-assurantie",
+    "inhoud": "${80039}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- maatschappij",
+    "inhoud": "${80043}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Afkoop eigen risico storm",
+    "inhoud": "${11330}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "11330"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- polisnummer",
+    "inhoud": "${80471}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80471"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico stormschade",
+    "inhoud": "80440",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80440"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- dekking",
+    "inhoud": "${80026}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80026"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico bijgebouwen",
+    "inhoud": "80439",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80439"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- verzekerd bedrag",
+    "inhoud": "80039",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- einddatum",
+    "inhoud": "${80040}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80040"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P311"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P302",
+      "P353"
+    ],
+    "type": "standaard"
+  }
+]

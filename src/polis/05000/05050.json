@@ -1,0 +1,66 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P353",
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort bouw",
+    "inhoud": "${10690o}",
+    "maatschappijen": [
+      "P353",
+      "P357"
+    ],
+    "vereiste_labels": [
+      "10690o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "P353",
+      "P357"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico kostbaarh.10%",
+    "inhoud": "${84998o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "84998o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Preventie",
+    "inhoud": "${80041o}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "80041o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P353",
+      "P357"
+    ],
+    "type": "standaard"
+  }
+]

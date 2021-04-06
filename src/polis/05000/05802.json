@@ -1,0 +1,236 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P371",
+      "P378"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P371",
+      "P378"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "P371",
+      "P378"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80696}",
+    "maatschappijen": [
+      "P371",
+      "P378"
+    ],
+    "vereiste_labels": [
+      "80696"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80697}",
+    "maatschappijen": [
+      "P371",
+      "P378"
+    ],
+    "vereiste_labels": [
+      "80697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwtermijn",
+    "inhoud": "De verzekering voor de bouwtermijn is van kracht gedurende  ${84121}",
+    "maatschappijen": [
+      "P371",
+      "P378"
+    ],
+    "vereiste_labels": [
+      "84121"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "maximaal",
+    "inhoud": "${84121} maanden",
+    "maatschappijen": [
+      "P371",
+      "P378"
+    ],
+    "vereiste_labels": [
+      "84121"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Onderhoudstermijn",
+    "inhoud": "maximaal ${84122} maanden",
+    "maatschappijen": [
+      "P371",
+      "P378"
+    ],
+    "vereiste_labels": [
+      "84122"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Onderhoudstermijn",
+    "inhoud": "maximaal ${10066} maanden (voor het bouwkundige deel)",
+    "maatschappijen": [
+      "P371",
+      "P378"
+    ],
+    "vereiste_labels": [
+      "10066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Onderhoudstermijn",
+    "inhoud": "maximaal ${84212} maanden (voor technische installaties)",
+    "maatschappijen": [
+      "P371",
+      "P378"
+    ],
+    "vereiste_labels": [
+      "84212"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043}  per gebeurtenis voor schade door diefstal, vandalisme en storm",
+    "maatschappijen": [
+      "P371",
+      "P378"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "€ ${80044}  per gebeurtenis op een werk in Belgi en Duitsland",
+    "maatschappijen": [
+      "P371"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "€ ${80044}  per gebeurtenis op een werk in Belgi en Duitsland",
+    "maatschappijen": [
+      "P378"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nadere bepalingen",
+    "inhoud": "${80463}",
+    "maatschappijen": [
+      "P371",
+      "P378"
+    ],
+    "vereiste_labels": [
+      "80463"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80464}",
+    "maatschappijen": [
+      "P371",
+      "P378"
+    ],
+    "vereiste_labels": [
+      "80464"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80465}",
+    "maatschappijen": [
+      "P371",
+      "P378"
+    ],
+    "vereiste_labels": [
+      "80465"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80467}",
+    "maatschappijen": [
+      "P371",
+      "P378"
+    ],
+    "vereiste_labels": [
+      "80467"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80468}",
+    "maatschappijen": [
+      "P371",
+      "P378"
+    ],
+    "vereiste_labels": [
+      "80468"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80947}",
+    "maatschappijen": [
+      "P378"
+    ],
+    "vereiste_labels": [
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "Verzekerd bedrag",
+    "maatschappijen": [
+      "P371",
+      "P378"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.   ${80947}",
+    "maatschappijen": [
+      "P378"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  }
+]

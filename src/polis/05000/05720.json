@@ -1,0 +1,671 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032}${80472}   ${10709}",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10713o}",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "10713o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort object",
+    "inhoud": "${10262o}",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "10262o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${10081o}",
+    "maatschappijen": [
+      "P302",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "10081o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${11657}",
+    "maatschappijen": [
+      "P386",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "11657"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoendanigheid",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P386"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal vertrekken",
+    "inhoud": "${10250o}",
+    "maatschappijen": [
+      "P302",
+      "P386"
+    ],
+    "vereiste_labels": [
+      "10250o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P388"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard muren",
+    "inhoud": "${10686o}",
+    "maatschappijen": [
+      "P302",
+      "P386"
+    ],
+    "vereiste_labels": [
+      "10686o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoofdactiviteit",
+    "inhoud": "${13093o}",
+    "maatschappijen": [
+      "P388"
+    ],
+    "vereiste_labels": [
+      "13093o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard dak",
+    "inhoud": "${10685o}",
+    "maatschappijen": [
+      "P302",
+      "P386"
+    ],
+    "vereiste_labels": [
+      "10685o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard vloeren",
+    "inhoud": "${10684o}",
+    "maatschappijen": [
+      "P302",
+      "P386"
+    ],
+    "vereiste_labels": [
+      "10684o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Doelgroep",
+    "inhoud": "${81276o}",
+    "maatschappijen": [
+      "P388"
+    ],
+    "vereiste_labels": [
+      "81276o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard",
+    "inhoud": "${10082o}",
+    "maatschappijen": [
+      "P388"
+    ],
+    "vereiste_labels": [
+      "10082o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Oppervlakte asbest",
+    "inhoud": "${12506} m2",
+    "maatschappijen": [
+      "P302",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "12506"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Preventie",
+    "inhoud": "${80041o}",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "80041o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanvullende dekking %",
+    "inhoud": "${80032o}",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "80032o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort rieten dak",
+    "inhoud": "${12643o}",
+    "maatschappijen": [
+      "P388"
+    ],
+    "vereiste_labels": [
+      "12643o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanvullende dekking",
+    "inhoud": "${84207o}",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "84207o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Constructie riet. dak",
+    "inhoud": "${11333o}",
+    "maatschappijen": [
+      "P388"
+    ],
+    "vereiste_labels": [
+      "11333o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "In-decrease %",
+    "inhoud": "${10084o}",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "10084o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Perc. rietdekking",
+    "inhoud": "${12383} %",
+    "maatschappijen": [
+      "P388"
+    ],
+    "vereiste_labels": [
+      "12383"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal uren per week",
+    "inhoud": "${11957}",
+    "maatschappijen": [
+      "P388"
+    ],
+    "vereiste_labels": [
+      "11957"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Fundamenten",
+    "inhoud": "Zijn ${10596o}",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "10596o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Brandgevaarl.wrkzhdn",
+    "inhoud": "${12417}",
+    "maatschappijen": [
+      "P388"
+    ],
+    "vereiste_labels": [
+      "12417"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inductie",
+    "inhoud": "Is ${83049o}",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "83049o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bijzonder glas",
+    "inhoud": "80373",
+    "maatschappijen": [
+      "P388"
+    ],
+    "vereiste_labels": [
+      "80373"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Max. uitkeringstermijn",
+    "inhoud": "${10066} weken",
+    "maatschappijen": [
+      "P386"
+    ],
+    "vereiste_labels": [
+      "10066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantie",
+    "inhoud": "De waardegarantie is ingegaan in ${80057} met een geldigheid van ${80058} maanden",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "80057"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringstermijn",
+    "inhoud": "Maximaal ${10066} weken",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "bliksem en luchtvaartuigen. Zie tevens het gestelde in de polisvoorwaarden",
+    "inhoud": "${84887}",
+    "maatschappijen": [
+      "P386"
+    ],
+    "vereiste_labels": [
+      "84887"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80044} ${80049o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "en eventueel van toepassing zijnde clausules.",
+    "inhoud": "${84887}",
+    "maatschappijen": [
+      "P386"
+    ],
+    "vereiste_labels": [
+      "84887"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Extra eigen risico",
+    "inhoud": "11450",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "11450"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${84887} per gebeurtenis, met uitzondering van schade door brand, ontploffing,",
+    "maatschappijen": [
+      "P302",
+      "P386"
+    ],
+    "vereiste_labels": [
+      "84887"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "bliksem, luchtvaartuigen en stormschade aan gebouwen. Zie tevens het gestelde",
+    "inhoud": "${84887}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "84887"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "in de polisvoorwaarden en eventueel van toepassing zijnde clausules.",
+    "inhoud": "${84887}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "84887"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Specificatie eigen risico",
+    "inhoud": "${84288o}",
+    "maatschappijen": [
+      "P302",
+      "P386"
+    ],
+    "vereiste_labels": [
+      "84288o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Taxatiewaarde",
+    "inhoud": "De taxatiewaarde is € ${11234} met een geldigheid tot ${13286}",
+    "maatschappijen": [
+      "P388"
+    ],
+    "vereiste_labels": [
+      "13286"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80039}",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringstermijn",
+    "inhoud": "${10066} weken",
+    "maatschappijen": [
+      "P388"
+    ],
+    "vereiste_labels": [
+      "10066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Co-assurantie",
+    "inhoud": "${80039}",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- maatschappij",
+    "inhoud": "${80043}",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "80043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- polisnummer",
+    "inhoud": "${80471}",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "80471"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico glas",
+    "inhoud": "€ ${80044} ${80049o}",
+    "maatschappijen": [
+      "P388"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- dekking",
+    "inhoud": " ${80026}",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "80026"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Extra eigen risico",
+    "inhoud": " € ${11450}",
+    "maatschappijen": [
+      "P388"
+    ],
+    "vereiste_labels": [
+      "11450"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- verzekerd bedrag",
+    "inhoud": "80039",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- einddatum",
+    "inhoud": "${80040}",
+    "maatschappijen": [
+      "P302",
+      "P386",
+      "P388"
+    ],
+    "vereiste_labels": [
+      "80040"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P302",
+      "P386"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "Rubriek 1 - Zaakschade      Verzekerd bedrag",
+    "maatschappijen": [
+      "P388"
+    ],
+    "type": "standaard"
+  }
+]

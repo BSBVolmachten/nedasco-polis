@@ -1,0 +1,272 @@
+[
+  {
+    "omschrijving": "Rubriek H",
+    "inhoud": "2e Risico-adres",
+    "maatschappijen": [
+      "P374"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032}  ${10709}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "10032"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantie",
+    "inhoud": "${83055o} met ingang van ${80480}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "83055o",
+      "80480"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Woonhuis type",
+    "inhoud": "${10262o}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "10262o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard muren",
+    "inhoud": "${10686o}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "10686o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard dak",
+    "inhoud": "${10685o}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "10685o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard vloeren",
+    "inhoud": "${10684o}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "10684o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kamerverhuur",
+    "inhoud": "${85317}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "85317"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Permanente bewoning",
+    "inhoud": "${11307}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "11307"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Fundamenten meeverzekerd",
+    "inhoud": "${80099}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "80099"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Constructie/beveiliging/belending",
+    "inhoud": "${86416o}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "86416o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gegevens stacaravan/chalet",
+    "inhoud": "${10218}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk/type",
+    "inhoud": "${10218} ${10219}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${10697}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "10697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Afkoop eigen risico",
+    "inhoud": "${11242}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "11242"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80039}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Co-assurantie",
+    "inhoud": "${80039}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- maatschappij",
+    "inhoud": "${80043}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "80043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- polisnummer",
+    "inhoud": "${80471}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "80471"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- dekking",
+    "inhoud": "${80026}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "80026"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- verzekerd bedrag",
+    "inhoud": "80039",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- einddatum",
+    "inhoud": "${80040}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "80040"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P374"
+    ],
+    "type": "standaard"
+  }
+]

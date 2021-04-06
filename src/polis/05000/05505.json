@@ -1,0 +1,415 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032}${80472}   ${10709}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10713o}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "10713o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal ruiten",
+    "inhoud": "${80018o}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "80018o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Specificatie glas",
+    "inhoud": "${80696}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "80696"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80697}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "80697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80721}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80271}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "80271"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard muren",
+    "inhoud": "${10686o}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "10686o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard dak",
+    "inhoud": "${10685o}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "10685o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard vloeren",
+    "inhoud": "${10684o}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "10684o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${81021c}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "81021c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Lek- en blindslag isolatieglas",
+    "inhoud": "${81021o}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "81021o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bijschilderen glaslaten",
+    "inhoud": "${81022o}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "81022o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${81023o}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "81023o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Niet-lichtdoorlatend glas",
+    "inhoud": "${81023o}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "81023o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${81026o}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "81026o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Boven- of naastgelegen",
+    "inhoud": "${81026c}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "81026c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "woning",
+    "inhoud": "${81026o}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "81026o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hardglazen buitendeur",
+    "inhoud": "${81027o}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "81027o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal buitendeur(en)",
+    "inhoud": "${80165}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beplakking/belettering",
+    "inhoud": "${81028o}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "81028o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Koelvitrines",
+    "inhoud": "${81029c}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "81029c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal ruiten",
+    "inhoud": "${81029o}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "81029o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ruiten met gebogen glas",
+    "inhoud": "${81030o}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "81030o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80039}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Co-assurantie",
+    "inhoud": "${80039}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- maatschappij",
+    "inhoud": "${80043}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "80043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- polisnummer",
+    "inhoud": "${80471}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "80471"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- dekking",
+    "inhoud": " ${80026}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "80026"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- verzekerd bedrag",
+    "inhoud": "80039",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- einddatum",
+    "inhoud": "${80040}",
+    "maatschappijen": [
+      "M366"
+    ],
+    "vereiste_labels": [
+      "80040"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Schademelding",
+    "inhoud": "Bij schade dient herstel plaats te vinden door:",
+    "maatschappijen": [
+      "M366"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "DE GLASLIJN TEL: 0900-2040444",
+    "maatschappijen": [
+      "M366"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "24 uur per dag bereikbaar.",
+    "maatschappijen": [
+      "M366"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "M366"
+    ],
+    "type": "standaard"
+  }
+]

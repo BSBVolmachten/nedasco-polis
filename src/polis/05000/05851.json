@@ -1,0 +1,341 @@
+[
+  {
+    "omschrijving": "Rubriek A",
+    "inhoud": "Woonhuis/glas",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032}${80472}   ${10709}",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "10032"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10713o}",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "10713o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${10081o}",
+    "maatschappijen": [
+      "P375"
+    ],
+    "vereiste_labels": [
+      "10081o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Waardegarantie",
+    "inhoud": "${83055o} met ingang van ${80480}",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "83055o",
+      "80480"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard muren",
+    "inhoud": "${10686o}",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "10686o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard dak",
+    "inhoud": "${10685o}",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "10685o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard vloeren",
+    "inhoud": "${10684o}",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "10684o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kamerverhuur",
+    "inhoud": "${85317}",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "85317"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Permanente bewoning",
+    "inhoud": "${11307}",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "11307"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Fundamenten meeverzekerd",
+    "inhoud": "${80099}",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80099"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Constructie/beveiliging/belending",
+    "inhoud": "${86416o}",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "86416o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico-adres bijgebouw",
+    "inhoud": "${86423} ${86424} ${86425}",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "86423"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86426} ${86427}",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "86426"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard bijgebouw",
+    "inhoud": "${86428o}",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "86428o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vrijwillig eigen risico",
+    "inhoud": "11450",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "11450"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Afkoop eigen risico",
+    "inhoud": "${11242}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "11242"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico storm",
+    "inhoud": "€ ${80440},-  per gebeurtenis",
+    "maatschappijen": [
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80440"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80039}",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Co-assurantie",
+    "inhoud": "${80039}",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- maatschappij",
+    "inhoud": "${80043}",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Loyaliteitskorting",
+    "inhoud": "${89996}%",
+    "maatschappijen": [
+      "P375"
+    ],
+    "vereiste_labels": [
+      "89996"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- polisnummer",
+    "inhoud": "${80471}",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80471"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- dekking",
+    "inhoud": "${80026}",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80026"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- verzekerd bedrag",
+    "inhoud": "80039",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- einddatum",
+    "inhoud": "${80040}",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80040"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P374",
+      "P375"
+    ],
+    "type": "standaard"
+  }
+]

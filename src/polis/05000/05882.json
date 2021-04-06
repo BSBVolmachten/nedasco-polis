@@ -1,0 +1,45 @@
+[
+  {
+    "omschrijving": "Rubriek",
+    "inhoud": "Kantoorelektronika (C)",
+    "maatschappijen": [
+      "P376",
+      "P375",
+      "P310"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043}  ${10044o}",
+    "maatschappijen": [
+      "P376",
+      "P375",
+      "P310"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd object",
+    "inhoud": "De computerapparatuur, gebruikersprogrammatuur en",
+    "maatschappijen": [
+      "P376",
+      "P375",
+      "P310"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "informatiedragers in het gebouw.",
+    "maatschappijen": [
+      "P376",
+      "P375",
+      "P310"
+    ],
+    "type": "standaard"
+  }
+]
