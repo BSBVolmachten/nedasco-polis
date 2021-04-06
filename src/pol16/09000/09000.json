@@ -1,0 +1,445 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Gezinsrechtsbijstand",
+    "maatschappijen": [
+      "09011"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "09010",
+      "09012",
+      "09060"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "09010",
+      "09012",
+      "09011",
+      "09060"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Werk verzekerd",
+    "inhoud": "${81042}",
+    "maatschappijen": [
+      "09012"
+    ],
+    "vereiste_labels": [
+      "81042"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geschil",
+    "inhoud": "Als u een juridisch geschil wil melden of behoefte heeft aan juridisch advies kunt u",
+    "maatschappijen": [
+      "09010"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Scheidingsmediation verzekerd",
+    "inhoud": "${12436}",
+    "maatschappijen": [
+      "09012"
+    ],
+    "vereiste_labels": [
+      "12436"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "09060"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "contact opnemen met:",
+    "maatschappijen": [
+      "09010",
+      "09012"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verh. wooneenheden",
+    "inhoud": "${12310}",
+    "maatschappijen": [
+      "09012"
+    ],
+    "vereiste_labels": [
+      "12310"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gegevens statutair directeur",
+    "inhoud": "${11354o}",
+    "maatschappijen": [
+      "09011"
+    ],
+    "vereiste_labels": [
+      "11354o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630} geboren ${10633}",
+    "maatschappijen": [
+      "09011"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "DAS Rechtsbijstand",
+    "maatschappijen": [
+      "09010",
+      "09012",
+      "09011"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verh. bedrijfseenheden",
+    "inhoud": "${12308}",
+    "maatschappijen": [
+      "09012"
+    ],
+    "vereiste_labels": [
+      "12308"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80077}",
+    "maatschappijen": [
+      "09011"
+    ],
+    "vereiste_labels": [
+      "80077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T (020) - 651 75 17",
+    "maatschappijen": [
+      "09010",
+      "09012"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verh. percelen",
+    "inhoud": "${12571}",
+    "maatschappijen": [
+      "09012"
+    ],
+    "vereiste_labels": [
+      "12571"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verh. garages",
+    "inhoud": "${81040}",
+    "maatschappijen": [
+      "09012"
+    ],
+    "vereiste_labels": [
+      "81040"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meeverzekerd pand",
+    "inhoud": "${80077}, ${80082} te ${80088}",
+    "maatschappijen": [
+      "09011"
+    ],
+    "vereiste_labels": [
+      "80077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80078}, ${80083} te ${80089}",
+    "maatschappijen": [
+      "09011"
+    ],
+    "vereiste_labels": [
+      "80078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Statutair directeur",
+    "inhoud": "${11518}",
+    "maatschappijen": [
+      "09012",
+      "09011"
+    ],
+    "vereiste_labels": [
+      "11518"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "09010"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80079}, ${80084} te ${80090}",
+    "maatschappijen": [
+      "09011"
+    ],
+    "vereiste_labels": [
+      "80079"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Management Vennootschap",
+    "inhoud": "${13802}",
+    "maatschappijen": [
+      "09012"
+    ],
+    "vereiste_labels": [
+      "13802"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen bijdrage",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "09012"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Rubrieken",
+    "maatschappijen": [
+      "09011"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geschil",
+    "inhoud": "Als u een juridisch geschil wilt melden of behoefte heeft aan juridisch advies kunt u",
+    "maatschappijen": [
+      "09012"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Motorrijtuig meeverzekerd",
+    "inhoud": "${80185}",
+    "maatschappijen": [
+      "09011"
+    ],
+    "vereiste_labels": [
+      "80185"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Personen",
+    "inhoud": "${80249}",
+    "maatschappijen": [
+      "09011"
+    ],
+    "vereiste_labels": [
+      "80249"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Wonen",
+    "inhoud": "${12438}",
+    "maatschappijen": [
+      "09011"
+    ],
+    "vereiste_labels": [
+      "12438"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Arbeid en Inkomen",
+    "inhoud": "${11519}",
+    "maatschappijen": [
+      "09011"
+    ],
+    "vereiste_labels": [
+      "11519"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Fiscaal recht & vermogensbeheer",
+    "inhoud": "${11517}",
+    "maatschappijen": [
+      "09011"
+    ],
+    "vereiste_labels": [
+      "11517"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Fiscaal recht & vermogensbeheer",
+    "inhoud": "${84765}",
+    "maatschappijen": [
+      "09011"
+    ],
+    "vereiste_labels": [
+      "84765"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "09012"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Fiscaal recht & vermogensbeheer",
+    "inhoud": "${80254}",
+    "maatschappijen": [
+      "09011"
+    ],
+    "vereiste_labels": [
+      "80254"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Statutair directeur",
+    "inhoud": "${84766}",
+    "maatschappijen": [
+      "09011"
+    ],
+    "vereiste_labels": [
+      "84766"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Scheidingsmediation",
+    "inhoud": "${12436}",
+    "maatschappijen": [
+      "09011"
+    ],
+    "vereiste_labels": [
+      "12436"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verhuurde woningen",
+    "inhoud": "${12310}",
+    "maatschappijen": [
+      "09011"
+    ],
+    "vereiste_labels": [
+      "12310"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verhuurde woningen",
+    "inhoud": "${84195o}",
+    "maatschappijen": [
+      "09011"
+    ],
+    "vereiste_labels": [
+      "84195o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verhuurde woningen",
+    "inhoud": "${80680}",
+    "maatschappijen": [
+      "09011"
+    ],
+    "vereiste_labels": [
+      "80680"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verhuurde bedrijfspanden",
+    "inhoud": "${80681}",
+    "maatschappijen": [
+      "09011"
+    ],
+    "vereiste_labels": [
+      "80681"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geschil",
+    "inhoud": "Als u een juridisch geschil wilt melden of behoefte heeft aan",
+    "maatschappijen": [
+      "09011"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "juridisch advies kunt u contact opnemen met:",
+    "maatschappijen": [
+      "09011"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T 020 - 651 75 17",
+    "maatschappijen": [
+      "09011"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "09011"
+    ],
+    "type": "standaard"
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal artsen",
+    "inhoud": "${13610}",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "vereiste_labels": [
+      "13610"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Vrije advocaat keuze (VAK)",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag VAK",
+    "inhoud": "10611",
+    "maatschappijen": [
+      "A326"
+    ],
+    "vereiste_labels": [
+      "10611"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag VAK",
+    "inhoud": "13617",
+    "maatschappijen": [
+      "A327"
+    ],
+    "vereiste_labels": [
+      "13617"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen bijdrage VAK",
+    "inhoud": "13616",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "vereiste_labels": [
+      "13616"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80079}",
+    "maatschappijen": [
+      "A327"
+    ],
+    "vereiste_labels": [
+      "80079"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Onroerend goed object 1",
+    "inhoud": "${80079} ${80095} ${86578}",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "vereiste_labels": [
+      "80079"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80084} ${80090}",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "vereiste_labels": [
+      "80084"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingscombinatie",
+    "inhoud": "${80732o}",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "vereiste_labels": [
+      "80732o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herbouwwaarde",
+    "inhoud": "80008",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "vereiste_labels": [
+      "80008"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Huurwaarde",
+    "inhoud": "84818",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "vereiste_labels": [
+      "84818"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80077}",
+    "maatschappijen": [
+      "A327"
+    ],
+    "vereiste_labels": [
+      "80077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Onroerend goed object 2",
+    "inhoud": "${80077} ${80093} ${86451}",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "vereiste_labels": [
+      "80077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80082} ${80088}",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "vereiste_labels": [
+      "80082"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingscombinatie",
+    "inhoud": "${80733o}",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "vereiste_labels": [
+      "80733o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herbouwwaarde",
+    "inhoud": "80735",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "vereiste_labels": [
+      "80735"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Huurwaarde",
+    "inhoud": "80737",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "vereiste_labels": [
+      "80737"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80078}",
+    "maatschappijen": [
+      "A327"
+    ],
+    "vereiste_labels": [
+      "80078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Onroerend goed object 3",
+    "inhoud": "${80078} ${80094} ${86577}",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "vereiste_labels": [
+      "80078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80083} ${80089}",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "vereiste_labels": [
+      "80083"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingscombinatie",
+    "inhoud": "${80734o}",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "vereiste_labels": [
+      "80734o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herbouwwaarde",
+    "inhoud": "80736",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "vereiste_labels": [
+      "80736"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Huurwaarde",
+    "inhoud": "80738",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "vereiste_labels": [
+      "80738"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geschil",
+    "inhoud": "Als u een juridisch geschil wilt melden of behoefte heeft aan juridisch advies kunt u",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "contact opnemen met:",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "ARAG Rechtsbijstand",
+    "maatschappijen": [
+      "A327",
+      "A326"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T (033) - 434 23 42",
+    "maatschappijen": [
+      "A326"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T (033) - 434 23 42 of via www.ARAG.nl",
+    "maatschappijen": [
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "A326"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde Modules",
+    "inhoud": "",
+    "maatschappijen": [
+      "A327"
+    ],
+    "type": "standaard"
+  }
+]

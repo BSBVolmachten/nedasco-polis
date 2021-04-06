@@ -1,0 +1,176 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "A326",
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "A326",
+      "A327"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Vrije advocaat keuze (VAK)",
+    "maatschappijen": [
+      "A326",
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag VAK",
+    "inhoud": "10611",
+    "maatschappijen": [
+      "A326"
+    ],
+    "vereiste_labels": [
+      "10611"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen bijdrage VAK",
+    "inhoud": "13616",
+    "maatschappijen": [
+      "A326",
+      "A327"
+    ],
+    "vereiste_labels": [
+      "13616"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag VAK",
+    "inhoud": "13617",
+    "maatschappijen": [
+      "A327"
+    ],
+    "vereiste_labels": [
+      "13617"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "10043",
+    "maatschappijen": [
+      "A326",
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen woning",
+    "inhoud": "${11515}",
+    "maatschappijen": [
+      "A326",
+      "A327"
+    ],
+    "vereiste_labels": [
+      "11515"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Burenrecht meeverzekerd",
+    "inhoud": "${12360}",
+    "maatschappijen": [
+      "A326",
+      "A327"
+    ],
+    "vereiste_labels": [
+      "12360"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Motorrijtuigen meeverzekerd",
+    "inhoud": "${11516}",
+    "maatschappijen": [
+      "A326",
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Arbeidsrecht meeverzekerd",
+    "inhoud": "${11645}",
+    "maatschappijen": [
+      "A326",
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geschil",
+    "inhoud": "Als u een juridisch geschil wilt melden of behoefte heeft aan juridisch advies kunt u",
+    "maatschappijen": [
+      "A326",
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "contact opnemen met:",
+    "maatschappijen": [
+      "A326",
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "ARAG Rechtsbijstand",
+    "maatschappijen": [
+      "A326",
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T (033) - 434 23 42",
+    "maatschappijen": [
+      "A326"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T (033) - 434 23 42of via www.ARAG.nl",
+    "maatschappijen": [
+      "A327"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "A326"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde Modules",
+    "inhoud": "",
+    "maatschappijen": [
+      "A327"
+    ],
+    "type": "standaard"
+  }
+]

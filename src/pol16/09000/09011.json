@@ -1,0 +1,270 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Rechtsbijstand Particulieren",
+    "maatschappijen": [
+      "D323",
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "D323",
+      "P302",
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Franchise",
+    "inhoud": "12434",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meeverzekerd pand",
+    "inhoud": "${80077}, ${80082} te ${80088}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Motorrijtuigen meeverzekerd",
+    "inhoud": "${11516}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "11516"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80078}, ${80083} te ${80089}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "80078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen woning meeverzekerd",
+    "inhoud": "${11515}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "11515"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Mediation",
+    "inhoud": "${12436}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Arbeid meeverzekerd",
+    "inhoud": "${11519}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "11519"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Familie",
+    "inhoud": "${13301}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Motorrijtuig meeverzekerd",
+    "inhoud": "${11516}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verkeer",
+    "inhoud": "${11516}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen woning",
+    "inhoud": "${11515}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Fiscaal recht & vermogensbeheer",
+    "inhoud": "${11517}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geschil",
+    "inhoud": "Als u een juridisch geschil wilt melden of behoefte heeft aan juridisch advies kunt u",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inkomen",
+    "inhoud": "${11645}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Statutair directeur",
+    "inhoud": "${11518}",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "11518"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "contact opnemen met:",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verhuurde woningen",
+    "inhoud": "Verhuur van ${12310} woning(en) is meeverzekerd",
+    "maatschappijen": [
+      "D323"
+    ],
+    "vereiste_labels": [
+      "12310"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Fiscaal en vermogen",
+    "inhoud": "${11517}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T (020) - 651 75 17",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geschil",
+    "inhoud": "Als u een juridisch geschil wilt melden of behoefte heeft aan",
+    "maatschappijen": [
+      "D323"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "juridisch advies kunt u contact opnemen met:",
+    "maatschappijen": [
+      "D323"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "DAS Rechtsbijstand",
+    "maatschappijen": [
+      "D323",
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T 020 - 651 75 17",
+    "maatschappijen": [
+      "D323"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "D323"
+    ],
+    "type": "standaard"
+  }
+]
