@@ -1,0 +1,68 @@
+[
+  {
+    "omschrijving": "Rubriek Eb",
+    "inhoud": "Vakantie ongevallen",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Motorrijtuig bij Aegon",
+    "inhoud": "${86440}",
+    "maatschappijen": [
+      "P310"
+    ],
+    "vereiste_labels": [
+      "86440"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Motorrijtuig bij Delta Lloyd",
+    "inhoud": "${86440}",
+    "maatschappijen": [
+      "P375"
+    ],
+    "vereiste_labels": [
+      "86440"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Motorrijtuig bij Nationale-Nederlanden",
+    "inhoud": "${86440}",
+    "maatschappijen": [
+      "P376"
+    ],
+    "vereiste_labels": [
+      "86440"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Collectieve Ongevallenverzekering",
+    "maatschappijen": [
+      "P353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "${83224o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "83224o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aard werkzaamheden",
+    "inhoud": "${84215o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "84215o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaarloon",
+    "inhoud": "12527",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12527"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Functiedekking",
+    "inhoud": "${13856}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde bedragen",
+    "inhoud": "Rubriek                              Verzekerd bedrag",
+    "maatschappijen": [
+      "P353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Medewerkers vast",
+    "inhoud": "A. Overlijden                        € ${12513}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12513"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "B. Blijvende invaliditeit            € ${12514}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12514"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "    Overlijden                       Jaarloon x ${12517}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12517"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "    Blijvende invaliditeit           Jaarloon x ${12518}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12518"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Medewerkers tijdelijk",
+    "inhoud": "A. Overlijden                        € ${12515}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12515"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "B. Blijvende invaliditeit            € ${12516}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12516"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meewerkend dir./DGA",
+    "inhoud": "A. Overlijden                        € ${12512}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12512"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "B. Blijvende invaliditeit            € ${12511}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12511"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Leerlingen",
+    "inhoud": "A. Overlijden                        € ${13855}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "13855"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "B. Blijvende invaliditeit            € ${13854}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "13854"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Leden",
+    "inhoud": "A. Overlijden                        € ${13853}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "13853"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "B. Blijvende invaliditeit            € ${13852}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "13852"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "D. Geneeskundige kosten              € ${10244}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10244"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Begunstiging",
+    "inhoud": "${83094o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "83094o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Progressieve dekking",
+    "inhoud": "${80686o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80686o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaarloon",
+    "inhoud": "€ ${10069} a ${80709}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80709"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Minimumpremie",
+    "inhoud": "80387",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80387"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "${10074} verzekerden a € ${84621}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10074",
+      "84621"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80947}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.   ${80947}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aard werkzaamheden",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  }
+]

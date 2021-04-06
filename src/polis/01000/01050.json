@@ -1,0 +1,300 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Ongevallen persoonlijk (Gratis)                                  ${93116}${93047}${93086}${93088}${93051}${93042}${93082}${93046}${93041}${93043}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Persoonlijke ongevallen",
+    "maatschappijen": [
+      "P300",
+      "P359"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde",
+    "inhoud": "${10631} ${10632} ${10630}",
+    "maatschappijen": [
+      "P300",
+      "P359"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde(n)",
+    "inhoud": "Naam               Geboortedatum",
+    "maatschappijen": [
+      "P357",
+      "P306"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630}              ${10633}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630}              ${10035}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geboortedatum",
+    "inhoud": "${10035}",
+    "maatschappijen": [
+      "P300",
+      "P359"
+    ],
+    "vereiste_labels": [
+      "10035"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd",
+    "inhoud": "${10067} jaar",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10067"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Invaliditeitsschaal",
+    "inhoud": "${86341o}",
+    "maatschappijen": [
+      "P359"
+    ],
+    "vereiste_labels": [
+      "86341o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Klasse",
+    "inhoud": "${80220o}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "80220o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Voorwaarden",
+    "inhoud": "Zie Pakketvoorwaarden",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Motor/scooterrijden",
+    "inhoud": "${86342o}",
+    "maatschappijen": [
+      "P359"
+    ],
+    "vereiste_labels": [
+      "86342o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risicoklasse beroep",
+    "inhoud": "${10090o}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10090o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verhoogde uitkering",
+    "inhoud": "${80221}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "80221"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroep",
+    "inhoud": "${10063o}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10063o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroepstoeslag",
+    "inhoud": "${86343o}",
+    "maatschappijen": [
+      "P359"
+    ],
+    "vereiste_labels": [
+      "86343o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verlenging wachttijd",
+    "inhoud": "${80222o}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "80222o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                         Verzekerd bedrag",
+    "maatschappijen": [
+      "P357",
+      "P359"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroep",
+    "inhoud": "${84883}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "84883"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Schoonheidsclausule",
+    "inhoud": "${80223}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "80223"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84175o}   ${84544o}   ${86437o}   ${86438o}",
+    "maatschappijen": [
+      "P359"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Begunstiging",
+    "inhoud": "${10101o}",
+    "maatschappijen": [
+      "P300"
+    ],
+    "vereiste_labels": [
+      "10101o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Begunstiging",
+    "inhoud": "${83094o}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "83094o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Clausules",
+    "inhoud": "${10703c} ${10704c} ${10705c}",
+    "maatschappijen": [
+      "P359"
+    ],
+    "vereiste_labels": [
+      "10703c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Naam begunstigde",
+    "inhoud": "${11531} ${11533} ${11520}              ${11522}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "11520"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Voorwaarden",
+    "inhoud": "${10698o}   ${10699o}   ${10700o}   ${10701o}   ${10702o}",
+    "maatschappijen": [
+      "P300",
+      "P359"
+    ],
+    "vereiste_labels": [
+      "10698o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P300"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "maatschappijen": [
+      "P306"
+    ],
+    "type": "standaard"
+  }
+]

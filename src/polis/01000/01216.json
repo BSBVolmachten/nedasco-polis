@@ -1,0 +1,156 @@
+[
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "WIA-aanvullings/excedentverzekering ${10020}",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Max. verzekerd jaarsalaris",
+    "inhoud": "€ ${10241} per werknemer",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd",
+    "inhoud": "${10067} jaar",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "${83171} dagen, te berekenen vanaf de eerste ziektedag van verzekerde",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bruto jaarsalaris",
+    "inhoud": "Het totaal aan bruto jaarloon, dat de werknemer per kalenderjaar",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "verdient, zijnde 12 maal het maandsalaris of 52 maal het weeksalaris,",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "13e maand en 8% vakantietoeslag (kolom 8 verzamelloonstaat)",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86251}",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "86251"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaarrente aanvulling",
+    "inhoud": "${86251}% van het bruto jaarsalaris tot het maximale WIA-dagloon",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "86251"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievoet aanvulling",
+    "inhoud": "${84937}%",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "84937"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaarrente excedent",
+    "inhoud": "${86252}% van het verschil tussen het bruto jaarsalaris minus het maximale",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "86252"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "WIA-dagloon",
+    "inhoud": "${86252}",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "86252"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievoet excedent",
+    "inhoud": "${83053}%",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "83053"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringspercentage",
+    "inhoud": "Conform artikel 8 van de voorwaarden",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "Alle werknemers van verzekeringnemer zoals vermeld op de bij deze",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "polis behorende specificatie",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                            Verzekerd bedrag",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  }
+]

@@ -1,0 +1,566 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Ongevallen",
+    "maatschappijen": [
+      "P353",
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P310",
+      "P350",
+      "P311",
+      "P368",
+      "P372",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "P353",
+      "P311"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${84999o}",
+    "maatschappijen": [
+      "P368"
+    ],
+    "vereiste_labels": [
+      "84999o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde(n)",
+    "inhoud": "Naam               Geboortedatum                               ${10630}",
+    "maatschappijen": [
+      "P350"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde(n)",
+    "inhoud": "Naam               Geboortedatum",
+    "maatschappijen": [
+      "P310",
+      "P357",
+      "P311",
+      "P372",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630}              ${10035}",
+    "maatschappijen": [
+      "P350"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630}              ${10633}",
+    "maatschappijen": [
+      "P310",
+      "P357",
+      "P311",
+      "P368",
+      "P372",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd",
+    "inhoud": "${10067} jaar",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10067"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde",
+    "inhoud": "${10631} ${10632} ${10630}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroep",
+    "inhoud": "${10063o}",
+    "maatschappijen": [
+      "P310",
+      "P350",
+      "P353",
+      "P311",
+      "P368",
+      "P372",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10063o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geboortedatum",
+    "inhoud": "${10035}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10035"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde(n)",
+    "inhoud": "Naam               Geboortedatum   ${10630}",
+    "maatschappijen": [
+      "P368"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroep",
+    "inhoud": "${84883}",
+    "maatschappijen": [
+      "P310",
+      "P350",
+      "P311",
+      "P368",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "84883"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Riscoklasse beroep",
+    "inhoud": "${10090o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10090o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroep",
+    "inhoud": "${86412o}",
+    "maatschappijen": [
+      "P310",
+      "P311",
+      "P368",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "86412o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Besturen motorrijwiel",
+    "inhoud": "${84408o}",
+    "maatschappijen": [
+      "P350"
+    ],
+    "vereiste_labels": [
+      "84408o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risicoklasse beroep",
+    "inhoud": "${10090o}",
+    "maatschappijen": [
+      "P311",
+      "P368",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "10090o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10637} ${10638} ${10636}              ${10639}",
+    "maatschappijen": [
+      "P310",
+      "P357",
+      "P311",
+      "P368",
+      "P372",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroep",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P353",
+      "P372"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Machinale houtbewerking",
+    "inhoud": "${84409o}",
+    "maatschappijen": [
+      "P350"
+    ],
+    "vereiste_labels": [
+      "84409o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10643} ${10644} ${10642}              ${10645}",
+    "maatschappijen": [
+      "P310",
+      "P357",
+      "P311",
+      "P368",
+      "P372",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10642"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "P350"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meeverzekerd beroepswerkzaamheden met een riscio voor",
+    "inhoud": " ${12577}",
+    "maatschappijen": [
+      "P372"
+    ],
+    "vereiste_labels": [
+      "12577"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10649} ${10650} ${10648}              ${10651}",
+    "maatschappijen": [
+      "P310",
+      "P357",
+      "P311",
+      "P368",
+      "P372",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10648"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- Verzekeringnemer",
+    "inhoud": "${12577}",
+    "maatschappijen": [
+      "P372"
+    ],
+    "vereiste_labels": [
+      "12577"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Begunstiging",
+    "inhoud": "${10101o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10101o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10655} ${10656} ${10654}              ${10657}",
+    "maatschappijen": [
+      "P310",
+      "P357",
+      "P311",
+      "P368",
+      "P372",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10654"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- Partner",
+    "inhoud": "${13235}",
+    "maatschappijen": [
+      "P372"
+    ],
+    "vereiste_labels": [
+      "13235"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10661} ${10662} ${10660}              ${10663}",
+    "maatschappijen": [
+      "P310",
+      "P357",
+      "P311",
+      "P368",
+      "P372",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10660"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- Kind",
+    "inhoud": "${13236}",
+    "maatschappijen": [
+      "P372"
+    ],
+    "vereiste_labels": [
+      "13236"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico Rubriek C",
+    "inhoud": "${84652o}",
+    "maatschappijen": [
+      "P350"
+    ],
+    "vereiste_labels": [
+      "84652o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                  Verzekerd bedrag",
+    "maatschappijen": [
+      "P353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10667} ${10668} ${10666}              ${10669}",
+    "maatschappijen": [
+      "P310",
+      "P311",
+      "P368",
+      "P372",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10666"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10673} ${10674} ${10672}              ${10675}",
+    "maatschappijen": [
+      "P310",
+      "P311",
+      "P368",
+      "P372",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10672"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P350",
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10679} ${10680} ${10678}              ${10681}",
+    "maatschappijen": [
+      "P310",
+      "P311",
+      "P368",
+      "P372",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10678"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Begunstiging",
+    "inhoud": "${83094o}",
+    "maatschappijen": [
+      "P310",
+      "P350",
+      "P357",
+      "P311",
+      "P368",
+      "P372",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "83094o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Progressieve dekking",
+    "inhoud": "${80686o}",
+    "maatschappijen": [
+      "P310",
+      "P357",
+      "P311",
+      "P368",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80686o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Cumulatieve schaal",
+    "inhoud": "${84862o}",
+    "maatschappijen": [
+      "P310",
+      "P353",
+      "P311",
+      "P368",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "84862o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P310",
+      "P350",
+      "P311",
+      "P368",
+      "P372",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "maatschappijen": [
+      "P310",
+      "P311",
+      "P368",
+      "P372",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Houtbewerking meeverzekerd",
+    "inhoud": "${86054o}",
+    "maatschappijen": [
+      "P372"
+    ],
+    "vereiste_labels": [
+      "86054o"
+    ],
+    "type": "standaard"
+  }
+]

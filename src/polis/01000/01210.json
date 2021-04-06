@@ -1,0 +1,89 @@
+[
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "${10142o}  ${10020}",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De werknemers in dienst van verzekeringnemer",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd risico",
+    "inhoud": "WAO-schade en rentegratiekosten",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde som",
+    "inhoud": "84027",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "84027"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievoet",
+    "inhoud": "${80015} %",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "80015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde periode",
+    "inhoud": "${80165}",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "80165"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkerings percentage",
+    "inhoud": "${80180} %",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "80180"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Advieskapitaal",
+    "inhoud": "84185",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "84185"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  }
+]

@@ -1,0 +1,3592 @@
+[
+  {
+    "omschrijving": "",
+    "inhoud": "b) een bewijs dat beiden ten minste 6 maanden op hetzelfde adres staan",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "ingeschreven.",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "01010",
+      "01015",
+      "01050",
+      "01060",
+      "01220",
+      "01224",
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "${10142o}          ${10020}${93042}${93082}${93046}${93041}",
+    "maatschappijen": [
+      "01020",
+      "01217",
+      "01221",
+      "01222",
+      "01236",
+      "01237",
+      "01239",
+      "01240",
+      "01241",
+      "01242",
+      "01243",
+      "01244",
+      "01245",
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "${10142o} ${10020}",
+    "maatschappijen": [
+      "01100",
+      "01110",
+      "01150",
+      "01120",
+      "01220",
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "${10142o}verzekering                                     ${10020}${93042}${93082}${93046}${93041}",
+    "maatschappijen": [
+      "01238"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Collectieve Ongevallenverzekering",
+    "maatschappijen": [
+      "01016",
+      "01018"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "VvAA Collectieve Ongevallenverzekering ${10095o}",
+    "maatschappijen": [
+      "01017"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "VvAA WGA Eigen Risicoverzekering ${10095o}                                     ${10020}${93042}${93082}${93046}${93041}",
+    "maatschappijen": [
+      "01232"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "VvAA WGA Hiaatverzekering Uitgebreid ${10095o}                                  ${10020}${93042}${93082}${93046}${93041}",
+    "maatschappijen": [
+      "01233"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "VvAA WIA Bodemverzekering ${10095o}          ${10020}${93042}${93082}${93046}${93041}",
+    "maatschappijen": [
+      "01234"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "VvAA WIA Excedent Plus verzekering ${10095o}                        ${10020}${93042}${93082}${93046}${93041}",
+    "maatschappijen": [
+      "01235"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "VvAA WIA Excedentverzekering ${10095o}                               ${10020}${93042}${93082}${93046}${93041}",
+    "maatschappijen": [
+      "01231"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "VvAA ZW Eigen Risicoverzekering ${10095o}                                ${10020}${93042}${93082}${93046}${93041}",
+    "maatschappijen": [
+      "01230"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "WGA Eigen Risicodragerverzekering                                     ${10020}${93042}${93082}${93046}${93041}",
+    "maatschappijen": [
+      "01226"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "WGA Eigenrisicodragerverzekering                                     ${10020}${93042}${93082}${93046}${93041}",
+    "maatschappijen": [
+      "01219"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "WGA Hiaatverzekering Uitgebreid                                     ${10020}${93042}${93082}${93046}${93041}",
+    "maatschappijen": [
+      "01227"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "WIA Bodemverzekering (minder dan 35% arbeidsongeschiktheid)          ${10020}${93042}${93082}${93046}${93041}",
+    "maatschappijen": [
+      "01228"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "WIA Excedent boven maximum SV-loon                        ${10020}${93042}${93082}${93046}${93041}",
+    "maatschappijen": [
+      "01223"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "WIA Excedentverzekering boven maximum SV-loon                        ${10020}${93042}${93082}${93046}${93041}",
+    "maatschappijen": [
+      "01229"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "WIA Excedentverzekering tot maximum SV-loon                        ${10020}${93042}${93082}${93046}${93041}",
+    "maatschappijen": [
+      "01225"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "Ziekteverzuimverzekering ${86018o}",
+    "maatschappijen": [
+      "01101"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "Ziekteverzuimverzekering voor de Ondernemer",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "ZW Eigen Risicodragerverzekering                                     ${10020}${93042}${93082}${93046}${93041}",
+    "maatschappijen": [
+      "01213"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Gelieerde ondernemingen    ^",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde",
+    "inhoud": "${87107} ${87108} ${87109}",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "vereiste_labels": [
+      "87107"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "01150"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde(n)",
+    "inhoud": "${10630} ${10631} ${10632}, geboortedatum ${10633}",
+    "maatschappijen": [
+      "01220"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "${83224o}",
+    "maatschappijen": [
+      "01015"
+    ],
+    "vereiste_labels": [
+      "83224o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De in loondienst van verzekeringnemer zijnde werknemer(s)",
+    "maatschappijen": [
+      "01101"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De werknemers in dienst van verzekeringnemer",
+    "maatschappijen": [
+      "01020",
+      "01110",
+      "01120"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${81009o}",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aard werkzaamheden",
+    "inhoud": "${83230o}",
+    "maatschappijen": [
+      "01015"
+    ],
+    "vereiste_labels": [
+      "83230o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geboortedatum",
+    "inhoud": "${87110}",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd risico",
+    "inhoud": "Het loondoorbetalingsrisico voor de verzekeringnemer",
+    "maatschappijen": [
+      "01020"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd risico",
+    "inhoud": "Het loondoorbetalingsrisico voor de verzekeringnemer met",
+    "maatschappijen": [
+      "01101",
+      "01110",
+      "01120"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "01100"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde(n)",
+    "inhoud": "Naam               Geboortedatum",
+    "maatschappijen": [
+      "01010",
+      "01050",
+      "01060"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "Alle werknemers van de verzekeringnemer.",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De in loondienst van verzekeringnemer zijnde werknemer(s) die",
+    "maatschappijen": [
+      "01235"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De in loondienst van verzekeringnemer zijnde werknemer(s) zoals",
+    "maatschappijen": [
+      "01225",
+      "01229"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De in loondienst van verzekeringnemer zijnde werknemer(s) zoals vermeld op",
+    "maatschappijen": [
+      "01227"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De in loondienst van verzekeringnemer zijnde werknemer(s) zoals vermeld op het",
+    "maatschappijen": [
+      "01226"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De in loondienst van verzekeringnemer zijnde werknemer(s).",
+    "maatschappijen": [
+      "01016",
+      "01017",
+      "01018",
+      "01219",
+      "01228",
+      "01232",
+      "01231",
+      "01234",
+      "01233",
+      "01238"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De werknemers die (gedeeltelijk) arbeidsongeschikt zijn en recht hebben op een",
+    "maatschappijen": [
+      "01213",
+      "01230"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "Met inachtneming van het bepaalde in de polisvoorwaarden zijn verzekerd de",
+    "maatschappijen": [
+      "01217",
+      "01221",
+      "01222",
+      "01223",
+      "01236",
+      "01237",
+      "01239",
+      "01240",
+      "01241",
+      "01242",
+      "01243",
+      "01244",
+      "01245"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80717o}",
+    "maatschappijen": [
+      "01018"
+    ],
+    "vereiste_labels": [
+      "80717o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${81014}",
+    "maatschappijen": [
+      "01224"
+    ],
+    "vereiste_labels": [
+      "81014"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630}              ${10035}",
+    "maatschappijen": [
+      "01050",
+      "01060"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630}              ${10633}",
+    "maatschappijen": [
+      "01010"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "betrekking tot de verzekerden",
+    "maatschappijen": [
+      "01101",
+      "01110",
+      "01120"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "bij arbeidsongeschiktheid als gevolg van een ongeval.",
+    "maatschappijen": [
+      "01020"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "bij deze polis behorende \"Aanhangsel verzekerden\".",
+    "maatschappijen": [
+      "01226"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "een inkomen hebben boven het maximum SV-loon.",
+    "maatschappijen": [
+      "01235"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "het bij deze polis behorende \"Aanhangsel verzekerden\"",
+    "maatschappijen": [
+      "01227"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "vermeld op het bij deze polis behorende \"Aanhangsel verzekerden\",",
+    "maatschappijen": [
+      "01229"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "vermeld op het bij deze polis behorende \"Aanhangsel verzekerden\".",
+    "maatschappijen": [
+      "01225"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "werknemers in loondienst van verzekeringnemer.",
+    "maatschappijen": [
+      "01217",
+      "01221",
+      "01222",
+      "01223",
+      "01236",
+      "01237",
+      "01239",
+      "01240",
+      "01241",
+      "01242",
+      "01243",
+      "01244",
+      "01245"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "wettelijke uitkering als bedoeld in artikel 29 tweede lid onderdeel a,b en c Ziektewet.",
+    "maatschappijen": [
+      "01213",
+      "01230"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag",
+    "inhoud": "84027",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "vereiste_labels": [
+      "84027"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "De dekking geldt voor alle werknemers van de verzekeringnemer, ongeacht de",
+    "inhoud": "",
+    "maatschappijen": [
+      "01224"
+    ],
+    "vereiste_labels": [
+      "81014"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10636} ${10637} ${10638}, geboortedatum ${10639}",
+    "maatschappijen": [
+      "01220"
+    ],
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "en een inkomen heeft boven het maximum SV-loon.",
+    "maatschappijen": [
+      "01229"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal werknemers vast",
+    "inhoud": "${10074}",
+    "maatschappijen": [
+      "01219",
+      "01232"
+    ],
+    "vereiste_labels": [
+      "10074"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Begunstigde",
+    "inhoud": "De uitkering geschiedt aan verzekeringnemer.",
+    "maatschappijen": [
+      "01228",
+      "01234"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Omvang van de dekking",
+    "inhoud": "De dekking omvat bij overlijden van een deelnemer de uitkering aan de begunstigde",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risicoklasse beroep",
+    "inhoud": "${10090o}",
+    "maatschappijen": [
+      "01010",
+      "01050",
+      "01060"
+    ],
+    "vereiste_labels": [
+      "10090o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde bedragen",
+    "inhoud": "Rubriek                              Verzekerd bedrag",
+    "maatschappijen": [
+      "01015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde bedragen",
+    "inhoud": "Rubriek A  Bij overlijden             ${80717o}",
+    "maatschappijen": [
+      "01016",
+      "01017",
+      "01018"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde perioden",
+    "inhoud": "${80165} weken",
+    "maatschappijen": [
+      "01020",
+      "01110"
+    ],
+    "vereiste_labels": [
+      "80165"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde som",
+    "inhoud": "80844",
+    "maatschappijen": [
+      "01101"
+    ],
+    "vereiste_labels": [
+      "80844"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "aanwezigheid van een eventuele partner.",
+    "inhoud": "",
+    "maatschappijen": [
+      "01224"
+    ],
+    "vereiste_labels": [
+      "81014"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "van een kapitaal ter grootte van",
+    "inhoud": "${12517} jaarsalarissen. Het verzekerde kapitaal wordt",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "01220"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "A. Overlijden",
+    "inhoud": "10241",
+    "maatschappijen": [
+      "01015"
+    ],
+    "vereiste_labels": [
+      "10241"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Rubriek B  Bij blijvende invaliditeit",
+    "inhoud": "${80718o}",
+    "maatschappijen": [
+      "01016",
+      "01017",
+      "01018"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verzekerde werknemers",
+    "inhoud": "${10074}",
+    "maatschappijen": [
+      "01213",
+      "01226",
+      "01230"
+    ],
+    "vereiste_labels": [
+      "10074"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal werknemers flex",
+    "inhoud": "${84869}",
+    "maatschappijen": [
+      "01219",
+      "01232"
+    ],
+    "vereiste_labels": [
+      "84869"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroep",
+    "inhoud": "${10063o}",
+    "maatschappijen": [
+      "01010",
+      "01050",
+      "01060",
+      "01220"
+    ],
+    "vereiste_labels": [
+      "10063o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risicoperiode",
+    "inhoud": "Minimaal 728 dagen",
+    "maatschappijen": [
+      "01225",
+      "01228",
+      "01229",
+      "01231",
+      "01234",
+      "01235"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risicoperiode",
+    "inhoud": "Minimaal 728 dagen.",
+    "maatschappijen": [
+      "01227",
+      "01233",
+      "01238"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringspercentage",
+    "inhoud": "${80180}%",
+    "maatschappijen": [
+      "01020",
+      "01110",
+      "01120"
+    ],
+    "vereiste_labels": [
+      "80180"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Werkzaamheden",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${81005}",
+    "maatschappijen": [
+      "01224"
+    ],
+    "vereiste_labels": [
+      "81005"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10241}",
+    "maatschappijen": [
+      "01018"
+    ],
+    "vereiste_labels": [
+      "10241"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "jaarlijks per 1 januari, ofwel per datum van indiensttreding, vastgesteld op basis",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032}  ${10709}",
+    "maatschappijen": [
+      "01220"
+    ],
+    "vereiste_labels": [
+      "10032"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "A. Overlijden",
+    "inhoud": "${80717o}",
+    "maatschappijen": [
+      "01015"
+    ],
+    "vereiste_labels": [
+      "80717o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Gerekend wordt vanaf de eerste ziektedag van de verzekerde.",
+    "maatschappijen": [
+      "01225",
+      "01229",
+      "01231",
+      "01235"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Het maximaal verzekerd loon per medewerker bedraagt",
+    "inhoud": "${80694}.",
+    "maatschappijen": [
+      "01236"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Het maximaal verzekerd loon per medewerker is het maximum WIA(SV)-loon.",
+    "maatschappijen": [
+      "01217",
+      "01221",
+      "01239",
+      "01240",
+      "01241",
+      "01243",
+      "01245"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Het verzekerd bedrag is gebaseerd op het jaarloon boven het maximale WIA(SV)-loon.",
+    "maatschappijen": [
+      "01223",
+      "01242"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroep",
+    "inhoud": "${84883}",
+    "maatschappijen": [
+      "01010",
+      "01050",
+      "01060",
+      "01105",
+      "01106"
+    ],
+    "vereiste_labels": [
+      "84883"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde som",
+    "inhoud": "84027",
+    "maatschappijen": [
+      "01020",
+      "01110",
+      "01120"
+    ],
+    "vereiste_labels": [
+      "84027"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "De dekking geldt uitsluitend voor de deelnemers aan de pensioenregeling die door",
+    "inhoud": "",
+    "maatschappijen": [
+      "01224"
+    ],
+    "vereiste_labels": [
+      "81005"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "van het dan geldende jaarsalaris.",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "heeft op een WIA-uitkering.",
+    "maatschappijen": [
+      "01238"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "B. Blijvende invaliditeit",
+    "inhoud": "10242",
+    "maatschappijen": [
+      "01015"
+    ],
+    "vereiste_labels": [
+      "10242"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Gedurende deze periode bestaat er geen recht op uitkering.",
+    "maatschappijen": [
+      "01225",
+      "01229",
+      "01231",
+      "01235"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Gerekend wordt vanaf de eerste ziektedag van de verzekerde. Gedurende",
+    "maatschappijen": [
+      "01228",
+      "01234"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Het maximaal te verzekeren WIA-excedentpensioen is €",
+    "inhoud": "${80519o} per persoon.",
+    "maatschappijen": [
+      "01242"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inclusief",
+    "inhoud": "${84029}% vakantiegeld",
+    "maatschappijen": [
+      "01020",
+      "01101",
+      "01110",
+      "01120"
+    ],
+    "vereiste_labels": [
+      "84029"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Voor deze verzekering geldt een maximum jaarloon per medewerker van €",
+    "inhoud": "${80519o}.",
+    "maatschappijen": [
+      "01223"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroep",
+    "inhoud": "${86412o}",
+    "maatschappijen": [
+      "01010",
+      "01060"
+    ],
+    "vereiste_labels": [
+      "86412o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico periode",
+    "inhoud": "${10065} wachtdagen",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "vereiste_labels": [
+      "10065"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ingangsdatum uitkering",
+    "inhoud": "De uitkeringsperiode gaat in op de eerste werkdag dat de werknemer recht",
+    "maatschappijen": [
+      "01227",
+      "01233",
+      "01238"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaarloon",
+    "inhoud": "Het totale jaarloon bedraagt € ${10078} rekening houdende met de",
+    "maatschappijen": [
+      "01016",
+      "01017"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd",
+    "inhoud": "De verplichting van verzekeringnemer als Eigen Risicodrager volgens de Ziektewet,",
+    "maatschappijen": [
+      "01213",
+      "01230"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd",
+    "inhoud": "Uitkeringsschade (gewezen) werknemers krachtens de Regeling Werkhervatting",
+    "maatschappijen": [
+      "01219",
+      "01226",
+      "01232"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde bedragen",
+    "inhoud": "Rubriek A  Bij overlijden             € ${10241}",
+    "maatschappijen": [
+      "01018"
+    ],
+    "vereiste_labels": [
+      "10241"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "of namens de verzekeringsnemer bij de verzekeraar zijn aangemeld en als deelnemer",
+    "inhoud": "",
+    "maatschappijen": [
+      "01224"
+    ],
+    "vereiste_labels": [
+      "81005"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "heeft op een WGA-uitkering.",
+    "maatschappijen": [
+      "01227",
+      "01233"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10637} ${10638} ${10636}              ${10639}",
+    "maatschappijen": [
+      "01010",
+      "01060"
+    ],
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "aangegeven data van in- en uitdiensttreding van de verzekerden.",
+    "maatschappijen": [
+      "01016",
+      "01017"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "afhankelijk van de verzekerde periode en met inachtneming van de voorwaarden",
+    "maatschappijen": [
+      "01213",
+      "01230"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "B. Blijvende invaliditeit",
+    "inhoud": "${80718o}",
+    "maatschappijen": [
+      "01015"
+    ],
+    "vereiste_labels": [
+      "80718o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "deze periode bestaat er geen recht op uitkering.",
+    "maatschappijen": [
+      "01228",
+      "01234"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Gedeeltelijk Arbeidsgeschikten (WGA), zoals bedoeld in de Wet Werk en Inkomen",
+    "maatschappijen": [
+      "01219",
+      "01226",
+      "01232"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inclusief",
+    "inhoud": "${84030}% vaste toeslagen",
+    "maatschappijen": [
+      "01020",
+      "01101",
+      "01110",
+      "01120"
+    ],
+    "vereiste_labels": [
+      "84030"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Rubriek B  Bij blijvende invaliditeit",
+    "inhoud": "10242",
+    "maatschappijen": [
+      "01018"
+    ],
+    "vereiste_labels": [
+      "10242"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingspercentages",
+    "inhoud": "${87026o}%",
+    "maatschappijen": [
+      "01222",
+      "01223",
+      "01236",
+      "01237",
+      "01240",
+      "01242",
+      "01244"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd",
+    "inhoud": "${87111o}",
+    "maatschappijen": [
+      "01105",
+      "01106",
+      "01217",
+      "01221",
+      "01222",
+      "01223",
+      "01231",
+      "01233",
+      "01236"
+    ],
+    "vereiste_labels": [
+      "87111o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Maximaal verzekerd",
+    "inhoud": "${80181}",
+    "maatschappijen": [
+      "01101",
+      "01110",
+      "01120"
+    ],
+    "vereiste_labels": [
+      "80181"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Naam begunstigde",
+    "inhoud": "${10667} ${10668} ${10666}              ${10669}",
+    "maatschappijen": [
+      "01050"
+    ],
+    "vereiste_labels": [
+      "10666"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "in de regeling zijn opgenomen.",
+    "inhoud": "",
+    "maatschappijen": [
+      "01224"
+    ],
+    "vereiste_labels": [
+      "81005"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10643} ${10644} ${10642}              ${10645}",
+    "maatschappijen": [
+      "01010",
+      "01060"
+    ],
+    "vereiste_labels": [
+      "10642"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "C. Tijdelijke arbeidsongeschiktheid",
+    "inhoud": "10243",
+    "maatschappijen": [
+      "01015"
+    ],
+    "vereiste_labels": [
+      "10243"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "en gestelde op de polis.",
+    "maatschappijen": [
+      "01213",
+      "01230"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inclusief",
+    "inhoud": "${80177}% werkgeverslasten",
+    "maatschappijen": [
+      "01020",
+      "01101",
+      "01110",
+      "01120"
+    ],
+    "vereiste_labels": [
+      "80177"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "naar Arbeidsvermogen (WIA) als gevolg van eigen risicodragen krachtens deze wet.",
+    "maatschappijen": [
+      "01219",
+      "01226",
+      "01232"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal medewerkers",
+    "inhoud": "${10074}",
+    "maatschappijen": [
+      "01101"
+    ],
+    "vereiste_labels": [
+      "10074"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Begunstigde",
+    "inhoud": "De uitkering geschiedt aan verzekeringnemer",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Begunstiging",
+    "inhoud": "De begunstiging als genoemd in de Algemene Voorwaarden luidt als volgt:",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingspercentage",
+    "inhoud": "${87026o}%",
+    "maatschappijen": [
+      "01217"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingspercentages",
+    "inhoud": "Zie polisvoorwaarden",
+    "maatschappijen": [
+      "01239"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd/uitkeringsduur",
+    "inhoud": "${87028o}",
+    "maatschappijen": [
+      "01237",
+      "01239",
+      "01240",
+      "01242",
+      "01243",
+      "01244",
+      "01245"
+    ],
+    "vereiste_labels": [
+      "87028o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ingangsdatum uitkering",
+    "inhoud": "De uitkeringsperiode gaat in op de eerste dag dat de werknemer",
+    "maatschappijen": [
+      "01225",
+      "01229",
+      "01231",
+      "01235"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Pensioenpercentages",
+    "inhoud": "${87026o}%",
+    "maatschappijen": [
+      "01243"
+    ],
+    "vereiste_labels": [
+      "87026o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringshoogte",
+    "inhoud": "Zie polisvoorwaarden.",
+    "maatschappijen": [
+      "01238"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "01220"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "1. De partner van de deelnemer; of bij ontstentenis van deze",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10649} ${10650} ${10648}              ${10651}",
+    "maatschappijen": [
+      "01010",
+      "01060"
+    ],
+    "vereiste_labels": [
+      "10648"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "D. Geneeskundige kosten",
+    "inhoud": "10244",
+    "maatschappijen": [
+      "01015"
+    ],
+    "vereiste_labels": [
+      "10244"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "recht heeft op een wettelijke WIA-uitkering.",
+    "maatschappijen": [
+      "01225",
+      "01229",
+      "01231",
+      "01235"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Verzekeringnemer betaalt geen gedifferentieerde UWV-premie maar een vast premie-",
+    "maatschappijen": [
+      "01219",
+      "01226",
+      "01232"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiepercentage",
+    "inhoud": "${84937}%",
+    "maatschappijen": [
+      "01016",
+      "01017",
+      "01018",
+      "01213",
+      "01225",
+      "01226",
+      "01228",
+      "01229",
+      "01227",
+      "01230",
+      "01231",
+      "01234",
+      "01233",
+      "01235"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiepercentage 1e jr.",
+    "inhoud": "${84937} %",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "vereiste_labels": [
+      "84937"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievoet",
+    "inhoud": "${80015}%",
+    "maatschappijen": [
+      "01020",
+      "01110"
+    ],
+    "vereiste_labels": [
+      "80015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievoet totaal",
+    "inhoud": "${86361} %",
+    "maatschappijen": [
+      "01101"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringshoogte",
+    "inhoud": "Geeft een aanvulling op de wettelijke uitkering tot 75% van het verschil",
+    "maatschappijen": [
+      "01227",
+      "01233"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringshoogte",
+    "inhoud": "Geeft een aanvulling op tot het inkomen van de werknemer die voor 15%",
+    "maatschappijen": [
+      "01228",
+      "01234"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "2. kinderen van de deelnemer; of bij ontstentenis van deze",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Bij overlijden van een gehuwde of samenwonende verzekerde komt een Anw-hiaatpensioen",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10655} ${10656} ${10654}              ${10657}",
+    "maatschappijen": [
+      "01010",
+      "01060"
+    ],
+    "vereiste_labels": [
+      "10654"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "1e verzekeringsjaar",
+    "inhoud": "",
+    "maatschappijen": [
+      "01120"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "percentage.",
+    "maatschappijen": [
+      "01219",
+      "01226",
+      "01232"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "tot 35% arbeidsongeschikt is.",
+    "maatschappijen": [
+      "01228",
+      "01234"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "tussen diens inkomen voor en na arbeidsongeschiktheid. De aanvulling is tot",
+    "maatschappijen": [
+      "01227",
+      "01233"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bijzondere voorwaarden",
+    "inhoud": "Wachttijd: ${10065} dagen",
+    "maatschappijen": [
+      "01020",
+      "01110"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiepercentage 2e jr.",
+    "inhoud": "${83053} %",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "vereiste_labels": [
+      "83053"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringsduur",
+    "inhoud": "${87028o}",
+    "maatschappijen": [
+      "01217",
+      "01221",
+      "01222",
+      "01223",
+      "01228",
+      "01227",
+      "01231",
+      "01234",
+      "01233",
+      "01236",
+      "01241"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde loonsom",
+    "inhoud": "Het loon, inclusief vakantiegeld en andere structurele toeslagen, berekend naar",
+    "maatschappijen": [
+      "01213",
+      "01230"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "3. overige wettelijke erfgenamen van de deelnemer.",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "ten behoeve van de partner van de verzekerde tot uitkering ter grootte van de",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10661} ${10662} ${10660}              ${10663}",
+    "maatschappijen": [
+      "01010",
+      "01060"
+    ],
+    "vereiste_labels": [
+      "10660"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "1e verzekeringsjaar",
+    "inhoud": "",
+    "maatschappijen": [
+      "01101"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "70% in plaats van 75% als werknemer zijn restverdiencapaciteit voor minder",
+    "maatschappijen": [
+      "01227",
+      "01233"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "De uitkering bedraagt:",
+    "maatschappijen": [
+      "01228",
+      "01234"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "dezelfde grondslag zoals die door het UWV wordt gehanteerd, dat jaarlijks door",
+    "maatschappijen": [
+      "01213",
+      "01230"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Gedurende de wachttijd is er geen recht op uitkering.",
+    "maatschappijen": [
+      "01020",
+      "01110"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanvullingspercentage",
+    "inhoud": "Verzekerd is ${87026o}% van het inkomen tot het maximale SV-loon voor",
+    "maatschappijen": [
+      "01225",
+      "01231"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkings% 1e halfjaar",
+    "inhoud": "${80180} %",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "vereiste_labels": [
+      "80180"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd",
+    "inhoud": "65 jaar",
+    "maatschappijen": [
+      "01017"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd",
+    "inhoud": "67 jaar",
+    "maatschappijen": [
+      "01016"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd",
+    "inhoud": "${87028o}",
+    "maatschappijen": [
+      "01018"
+    ],
+    "vereiste_labels": [
+      "87028o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Indexatie",
+    "inhoud": "${87117o}",
+    "maatschappijen": [
+      "01217",
+      "01221",
+      "01222",
+      "01223",
+      "01225",
+      "01236",
+      "01237",
+      "01239",
+      "01240",
+      "01241",
+      "01242",
+      "01243",
+      "01244",
+      "01245"
+    ],
+    "vereiste_labels": [
+      "87117o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "wettelijke Anw-uitkering (inclusief vakantiegeld) die van toepassing is op 1 januari",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10667} ${10668} ${10666}              ${10669}",
+    "maatschappijen": [
+      "01010",
+      "01060"
+    ],
+    "vereiste_labels": [
+      "10666"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${87026o}% x arbeidsongeschiktheidspercentage x oude loon",
+    "maatschappijen": [
+      "01228",
+      "01234"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "arbeidsongeschiktheid:",
+    "maatschappijen": [
+      "01225",
+      "01231"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "dan 50% benut.",
+    "maatschappijen": [
+      "01227",
+      "01233"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inclusief Verzuimbegeleidingspakket",
+    "inhoud": "${84028o}",
+    "maatschappijen": [
+      "01020",
+      "01110"
+    ],
+    "vereiste_labels": [
+      "84028o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "verzekeringnemer aan werknemer(s) wordt uitbetaald indien van toepassing, uitgesplitst",
+    "maatschappijen": [
+      "01213",
+      "01230"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkings% 2e halfjaar",
+    "inhoud": "${86468} %",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "vereiste_labels": [
+      "86468"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringshoogte",
+    "inhoud": "De aanvulling bedraagt ${87026o}% van het inkomen boven het maximale",
+    "maatschappijen": [
+      "01229",
+      "01235"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde periode",
+    "inhoud": "${80165} weken (1e verzekeringsjaar)",
+    "maatschappijen": [
+      "01101",
+      "01120"
+    ],
+    "vereiste_labels": [
+      "80165"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Als overige wettelijke erfgenamen van de deelnemer worden aangemerkt:",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "van het jaar waarin de deelnemer komt te overlijden (€",
+    "inhoud": "${11592} in 2018).",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "-",
+    "inhoud": "${87026o}% x uitkeringspercentage x (oude loon -/- oude gemaximeerde SV-loon)",
+    "maatschappijen": [
+      "01235"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10673} ${10674} ${10672}              ${10675}",
+    "maatschappijen": [
+      "01010",
+      "01060"
+    ],
+    "vereiste_labels": [
+      "10672"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "De maximale verzekerde som per werknemer bedraagt €",
+    "inhoud": "${10241}.",
+    "maatschappijen": [
+      "01020",
+      "01110"
+    ],
+    "vereiste_labels": [
+      "10241"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Het aanvullingspercentage",
+    "inhoud": "${87026o}% x uitkeringspercentage x oude",
+    "maatschappijen": [
+      "01225",
+      "01231"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "per sector risicogroep. Voor de productmodule ZW Eigen Risicodragerverzekering",
+    "maatschappijen": [
+      "01213",
+      "01230"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "SV-loon voor arbeidsongeschiktheid.",
+    "maatschappijen": [
+      "01229",
+      "01235"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkings% 3e halfjaar",
+    "inhoud": "${84936} %",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "vereiste_labels": [
+      "84936"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiepercentage",
+    "inhoud": "${84937}% werknemers vast",
+    "maatschappijen": [
+      "01219",
+      "01232"
+    ],
+    "vereiste_labels": [
+      "84937"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievoet",
+    "inhoud": "${84937}%",
+    "maatschappijen": [
+      "01101",
+      "01120",
+      "01217",
+      "01221",
+      "01222",
+      "01223",
+      "01236",
+      "01237",
+      "01238",
+      "01239",
+      "01240",
+      "01241",
+      "01242",
+      "01243",
+      "01244",
+      "01245"
+    ],
+    "vereiste_labels": [
+      "84937"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringsduur",
+    "inhoud": "tot de AOW-gerechtigde leeftijd.",
+    "maatschappijen": [
+      "01238"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "diegenen die volgens het Burgerlijk Wetboek de wettelijke erfgenamen van de deelnemer",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "-",
+    "inhoud": "${87026o}% x uitkeringspercentage x oude loon -/- oude gemaximeerde SV-loon",
+    "maatschappijen": [
+      "01229"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10679} ${10680} ${10678}              ${10681}",
+    "maatschappijen": [
+      "01010",
+      "01060"
+    ],
+    "vereiste_labels": [
+      "10678"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "gemaximeerde SV-loon",
+    "maatschappijen": [
+      "01225",
+      "01231"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "wordt het loonbegrip zoals gedefinieerd in de Wfsv ('het SV-loon') gehanteerd.",
+    "maatschappijen": [
+      "01213",
+      "01230"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bijzondere voorwaarden",
+    "inhoud": "De maximale uitkering bedraagt ${80017o} het eigen behoud.",
+    "maatschappijen": [
+      "01120"
+    ],
+    "vereiste_labels": [
+      "80017o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkings% 4e halfjaar",
+    "inhoud": "${86469} %",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "vereiste_labels": [
+      "86469"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingspercentages",
+    "inhoud": "${80180}% voor de 1e periode van ${80539o}",
+    "maatschappijen": [
+      "01101"
+    ],
+    "vereiste_labels": [
+      "80180"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Indexering",
+    "inhoud": "De verzekerde uitkering ${80694}",
+    "maatschappijen": [
+      "01227",
+      "01233",
+      "01238"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Indexering",
+    "inhoud": "De verzekerde uitkering is alleen gendexeerd indien de uitkeringsduur",
+    "maatschappijen": [
+      "01228",
+      "01234"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaarloon",
+    "inhoud": "€ ${10069}  ${80709} o/oo",
+    "maatschappijen": [
+      "01015"
+    ],
+    "vereiste_labels": [
+      "10069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premieopslagpercentage",
+    "inhoud": "${83053}%",
+    "maatschappijen": [
+      "01226"
+    ],
+    "vereiste_labels": [
+      "83053"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiepercentage",
+    "inhoud": "${83053} % werknemers flex",
+    "maatschappijen": [
+      "01232"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiepercentage",
+    "inhoud": "${83053}% werknemers flex",
+    "maatschappijen": [
+      "01219"
+    ],
+    "vereiste_labels": [
+      "83053"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Het ingegane Anw-hiaatpensioen wordt rechtstreeks aan de partner van de overleden",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "zijn ongeacht of ze de erfenis geheel of gedeeltelijk aanvaarden of verwerpen of in",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86468}% voor de 1e periode van ${80549o}",
+    "maatschappijen": [
+      "01101"
+    ],
+    "vereiste_labels": [
+      "86468"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "de pensioendatum bedraagt conform WIA dagloon te beginnen na intrede in",
+    "maatschappijen": [
+      "01228",
+      "01234"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "na intrede in de WIA.",
+    "maatschappijen": [
+      "01227",
+      "01233",
+      "01238"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Begunstiging",
+    "inhoud": "${83094o}",
+    "maatschappijen": [
+      "01010",
+      "01015",
+      "01050",
+      "01060",
+      "01220"
+    ],
+    "vereiste_labels": [
+      "83094o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Minimumpremie",
+    "inhoud": "80387",
+    "maatschappijen": [
+      "01015"
+    ],
+    "vereiste_labels": [
+      "80387"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkering en dekking",
+    "inhoud": "${80167} weken, en is gebaseerd op de Wet Loondoorbetaling bij Ziekte en",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "01020"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "deelnemer uitgekeerd onder verrekening van de wettelijk verplichte inhoudingen.",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "hoeverre ze gerechtigd zijn in de nalatenschap.",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "daarbij behorende Poortwachtersverplichtingen.",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "de WIA.",
+    "maatschappijen": [
+      "01228",
+      "01234"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Maximaal te verzekeren",
+    "inhoud": "Voor deze verzekering geldt een maximum jaarloon per werknemer van € ${80519o}.",
+    "maatschappijen": [
+      "01229",
+      "01235"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Progressieve dekking",
+    "inhoud": "${80686o}",
+    "maatschappijen": [
+      "01010",
+      "01015",
+      "01050",
+      "01060"
+    ],
+    "vereiste_labels": [
+      "80686o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "01110"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "${10074} verzekerden  € ${84621}",
+    "maatschappijen": [
+      "01015"
+    ],
+    "vereiste_labels": [
+      "10074"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Wachtdagen",
+    "inhoud": "${10065} werkdagen",
+    "maatschappijen": [
+      "01101"
+    ],
+    "vereiste_labels": [
+      "10065"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Werkgeverslasten",
+    "inhoud": "${12945}%",
+    "maatschappijen": [
+      "01213",
+      "01219",
+      "01226",
+      "01230",
+      "01232"
+    ],
+    "vereiste_labels": [
+      "12945"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80947}",
+    "maatschappijen": [
+      "01015"
+    ],
+    "vereiste_labels": [
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Het pensioen wordt uitgekeerd in maandelijkse termijnen bij achterafbetaling.",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "De ondernemer is bereid om passende arbeid uit te voeren en heeft",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gedurende de wachttijd is er geen recht op uitkering.",
+    "inhoud": "${10065}",
+    "maatschappijen": [
+      "01101"
+    ],
+    "vereiste_labels": [
+      "10065"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Cumulatieve schaal",
+    "inhoud": "${84862o}",
+    "maatschappijen": [
+      "01010",
+      "01050",
+      "01060"
+    ],
+    "vereiste_labels": [
+      "84862o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde loonsom 'vast'",
+    "inhoud": "84027",
+    "maatschappijen": [
+      "01219"
+    ],
+    "vereiste_labels": [
+      "84027"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "De kinderen van de deelnemer ontvangen de uitkering in gelijke delen.",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "De partner aan wie een uitkering wordt verstrekt, dient in beginsel ieder jaar",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "een zogenaamde inpassingsverplichting om te reintegreren.",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "01010",
+      "01015",
+      "01050",
+      "01060"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen behoud",
+    "inhoud": "${80024}% van de totaal verzekerde som",
+    "maatschappijen": [
+      "01101",
+      "01120"
+    ],
+    "vereiste_labels": [
+      "80024"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.   ${80947}",
+    "maatschappijen": [
+      "01015"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Indexering",
+    "inhoud": "${87117o}",
+    "maatschappijen": [
+      "01229",
+      "01231",
+      "01235"
+    ],
+    "vereiste_labels": [
+      "87117o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringsduur",
+    "inhoud": "Tot de pensioendatum (maximaal 67 jaar)",
+    "maatschappijen": [
+      "01225",
+      "01229",
+      "01235"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde loonsom 'flex'",
+    "inhoud": "80844",
+    "maatschappijen": [
+      "01219"
+    ],
+    "vereiste_labels": [
+      "80844"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "een wettelijk bewijs van in leven zijn te overleggen.",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanvullende bepalingen",
+    "inhoud": "- De ondernemer kan een Ziekteverzuimverzekering voor de Ondernemer",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bijzondere voorwaarde",
+    "inhoud": "De maximale uitkering is ${80017o}.",
+    "maatschappijen": [
+      "01101"
+    ],
+    "vereiste_labels": [
+      "80017o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Totale loonsom",
+    "inhoud": "80369",
+    "maatschappijen": [
+      "01213",
+      "01219",
+      "01226",
+      "01228",
+      "01230",
+      "01232",
+      "01234"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringspercentage",
+    "inhoud": "${84936}%",
+    "maatschappijen": [
+      "01120"
+    ],
+    "vereiste_labels": [
+      "84936"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "De overige erfgenamen ontvangen de uitkering in gelijke delen.",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "afsluiten tegen hetzelfde premiepercentage als voor zijn werknemers",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde loonsom",
+    "inhoud": "84027",
+    "maatschappijen": [
+      "01213",
+      "01217",
+      "01221",
+      "01222",
+      "01223",
+      "01230",
+      "01236",
+      "01237",
+      "01239",
+      "01240",
+      "01241",
+      "01242",
+      "01243",
+      "01244",
+      "01245"
+    ],
+    "vereiste_labels": [
+      "84027"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "01015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "maatschappijen": [
+      "01010",
+      "01050",
+      "01060"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "met dezelfde dekkingspercentages en eigen risico periode.",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "2e verzekeringsjaar",
+    "inhoud": "  ${80167}",
+    "maatschappijen": [
+      "01101",
+      "01120"
+    ],
+    "vereiste_labels": [
+      "80167"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd dekking",
+    "inhoud": "De ${10067}ste verjaardag van de verzekerde werknemer, ofwel zoveel eerder als de",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Loonsom",
+    "inhoud": "Het totale brutojaarsalaris bedraagt € ${80369}.",
+    "maatschappijen": [
+      "01227",
+      "01233",
+      "01238"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "01120"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "verzekerde werknemer met pensioen gaat dan wel de begunstigde partner de",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Werkgeverslasten zijn niet van toepassing",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Deelname",
+    "inhoud": "Verplicht voor alle werknemers van de contractant.",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde periode",
+    "inhoud": "${80167} weken (2e verzekeringsjaar)",
+    "maatschappijen": [
+      "01101",
+      "01120"
+    ],
+    "vereiste_labels": [
+      "80167"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "AOW-gerechtigde leeftijd, doch uiterlijk de",
+    "inhoud": "${10067}-jarige leeftijd bereikt.",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- De polis is onlosmakelijk verbonden met de Ziekteverzuimverzekering",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievoet",
+    "inhoud": "${83053}%",
+    "maatschappijen": [
+      "01101",
+      "01120"
+    ],
+    "vereiste_labels": [
+      "83053"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "voor werknemers die in het Nedasco Gezond Werken Pakket Personeel is",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingspercentages",
+    "inhoud": "${84936}% voor de 1e periode van ${80569o}",
+    "maatschappijen": [
+      "01101"
+    ],
+    "vereiste_labels": [
+      "84936"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vrije acceptatielimiet",
+    "inhoud": "${12517} maal het vaste jaarsalaris.",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "afgesloten",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86469}% voor de 1e periode van ${80579o}",
+    "maatschappijen": [
+      "01101"
+    ],
+    "vereiste_labels": [
+      "86469"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkering",
+    "inhoud": "${81010o}.",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- De ondernemer heeft minimaal 5 medewerkers in loondienst",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Wachtdagen",
+    "inhoud": "${84935}",
+    "maatschappijen": [
+      "01101"
+    ],
+    "vereiste_labels": [
+      "84935"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Er is sprake van een alternatief voor de Individuele AOV met een",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Deelname",
+    "inhoud": "${81007o}.",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "beperkte uitkeringsduur van 104 weken.",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievrijstelling bij",
+    "inhoud": "Meeverzekerd volgens de in de bijgaande Bijzondere Voorwaarden Premievrijstelling    ",
+    "maatschappijen": [
+      "01246"
+    ],
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "01101"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Het is mogelijk om een offerte op te vragen bij Nedasco BV voor",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanmeldingstermijn",
+    "inhoud": "De in de Algemene Voorwaarden bedoelde aanmeldingstermijn bedraagt drie maanden na",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "arbeidsongeschiktheid",
+    "inhoud": "${10699o} opgenomen bepalingen. De premie voor deze dekking bedraagt ${10117}%                      ",
+    "maatschappijen": [
+      "01246"
+    ],
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "het ontstaan van het risico door indiensttreding, aanvang van de regeling,",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "van de premie voor het overlijdensrisico.",
+    "inhoud": "",
+    "maatschappijen": [
+      "01246"
+    ],
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "rubriek B van een individuele AOV.",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "het sluiten van een huwelijk of het aangaan van een partnerrelatie voor",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Medische acceptatie is van toepassing op basis van een gezondheids-",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Deze opslag is niet verwerkt in het in Bijlage 1 opgenomen tarief.",
+    "inhoud": " ",
+    "maatschappijen": [
+      "01246"
+    ],
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "",
+    "maatschappijen": [
+      "01105"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "",
+    "maatschappijen": [
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Maximale toetredingsleeftijd van de ondernemer is 55 jaar.",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Wanneer de Ziekteverzuimverzekering voor de werknemers komt te vervallen",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Medische acceptatie",
+    "inhoud": "De acceptatie van de te verzekeren deelnemers geschiedt overeenkomstig het bepaalde",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Obligo",
+    "inhoud": "Gelijk aan het fiscaal maximaal te verzekeren Anw-hiaatpensioen.",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "in de Algemene Voorwaarden",
+    "inhoud": "${10698o}.",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "of het aantal werknemers in loondienst minder dan 5 bedraagt, zal",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "de Ziekteverzuimverzekering voor de Ondernemer ook komen te vervallen.",
+    "maatschappijen": [
+      "01105",
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premie",
+    "inhoud": "Zie bijlage 1.",
+    "maatschappijen": [
+      "01224",
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "In aanvulling op artikel 4 van de Algemene Voorwaarden",
+    "inhoud": "${10698o} geldt voor de",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "deelnemers die op de dag voor de ingangsdatum van de op hun leven te sluiten",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievrijstelling bij",
+    "inhoud": "Meeverzekerd volgens de in de bijgaande Bijzondere Voorwaarden Premievrijstelling ",
+    "maatschappijen": [
+      "01224"
+    ],
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "01105"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "01106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "verzekering niet elders met een gelijkwaardige dekking waren verzekerd de",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "arbeidsongeschiktheid",
+    "inhoud": "${10699o} opgenomen bepalingen.                                                           ",
+    "maatschappijen": [
+      "01224"
+    ],
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${81015}",
+    "maatschappijen": [
+      "01224",
+      "01246"
+    ],
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "navolgende bepaling:",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "De premie voor deze dekking bedraagt",
+    "inhoud": "${10117}% van de premie voor het                    ",
+    "maatschappijen": [
+      "01224"
+    ],
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Bij overlijden binnen een half jaar na ingang van de dekking zal het oordeel van",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "overlijdensrisico en is verschuldigd tot de 65ste verjaardag van de deelnemer.",
+    "inhoud": "",
+    "maatschappijen": [
+      "01224"
+    ],
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "de onafhankelijke Toetsingscommissie Gezondheidsgegevens worden gevraagd of dat",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Deze opslag is niet verwerkt in het in Bijlage 1 opgenomen tarief.",
+    "inhoud": "",
+    "maatschappijen": [
+      "01224"
+    ],
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${81015}",
+    "maatschappijen": [
+      "01224",
+      "01246"
+    ],
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "overlijden niet het gevolg is van de gezondheidstoestand van de betrokkene op de",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "ingangsdatum van de dekking. Indien deze gezondheidstoestand het overlijden",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Einddatum van de uitkering",
+    "inhoud": "De uitkering wordt verricht tot het moment dat de partner van de deelnemer de",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "AOW-gerechtigde leeftijd heeft bereikt, doch uiterlijk tot de 68e verjaardag of,",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "redelijkerwijs moest doen verwachten, zal geen uitkering uit hoofde van deze",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "indien eerder, tot de dag waarop deze komt te overlijden.",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "verzekering worden verleend.",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Acceptatieregeling",
+    "inhoud": "De acceptatie van de deelnemers geschiedt overeenkomstig hetgeen gesteld is in",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "artikel 4 van de Algemene Voorwaarden",
+    "inhoud": "${10698o}, met in achtneming van de",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "volgende bepalingen.",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Deelnemers die voor de ingang van de dekking bij reeds elders voor het bedoelde",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verwerking individuele",
+    "inhoud": "via ${00100o}",
+    "maatschappijen": [
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "risico zijn verzekerd, worden bij aanvang van de verzekering automatisch en zonder",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "overlegging van medische waarborgen geaccepteerd.",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Voor deelnemers die op de dag voordat de dekking voor hen ingaat niet elders voor",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "het Anw-hiaatpensioen waren verzekerd, geldt dat bij overlijden binnen een half",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "jaar na ingang van de dekking de verzekeraar zich het recht voorbehoudt de uitkering",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "te weigeren. Deze weigering is afhankelijk van de uitkomst van het in voorkomende",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "gevallen door de verzekeraar in te stellen onderzoek naar de gezondheidstoestand",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "van de deelnemer bij opname in de regeling.",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Dit houdt in dat het oordeel van de onafhankelijke Toetsingscommissie",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Gezondheidsgegevens zal worden gevraagd of het overlijden niet het gevolg is van",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "de gezondheidstoestand van de betrokkene bij opname in de regeling.",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Indien deze gezondheidstoestand het overlijden redelijkerwijs moest doen verwachten,",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "zal geen uitkering worden verleend.",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Om voor een uitkering in aanmerking te komen is de pensioengerechtigde verplicht",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "zijn medewerking aan de uitvoering van dit onderzoek te verlenen.",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Het bovenstaande is van overeenkomstige toepassing op de verzekering van de",
+    "maatschappijen": [
+      "01224",
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "premievrije voortzetting bij arbeidsongeschiktheid, met dien verstande dat de",
+    "maatschappijen": [
+      "01224",
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "verzekeraar voor deze verzekeringsvorm het onderzoek zelf uitvoert.",
+    "maatschappijen": [
+      "01224",
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "De genoemde periode van een half jaar wordt verminderd met de periode waarin de",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "deelnemer direct voorafgaand een overlijdensrisicodekking had van een vergelijkbaar",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "niveau als de dekking van deze verzekering.",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verwerking individuele",
+    "inhoud": "<via intermediair/regeling gevolmachtigde>",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "mutaties",
+    "maatschappijen": [
+      "01224",
+      "01246"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Definitie partner",
+    "inhoud": "Als partner in de zin van deze uitvoeringsovereenkomst wordt aangemerkt:",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "1: de echtgenoot dan wel geregistreerde partner van de deelnemer;",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "2: de ongehuwde persoon met wie de deelnemer duurzaam een gemeenschappelijke",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "huishouding voert. Onder gemeenschappelijke huishouding wordt verstaan een",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "huishouding gevoerd door de deelnemer en n partner, niet zijnde een",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "bloed- of aanverwant in rechte lijn.",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Een dergelijke relatie wordt eerst als zodanig erkend indien de werkgever",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "door de betreffende deelnemer hierover schriftelijk is genformeerd door het",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "overleggen van:",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "a) een notarieel verleden samenlevingscontract, dan wel",
+    "maatschappijen": [
+      "01224"
+    ],
+    "type": "standaard"
+  }
+]

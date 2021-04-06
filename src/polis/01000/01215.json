@@ -1,0 +1,125 @@
+[
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "WAO-verzekering ${10020}",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "WAO-salaris",
+    "inhoud": "84186",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "84186"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "WAO-aanvullingsrente",
+    "inhoud": "84187",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "84187"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd",
+    "inhoud": "${10067} jaar",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "10067"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Stijgingspercentage",
+    "inhoud": "${84189o} van de ingegane WAO-rente",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "84189o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievoet",
+    "inhoud": "${80015} per € 100,- WAO-salaris",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Max. verzekerd bedrag",
+    "inhoud": "10241",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "10241"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verz. componenten",
+    "inhoud": "${84410o}",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "84410o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84411o}",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "84411o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84412o}",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "84412o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84413o}",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "84413o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  }
+]

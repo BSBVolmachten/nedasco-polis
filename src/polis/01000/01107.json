@@ -1,0 +1,319 @@
+[
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "Ziekteverzuimverzekering ${86018o}",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De in loondienst van verzekeringnemer zijnde werknemer(s)",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd risico",
+    "inhoud": "Het loondoorbetalingsrisico voor de verzekeringnemer met",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "betrekking tot de verzekerden",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde som",
+    "inhoud": "80844",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "vereiste_labels": [
+      "80844"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inclusief",
+    "inhoud": "${84029}% vakantiegeld",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "vereiste_labels": [
+      "84029"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inclusief",
+    "inhoud": "${84030}% vaste toeslagen",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "vereiste_labels": [
+      "84030"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inclusief",
+    "inhoud": "${80177}% werkgeverslasten",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "vereiste_labels": [
+      "80177"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Maximaal verzekerd",
+    "inhoud": "${80181}",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "vereiste_labels": [
+      "80181"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal medewerkers",
+    "inhoud": "${10074}",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "vereiste_labels": [
+      "10074"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievoet totaal",
+    "inhoud": "${86361} %",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "1e verzekeringsjaar",
+    "inhoud": "",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "1e verzekeringsjaar",
+    "inhoud": "",
+    "maatschappijen": [
+      "P381"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde periode",
+    "inhoud": "${80165} weken (1e verzekeringsjaar)",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "vereiste_labels": [
+      "80165"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievoet",
+    "inhoud": "${84937}%",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "vereiste_labels": [
+      "84937"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingspercentages",
+    "inhoud": "${80180}% voor het eerste halfjaar",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "vereiste_labels": [
+      "80180"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86468}% voor het tweede halfjaar",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "vereiste_labels": [
+      "86468"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Wachtdagen",
+    "inhoud": "${10065} werkdagen",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "vereiste_labels": [
+      "10065"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gedurende de wachttijd is er geen recht op uitkering.",
+    "inhoud": "${10065}",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "vereiste_labels": [
+      "10065"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen behoud",
+    "inhoud": "${80024}% van de totaal verzekerde som",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "vereiste_labels": [
+      "80024"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bijzondere voorwaarde",
+    "inhoud": "De maximale uitkering is ${80017o}.",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "vereiste_labels": [
+      "80017o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "2e verzekeringsjaar",
+    "inhoud": "  ${80167}",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "vereiste_labels": [
+      "80167"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde periode",
+    "inhoud": "${80167} weken (2e verzekeringsjaar)",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "vereiste_labels": [
+      "80167"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievoet",
+    "inhoud": "${83053}%",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "vereiste_labels": [
+      "83053"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingspercentages",
+    "inhoud": "${84936}% voor het derde halfjaar",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "vereiste_labels": [
+      "84936"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86469}% voor het vierde halfjaar",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "vereiste_labels": [
+      "86469"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Wachtdagen",
+    "inhoud": "${84935}",
+    "maatschappijen": [
+      "P302",
+      "P381"
+    ],
+    "vereiste_labels": [
+      "84935"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P381"
+    ],
+    "type": "standaard"
+  }
+]

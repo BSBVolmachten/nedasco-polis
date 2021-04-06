@@ -1,0 +1,18 @@
+[
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "Collectieve WAO-verzekering ${10020}",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  }
+]

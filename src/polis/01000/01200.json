@@ -1,0 +1,248 @@
+[
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "${10142o} Op Maat ${10020}",
+    "maatschappijen": [
+      "A312"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "WAO-verzekering ${10020}",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Collectiviteit",
+    "inhoud": "${10095o}",
+    "maatschappijen": [
+      "A312"
+    ],
+    "vereiste_labels": [
+      "10095o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Naam",
+    "inhoud": "${10631} ${10632} ${10630}",
+    "maatschappijen": [
+      "A312"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geboortedatum",
+    "inhoud": "${10035}",
+    "maatschappijen": [
+      "A312"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroep",
+    "inhoud": "${11349}",
+    "maatschappijen": [
+      "A312"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Werkzaamheden",
+    "inhoud": "Administratief, leidinggeven, commercieel, toezicht houden, adviseren  ${12945}%     ${80694}",
+    "maatschappijen": [
+      "A312"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}             ${12946}%",
+    "maatschappijen": [
+      "A312"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80696}             ${12947}%",
+    "maatschappijen": [
+      "A312"
+    ],
+    "vereiste_labels": [
+      "80696"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Werkzaamheden",
+    "inhoud": "${80697}             ${12948}%",
+    "maatschappijen": [
+      "A312"
+    ],
+    "vereiste_labels": [
+      "80697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80698}             ${12949}%",
+    "maatschappijen": [
+      "A312"
+    ],
+    "vereiste_labels": [
+      "80698"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekking",
+    "inhoud": "${87253} Arbeidsongeschiktheid ten gevolge van",
+    "maatschappijen": [
+      "A312"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${87218}",
+    "maatschappijen": [
+      "A312"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Tariefvorm",
+    "inhoud": "${87213o}",
+    "maatschappijen": [
+      "A312"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kortingsvariant",
+    "inhoud": "${80414o}",
+    "maatschappijen": [
+      "A312"
+    ],
+    "vereiste_labels": [
+      "80414o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Klimming verzekerd bedrag",
+    "inhoud": "${87211o}",
+    "maatschappijen": [
+      "A312"
+    ],
+    "vereiste_labels": [
+      "87211o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Klimming uitkering",
+    "inhoud": "${87212o}",
+    "maatschappijen": [
+      "A312"
+    ],
+    "vereiste_labels": [
+      "87212o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Ondergrens",
+    "maatschappijen": [
+      "A312"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "arbeidsongeschiktheid",
+    "inhoud": "${80161}%",
+    "maatschappijen": [
+      "A312"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd",
+    "inhoud": "${87222o} jaar",
+    "maatschappijen": [
+      "A312"
+    ],
+    "vereiste_labels": [
+      "87222o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringsduur",
+    "inhoud": "${87214o}",
+    "maatschappijen": [
+      "A312"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico termijn",
+    "inhoud": "${87220o} voor het eerstejaarsrisico",
+    "maatschappijen": [
+      "A312"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${87221o} voor het na-eerstejaarsrisico",
+    "maatschappijen": [
+      "A312"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Einddatum contract",
+    "inhoud": "${84095}",
+    "maatschappijen": [
+      "A312"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Einddatum premiebetaling",
+    "inhoud": "${10068}",
+    "maatschappijen": [
+      "A312"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "A312"
+    ],
+    "type": "standaard"
+  }
+]

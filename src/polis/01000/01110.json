@@ -1,0 +1,212 @@
+[
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "${10142o}  ${10020}",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De werknemers in dienst van verzekeringnemer",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd risico",
+    "inhoud": "Het loondoorbetalingsrisico voor de verzekeringnemer met",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "betrekking tot de verzekerden",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde som",
+    "inhoud": "84027",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "84027"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inclusief",
+    "inhoud": "${84029}% vakantiegeld",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "84029"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inclusief",
+    "inhoud": "${84030}% vaste toeslagen",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "84030"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inclusief",
+    "inhoud": "${80177}% werkgeverslasten",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "80177"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Maximaal verzekerd",
+    "inhoud": "${80181}",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "80181"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "1e verzekeringsjaar",
+    "inhoud": "",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde periode",
+    "inhoud": "${80165} weken (1e verzekeringsjaar)",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "80165"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievoet",
+    "inhoud": "${84937}%",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "84937"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringspercentage",
+    "inhoud": "${80180}%",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "80180"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Wachtdagen",
+    "inhoud": "${10065} werkdagen",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "10065"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Gedurende de wachttijd is er geen recht op uitkering.",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "2e verzekeringsjaar",
+    "inhoud": "  ${80167}",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "80167"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde periode",
+    "inhoud": "${80167} weken (2e verzekeringsjaar)",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "80167"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievoet",
+    "inhoud": "${83053}%",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "83053"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringspercentage",
+    "inhoud": "${84936}%",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "84936"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Wachtdagen",
+    "inhoud": "${84935}",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "84935"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  }
+]

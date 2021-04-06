@@ -1,0 +1,731 @@
+[
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "${10142o} ${10020}",
+    "maatschappijen": [
+      "P364"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "Ziekteverzuimverzekering ${86018o}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P311",
+      "P368",
+      "P345",
+      "P375"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De in loondienst van verzekeringnemer zijnde werknemer(s)",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P311",
+      "P368",
+      "P345",
+      "P375"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De werknemers in dienst van verzekeringnemer",
+    "maatschappijen": [
+      "P364"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd risico",
+    "inhoud": "Het loondoorbetalingsrisico voor de verzekeringnemer met",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P364",
+      "P310",
+      "P311",
+      "P368",
+      "P345",
+      "P375"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "betrekking tot de verzekerden",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P364",
+      "P310",
+      "P311",
+      "P368",
+      "P345",
+      "P375"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde som",
+    "inhoud": "80844",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P311",
+      "P368",
+      "P345"
+    ],
+    "vereiste_labels": [
+      "80844"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde som",
+    "inhoud": "84027",
+    "maatschappijen": [
+      "P364",
+      "P310",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "84027"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inclusief",
+    "inhoud": "${84029}% vakantiegeld",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P364",
+      "P310",
+      "P311",
+      "P368",
+      "P345",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "84029"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inclusief",
+    "inhoud": "${84030}% vaste toeslagen",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P364",
+      "P310",
+      "P311",
+      "P368",
+      "P345",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "84030"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inclusief",
+    "inhoud": "${80177}% werkgeverslasten",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P364",
+      "P310",
+      "P311",
+      "P368",
+      "P345",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80177"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Maximaal verzekerd",
+    "inhoud": "${80181}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P364",
+      "P310",
+      "P311",
+      "P368",
+      "P345",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80181"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal medewerkers",
+    "inhoud": "${10074}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P364",
+      "P310",
+      "P311",
+      "P368",
+      "P345",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "10074"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Drempelbedrag",
+    "inhoud": "80741",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "80741"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Oproepkrachten",
+    "inhoud": "Oproepkrachten zijn uitgesloten. Oproepkrachten zijn; medewerkers met een${81016c}",
+    "maatschappijen": [
+      "P364"
+    ],
+    "vereiste_labels": [
+      "81016c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievoet totaal",
+    "inhoud": "${86361} %",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P311",
+      "P368",
+      "P345",
+      "P375"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "nul-urencontract, min-maxcontract of voorovereenkomst.",
+    "inhoud": "${81016c}",
+    "maatschappijen": [
+      "P364"
+    ],
+    "vereiste_labels": [
+      "81016c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Schadevrije jaren",
+    "inhoud": "${10049}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10049"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "1e verzekeringsjaar",
+    "inhoud": "",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "1e verzekeringsjaar",
+    "inhoud": "",
+    "maatschappijen": [
+      "P306"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "1e verzekeringsjaar",
+    "inhoud": "",
+    "maatschappijen": [
+      "P310"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "1e verzekeringsjaar",
+    "inhoud": "",
+    "maatschappijen": [
+      "P368"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "1e verzekeringsjaar",
+    "inhoud": "",
+    "maatschappijen": [
+      "P375"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Korting",
+    "inhoud": "${10050}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10050"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievoet totaal",
+    "inhoud": "${86361}%",
+    "maatschappijen": [
+      "P364"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde periode",
+    "inhoud": "${80165} weken (1e verzekeringsjaar)",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P311",
+      "P368",
+      "P345",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80165"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "1e verzekeringsjaar",
+    "inhoud": "",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingspercentages",
+    "inhoud": "${80180}% voor het eerste halfjaar",
+    "maatschappijen": [
+      "P364",
+      "P310",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80180"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievoet",
+    "inhoud": "${84937}%",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P311",
+      "P368",
+      "P345",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "84937"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "1e verzekeringsjaar",
+    "inhoud": "",
+    "maatschappijen": [
+      "P311"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86468}% voor het tweede halfjaar",
+    "maatschappijen": [
+      "P364",
+      "P310",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "86468"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingspercentages",
+    "inhoud": "${80180}% voor de 1e periode van ${80539o}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P311",
+      "P368",
+      "P345"
+    ],
+    "vereiste_labels": [
+      "80180"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84936}% voor het derde halfjaar",
+    "maatschappijen": [
+      "P364"
+    ],
+    "vereiste_labels": [
+      "84936"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86468}% voor de 2e periode van ${80549o}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P311",
+      "P368",
+      "P345"
+    ],
+    "vereiste_labels": [
+      "86468"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86469}% voor het vierde halfjaar",
+    "maatschappijen": [
+      "P364",
+      "P310",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "86469"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Wachtdagen",
+    "inhoud": "${10065} werkdagen",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P311",
+      "P368",
+      "P345",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "10065"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gedurende de wachttijd is er geen recht op uitkering.",
+    "inhoud": "${10065}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P364",
+      "P310",
+      "P311",
+      "P368",
+      "P345",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "10065"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekking",
+    "inhoud": "Tot ${87028o}",
+    "maatschappijen": [
+      "P364"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Duur van de uitkering",
+    "inhoud": "Maximaal 104 weken",
+    "maatschappijen": [
+      "P364"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen behoud",
+    "inhoud": "${80024}% van de totaal verzekerde som",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P364",
+      "P310",
+      "P311",
+      "P368",
+      "P345",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80024"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bijzondere voorwaarde",
+    "inhoud": "De maximale uitkering is ${80017o}.",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P311",
+      "P368",
+      "P345",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80017o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "${10065} werkdagen",
+    "maatschappijen": [
+      "P364"
+    ],
+    "vereiste_labels": [
+      "10065"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "2e verzekeringsjaar",
+    "inhoud": "  ${80167}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P311",
+      "P368",
+      "P345",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80167"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bijzondere voorwaarde",
+    "inhoud": "De maximale uitkering bedraagt ${80017o} van het eigen behoud.",
+    "maatschappijen": [
+      "P364"
+    ],
+    "vereiste_labels": [
+      "80017o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde periode",
+    "inhoud": "${80167} weken (2e verzekeringsjaar)",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P311",
+      "P368",
+      "P345",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "80167"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Naverrekening",
+    "inhoud": "Jaarlijks",
+    "maatschappijen": [
+      "P364"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievoet",
+    "inhoud": "${83053}%",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P311",
+      "P368",
+      "P345",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "83053"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingspercentages",
+    "inhoud": "${84936}% voor de 3e periode van ${80569o}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P311",
+      "P368",
+      "P345"
+    ],
+    "vereiste_labels": [
+      "84936"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingspercentages",
+    "inhoud": "${84936}% voor het derde halfjaar",
+    "maatschappijen": [
+      "P310",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "84936"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P364"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86469}% voor de 4e periode van ${80579o}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P311",
+      "P368",
+      "P345"
+    ],
+    "vereiste_labels": [
+      "86469"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Wachtdagen",
+    "inhoud": "${84935}",
+    "maatschappijen": [
+      "P302",
+      "P306",
+      "P310",
+      "P311",
+      "P368",
+      "P345",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "84935"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P306"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P310"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P368"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P375"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P311"
+    ],
+    "type": "standaard"
+  }
+]

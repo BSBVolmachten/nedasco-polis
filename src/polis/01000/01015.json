@@ -1,0 +1,538 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P306",
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Collectieve Ongevallenverzekering",
+    "maatschappijen": [
+      "A342",
+      "A343",
+      "A344",
+      "P353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "${83224o}",
+    "maatschappijen": [
+      "P306",
+      "P345",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "83224o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aard werkzaamheden",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P306",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aard werkzaamheden",
+    "inhoud": "${84215o}",
+    "maatschappijen": [
+      "P345",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "84215o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De in loondienst van verzekeringnemer zijnde werknemer(s).",
+    "maatschappijen": [
+      "A342",
+      "A343",
+      "A344"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "P306",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aard bedrijf",
+    "inhoud": "${12454o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "12454o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde bedragen",
+    "inhoud": "Rubriek                             Verzekerd bedrag",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde bedragen",
+    "inhoud": "Rubriek A  Bij overlijden             ${80717o}",
+    "maatschappijen": [
+      "A342",
+      "A343",
+      "A344"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "A. Overlijden",
+    "inhoud": "10241",
+    "maatschappijen": [
+      "P345",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10241"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Rubriek B  Bij blijvende invaliditeit",
+    "inhoud": "${80718o}",
+    "maatschappijen": [
+      "A342",
+      "A343",
+      "A344"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde bedragen",
+    "inhoud": "Rubriek                              Verzekerd bedrag",
+    "maatschappijen": [
+      "P306",
+      "P353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "A. Overlijden",
+    "inhoud": "${80717o}",
+    "maatschappijen": [
+      "P345",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80717o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Overlijden",
+    "inhoud": "€ ${10241}   als maximum per persoon",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10241"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "B. Blijvende invaliditeit",
+    "inhoud": "10242",
+    "maatschappijen": [
+      "P345",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10242"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Blijvende invaliditeit",
+    "inhoud": "€ ${10242}   als maximum per persoon",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10242"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaarloon",
+    "inhoud": "Het totale jaarloon bedraagt € ${10078} rekening houdende met de",
+    "maatschappijen": [
+      "A343",
+      "A344"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaarloon",
+    "inhoud": "Het totale jaarloon bedraagt € ${10078}.",
+    "maatschappijen": [
+      "A342"
+    ],
+    "vereiste_labels": [
+      "10078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "aangegeven data van in- en uitdiensttreding van de verzekerden.",
+    "maatschappijen": [
+      "A343",
+      "A344"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "B. Blijvende invaliditeit",
+    "inhoud": "${80718o}",
+    "maatschappijen": [
+      "P345",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80718o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Overlijden en invaliditeit tezamen",
+    "inhoud": "€ ${10243}   als maximum per gebeurtenis",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10243"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "C. Tijdelijke arbeidsongeschiktheid",
+    "inhoud": "10243",
+    "maatschappijen": [
+      "P345",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10243"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiepercentage",
+    "inhoud": "${84937}%",
+    "maatschappijen": [
+      "A342",
+      "A343"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "D. Geneeskundige kosten",
+    "inhoud": "10244",
+    "maatschappijen": [
+      "P345",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10244"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd",
+    "inhoud": "${10067}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10067"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiepercentage",
+    "inhoud": "${80710}%",
+    "maatschappijen": [
+      "A344"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd",
+    "inhoud": "AOW-gerechtigde leeftijd",
+    "maatschappijen": [
+      "A342"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringscriterium",
+    "inhoud": "${87200o}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "87200o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Begunstiging",
+    "inhoud": "${83094o}",
+    "maatschappijen": [
+      "P345",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "83094o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd",
+    "inhoud": "65 jaar",
+    "maatschappijen": [
+      "A343",
+      "A344"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaarloon",
+    "inhoud": "10069",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Deelnemers",
+    "inhoud": "${10074} verzekerden",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10074"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P345",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80947}",
+    "maatschappijen": [
+      "P306",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Progressieve dekking",
+    "inhoud": "${80686o}",
+    "maatschappijen": [
+      "P345",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80686o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.   ${80947}",
+    "maatschappijen": [
+      "P306",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiegrondslag",
+    "inhoud": "vast bedrag A:€ ${10241} a ${80708}",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "10241"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "vast bedrag B:€ ${10242} a ${83053}",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "10242"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaarloon",
+    "inhoud": "€ ${10069} a ${80709}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80709"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaarloon/premievoet",
+    "inhoud": "€ ${10069}  ${80709} o/oo",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "10069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P306"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Minimumpremie",
+    "inhoud": "80387",
+    "maatschappijen": [
+      "P345",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80387"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "${10074} verzekerden a € ${84621}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10074",
+      "84621"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "${10074} verzekerden",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "10074"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Min. aant. deelnemers",
+    "inhoud": "${80165} verzekerden",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "80165"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd",
+    "inhoud": "${10067} jaar",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "10067"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Naverr. jaar",
+    "inhoud": "${10077} termijn (jaren) ${80701}",
+    "maatschappijen": [
+      "P345"
+    ],
+    "vereiste_labels": [
+      "10077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "maatschappijen": [
+      "P345"
+    ],
+    "type": "standaard"
+  }
+]

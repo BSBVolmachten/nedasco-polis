@@ -1,0 +1,58 @@
+[
+  {
+    "omschrijving": "Rubriek E",
+    "inhoud": "Gezinsongevallen",
+    "maatschappijen": [
+      "P376",
+      "P375"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Rubriek Ea",
+    "inhoud": "Gezinsongevallen",
+    "maatschappijen": [
+      "P310",
+      "P374"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P376",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Loyaliteitskorting",
+    "inhoud": "${89996}%",
+    "maatschappijen": [
+      "P310",
+      "P376",
+      "P375"
+    ],
+    "vereiste_labels": [
+      "89996"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P310",
+      "P374",
+      "P376",
+      "P375"
+    ],
+    "type": "standaard"
+  }
+]

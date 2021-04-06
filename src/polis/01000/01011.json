@@ -1,0 +1,127 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinsamenstelling",
+    "inhoud": "${86411o}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde(n)",
+    "inhoud": "Naam               Geboortedatum",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630}              ${10633}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10637} ${10638} ${10636}              ${10639}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10643} ${10644} ${10642}              ${10645}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10649} ${10650} ${10648}              ${10651}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10648"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10655} ${10656} ${10654}              ${10657}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10654"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10661} ${10662} ${10660}              ${10663}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10660"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10667} ${10668} ${10666}              ${10669}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10666"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10673} ${10674} ${10672}              ${10675}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10672"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10679} ${10680} ${10678}              ${10681}",
+    "maatschappijen": [
+      "P302"
+    ],
+    "vereiste_labels": [
+      "10678"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P302"
+    ],
+    "type": "standaard"
+  }
+]

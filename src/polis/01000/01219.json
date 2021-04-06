@@ -1,0 +1,144 @@
+[
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "WGA Eigenrisicodragerverzekering                                     ${10020}${93042}${93082}${93046}${93041}",
+    "maatschappijen": [
+      "P385"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De in loondienst van verzekeringnemer zijnde werknemer(s).",
+    "maatschappijen": [
+      "P385"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal werknemers",
+    "inhoud": "${12409}",
+    "maatschappijen": [
+      "P385"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd",
+    "inhoud": "Uitkeringsschade (gewezen) werknemers krachtens de Regeling Werkhervatting",
+    "maatschappijen": [
+      "P385"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Gedeeltelijk Arbeidsgeschikten (WGA), zoals bedoeld in de Wet Werk en Inkomen",
+    "maatschappijen": [
+      "P385"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "naar Arbeidsvermogen (WIA) als gevolg van eigen risicodragen krachtens deze wet.",
+    "maatschappijen": [
+      "P385"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Verzekeringnemer betaalt geen gedifferentieerde UWV-premie maar een vast premie-",
+    "maatschappijen": [
+      "P385"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "percentage.",
+    "maatschappijen": [
+      "P385"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Werkgeverslasten",
+    "inhoud": "${12945}%",
+    "maatschappijen": [
+      "P385"
+    ],
+    "vereiste_labels": [
+      "12945"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiepercentage",
+    "inhoud": "${84937}%",
+    "maatschappijen": [
+      "P385"
+    ],
+    "vereiste_labels": [
+      "84937"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${81064}",
+    "maatschappijen": [
+      "P385"
+    ],
+    "vereiste_labels": [
+      "81064"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "2e jaar",
+    "inhoud": "3e jaar                                                       ${81064}",
+    "maatschappijen": [
+      "P385"
+    ],
+    "vereiste_labels": [
+      "81064"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Minimum WGA instroom",
+    "inhoud": "${81064}             ${81066}",
+    "maatschappijen": [
+      "P385"
+    ],
+    "vereiste_labels": [
+      "81064",
+      "81066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Maximum WGA instroom",
+    "inhoud": "${81065}             ${81067}",
+    "maatschappijen": [
+      "P385"
+    ],
+    "vereiste_labels": [
+      "81065"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde loonsom",
+    "inhoud": "84027",
+    "maatschappijen": [
+      "P385"
+    ],
+    "vereiste_labels": [
+      "84027"
+    ],
+    "type": "standaard"
+  }
+]
