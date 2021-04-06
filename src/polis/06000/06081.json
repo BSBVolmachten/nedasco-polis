@@ -1,0 +1,367 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P357",
+      "P388",
+      "P387"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${81226o}",
+    "maatschappijen": [
+      "P388",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "81226o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "P357",
+      "P388",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoofdactiviteit",
+    "inhoud": "${13093o}",
+    "maatschappijen": [
+      "P388"
+    ],
+    "vereiste_labels": [
+      "13093o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P388",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "- Personen met wie de verzekeringnemer een arbeidsovereenkomst heeft.",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- DGA's met een minderheidsbelang.",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80696}",
+    "maatschappijen": [
+      "P388",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "80696"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- ZZP'ers die als werknemer worden gezien.",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80697}",
+    "maatschappijen": [
+      "P388",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "80697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80697}",
+    "maatschappijen": [
+      "P388",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "80697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Personen met wie verzekeringnemer geen arbeidsovereenkomst heeft,",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "zoals stagiairs, uitzendkrachten, gedetacheerden en dergelijke,",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P388",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "zoals vermeld in artikel 7: 658 lid 4 van het Burgerlijk Wetboek.",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Vrijwilligers die aantoonbaar in de administratie voorkomen.",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Omzet",
+    "inhoud": "€  ${10078}",
+    "maatschappijen": [
+      "P388",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "10078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Franchise",
+    "inhoud": "€  ${80318}",
+    "maatschappijen": [
+      "P387"
+    ],
+    "vereiste_labels": [
+      "80318"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uniform loon",
+    "inhoud": "€  ${10069}",
+    "maatschappijen": [
+      "P388",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "10069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantallen per",
+    "inhoud": "${80321}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "80321"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Franchise",
+    "inhoud": "€  ${80318}  per gebeurtenis",
+    "maatschappijen": [
+      "P388"
+    ],
+    "vereiste_labels": [
+      "80318"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal vrijwilligers",
+    "inhoud": "${13586}",
+    "maatschappijen": [
+      "P388",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "13586"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bedrijfsmotorrijtuigen",
+    "inhoud": "${12471}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "12471"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekking woon/werk?",
+    "inhoud": "${81241}",
+    "maatschappijen": [
+      "P388",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "81241"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Werknemers",
+    "inhoud": "${12409} (fte)",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "12409"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€  ${10043}  per aanspraak",
+    "maatschappijen": [
+      "P388",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Overige assistenten",
+    "inhoud": "${81075}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "81075"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Datum inloop",
+    "inhoud": "${83176}",
+    "maatschappijen": [
+      "P388",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "83176"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Datum uitloop",
+    "inhoud": "${83199}",
+    "maatschappijen": [
+      "P388",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "83199"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P357",
+      "P388",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Duur inloop in jaren",
+    "inhoud": "${81183}",
+    "maatschappijen": [
+      "P388",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "81183"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "${10001o}                           Verzekerd bedrag",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P388",
+      "P387"
+    ],
+    "type": "standaard"
+  }
+]

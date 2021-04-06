@@ -1,0 +1,712 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P357",
+      "P306",
+      "P353",
+      "P311"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P357",
+      "P306",
+      "P353",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "P357",
+      "P306",
+      "P353",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80696}",
+    "maatschappijen": [
+      "P306",
+      "P353",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "80696"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantallen per",
+    "inhoud": "${80321}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "80321"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80697}",
+    "maatschappijen": [
+      "P306",
+      "P353",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "80697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bedrijfsmotorrijtuigen",
+    "inhoud": "${12471}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "12471"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P306",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Voorrisico",
+    "inhoud": "Van de dekking zijn uitgesloten aanspraken die het gevolg                   ${83176}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "83176"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Werknemers",
+    "inhoud": "${12409} (fte)",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "12409"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "zijn van een handelen of nalaten, dat heeft plaatsgevonden",
+    "inhoud": "${83176}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "83176"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Overige assistenten",
+    "inhoud": "${14166}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "14166"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Voorrisico",
+    "inhoud": "Niet verzekerd zijn aanspraken of omstandigheden die voortvloeien  ${83176}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "83176"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P306",
+      "P353",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "uit handelen of nalaten dat heeft plaatsgevonden voor ${${83176}}.           83176",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "83176",
+      "83176"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "voor",
+    "inhoud": "${83176}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "83176"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Omzet",
+    "inhoud": "12528",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "12528"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Indien sprake is van een reeks handelingen of nalatigheden die met elkaar  ${83176}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "83176"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P357",
+      "P306",
+      "P353",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiegrondslag",
+    "inhoud": "${10069}${10078}${80008}${84869}${84341} De premie is gebaseerd op de navolgende factor(en) ^",
+    "maatschappijen": [
+      "P306"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Voorrisico",
+    "inhoud": "In afwijking van het bepaalde in artikel 2.4 van de polisvoorwaarden        ${83287}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "83287"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "dekt deze verzekering eveneens aanspraken of omstandigheden die",
+    "inhoud": "${83287}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "83287"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaarloon",
+    "inhoud": ": ${99994} ${10069}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "verband houden of uit elkaar voortvloeien dan is voor de toepassing ${83176}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "83176"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaaromzet",
+    "inhoud": ": ${99994} ${10078}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "van de uitsluiting bepalend de datum van de aanvang van de reeks.  ${83176}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "83176"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "voortvloeien uit een handelen of nalaten dat heeft plaatsgevonden",
+    "inhoud": "${83287}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "83287"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "${10001o}                           Verzekerd bedrag",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaaromzet maximaal",
+    "inhoud": ": ${99994} ${84341}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "84341"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "voor",
+    "inhoud": "${${83287}}. Deze dekking is alleen van kracht mits de aanspraak                 83287",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "83287",
+      "83287"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herbouwwaarde",
+    "inhoud": ": ${99994} ${80008}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80008"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "of de omstandigheid bij het aangaan van de verzekering bij geen van",
+    "inhoud": "${83287}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "83287"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Personeelsleden maximaal",
+    "inhoud": ":   ${84869}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "84869"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "van de verzekerden bekend was.",
+    "inhoud": "${83287}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "83287"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiegrondslag",
+    "inhoud": "${10069}${10078}${80008}${80895}   De premie is gebaseerd op de navolgende factor(en)    ^",
+    "maatschappijen": [
+      "P353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaarloon",
+    "inhoud": ":  € ${10069}",
+    "maatschappijen": [
+      "P353",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal leden/medewerkers",
+    "inhoud": "${10074}  ${99994} ${83217}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "83217"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Mvz.voorrisico",
+    "inhoud": "${13288}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "13288"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaaromzet",
+    "inhoud": ":  € ${10078}",
+    "maatschappijen": [
+      "P353",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Maximaal aantal leden",
+    "inhoud": "${84343}",
+    "maatschappijen": [
+      "P306",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "84343"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Mvz.aantal jaar voor.",
+    "inhoud": "${14008}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "14008"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "De minimumpremie bedraagt",
+    "inhoud": "${99994} ${84330}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "84330"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaaromzet maximaal",
+    "inhoud": ":  € ${84341}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "84341"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herbouwwaarde",
+    "inhoud": ":  € ${80008}",
+    "maatschappijen": [
+      "P353",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "80008"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Het gestelde in de voorwaarden inzake",
+    "inhoud": "${84801o}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "84801o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herbouwwaarde",
+    "inhoud": ":  € ${13858}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "13858"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "is van toepassing.",
+    "inhoud": "${84801c}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "84801c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiegrondslag",
+    "inhoud": "${10069}${10078}${80008}   De premie is gebaseerd op de navolgende factor(en)                          ^",
+    "maatschappijen": [
+      "P311"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herbouwwaarde maximaal",
+    "inhoud": ":  € ${84342}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "84342"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal leden/medewerkers",
+    "inhoud": "${10074}  € ${83217} : ${84137}",
+    "maatschappijen": [
+      "P353",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "83217"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "${99994} ${80044} per aanspraak in geval van zaakschade",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "${99994} ${80045} per aanspraak in geval van opzichtschade",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "De minimumjaarpremie exclusief kosten, assurantiebelasting en korting",
+    "inhoud": "${84330}",
+    "maatschappijen": [
+      "P353",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "84330"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Overig eigen risico",
+    "inhoud": "${99994} ${10043} per aanspraak in geval van ${80465}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "bedraagt",
+    "inhoud": "84330",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "84330"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "bedraagt €",
+    "inhoud": "${84330}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "84330"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "Maximum verzekerde bedragen voor alle verzekerde rubrieken tezamen:",
+    "maatschappijen": [
+      "P306",
+      "P353",
+      "P311"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80044} per aanspraak in geval van zaakschade",
+    "maatschappijen": [
+      "P353",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80045} per aanspraak in geval van opzichtschade",
+    "maatschappijen": [
+      "P353",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Overig eigen risico",
+    "inhoud": "€ ${10043} per aanspraak in geval van ${84013}",
+    "maatschappijen": [
+      "P353",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80947}",
+    "maatschappijen": [
+      "P353",
+      "P311"
+    ],
+    "vereiste_labels": [
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.                                ${80947}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.                                    ${80947}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  }
+]

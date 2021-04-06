@@ -1,0 +1,1184 @@
+[
+  {
+    "omschrijving": "Rubriek C",
+    "inhoud": "Aansprakelijkheid",
+    "maatschappijen": [
+      "06850"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "06035",
+      "06030",
+      "06045",
+      "06080",
+      "06081",
+      "06082"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aard bedrijf",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${10245o}",
+    "maatschappijen": [
+      "06850"
+    ],
+    "vereiste_labels": [
+      "10245o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "06035",
+      "06030",
+      "06045",
+      "06081"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "06035",
+      "06030",
+      "06045",
+      "06080",
+      "06081",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${84312o}",
+    "maatschappijen": [
+      "06850"
+    ],
+    "vereiste_labels": [
+      "84312o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80696}",
+    "maatschappijen": [
+      "06035",
+      "06030",
+      "06045"
+    ],
+    "vereiste_labels": [
+      "80696"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verhuur woning",
+    "inhoud": "${84195o}",
+    "maatschappijen": [
+      "06850"
+    ],
+    "vereiste_labels": [
+      "84195o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80697}",
+    "maatschappijen": [
+      "06035",
+      "06030",
+      "06045"
+    ],
+    "vereiste_labels": [
+      "80697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Betaalde klussen",
+    "inhoud": "${84196o}",
+    "maatschappijen": [
+      "06850"
+    ],
+    "vereiste_labels": [
+      "84196o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Personen loondienst",
+    "inhoud": "${13901}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "13901"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "- Personen met wie de verzekeringnemer een arbeidsovereenkomst heeft.",
+    "maatschappijen": [
+      "06081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80697}",
+    "maatschappijen": [
+      "06035",
+      "06030",
+      "06045"
+    ],
+    "vereiste_labels": [
+      "80697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- DGA's met een minderheidsbelang.",
+    "maatschappijen": [
+      "06081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jagersrisico",
+    "inhoud": "${84206o}",
+    "maatschappijen": [
+      "06850"
+    ],
+    "vereiste_labels": [
+      "84206o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Tijdelijke medewerk.",
+    "inhoud": "${12522}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "12522"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Voorrisico",
+    "inhoud": "Van de dekking zijn uitgesloten aanspraken die het gevolg  ${83176}",
+    "maatschappijen": [
+      "06045"
+    ],
+    "vereiste_labels": [
+      "83176"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- ZZP'ers die als werknemer worden gezien.",
+    "maatschappijen": [
+      "06081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "zijn van een handelen of nalaten, dat heeft plaatsgevonden",
+    "inhoud": "${83176}",
+    "maatschappijen": [
+      "06045"
+    ],
+    "vereiste_labels": [
+      "83176"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "06035",
+      "06030",
+      "06045",
+      "06081"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inleenkrachten",
+    "inhoud": "${14167}",
+    "maatschappijen": [
+      "06082"
+    ],
+    "vereiste_labels": [
+      "14167"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inleenkrachten",
+    "inhoud": "${80782}",
+    "maatschappijen": [
+      "06080"
+    ],
+    "vereiste_labels": [
+      "80782"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Pleziervaartuig",
+    "inhoud": "meeverzekerd                                           ${87003o}",
+    "maatschappijen": [
+      "06850"
+    ],
+    "vereiste_labels": [
+      "87003o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "06035",
+      "06030",
+      "06045"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Personen met wie verzekeringnemer geen arbeidsovereenkomst heeft,",
+    "maatschappijen": [
+      "06081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "voor",
+    "inhoud": "${83176}",
+    "maatschappijen": [
+      "06045"
+    ],
+    "vereiste_labels": [
+      "83176"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Pleziervaartuig",
+    "inhoud": "meeverzekerd                                           ${87004o}",
+    "maatschappijen": [
+      "06850"
+    ],
+    "vereiste_labels": [
+      "87004o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Stagiairs",
+    "inhoud": "${13659}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "13659"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10043}",
+    "maatschappijen": [
+      "06850"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "zoals stagiairs, uitzendkrachten, gedetacheerden en dergelijke,",
+    "maatschappijen": [
+      "06081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiegrondslag",
+    "inhoud": "${10069}${10078}${80008}   De premie is gebaseerd op de navolgende factoren  ^",
+    "maatschappijen": [
+      "06035",
+      "06030"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vrijwilligers",
+    "inhoud": "${13586}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "13586"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "zoals vermeld in artikel 7: 658 lid 4 van het Burgerlijk Wetboek.",
+    "maatschappijen": [
+      "06081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaarloon",
+    "inhoud": ":  € ${10069}  ${80015} o/oo",
+    "maatschappijen": [
+      "06035",
+      "06030"
+    ],
+    "vereiste_labels": [
+      "10069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043}  ${10044o}",
+    "maatschappijen": [
+      "06850"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "ZZP'ers",
+    "inhoud": "${13657}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "13657"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Vrijwilligers die aantoonbaar in de administratie voorkomen.",
+    "maatschappijen": [
+      "06081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaaromzet",
+    "inhoud": ":  € ${10078}  ${80014} o/oo",
+    "maatschappijen": [
+      "06035",
+      "06030"
+    ],
+    "vereiste_labels": [
+      "10078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Personenauto's",
+    "inhoud": "${13652}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "13652"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiegrondslag",
+    "inhoud": "${10069}${10078}${80008}   De premie is gebaseerd op de navolgende factor(en)     ^",
+    "maatschappijen": [
+      "06045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vrijwillig eigen risico",
+    "inhoud": "11450",
+    "maatschappijen": [
+      "06850"
+    ],
+    "vereiste_labels": [
+      "11450"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herbouwwaarde",
+    "inhoud": ":  € ${80008}  ${80016} o/oo",
+    "maatschappijen": [
+      "06035",
+      "06030"
+    ],
+    "vereiste_labels": [
+      "80008"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaarloon",
+    "inhoud": ":  € ${10069}",
+    "maatschappijen": [
+      "06045"
+    ],
+    "vereiste_labels": [
+      "10069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Motorrijwielen",
+    "inhoud": "${80783}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "80783"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaaromzet",
+    "inhoud": ":  € ${10078}",
+    "maatschappijen": [
+      "06045"
+    ],
+    "vereiste_labels": [
+      "10078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal leden/medewerkers",
+    "inhoud": "${10074}  ${99994} ${83217}: ${84137}",
+    "maatschappijen": [
+      "06035",
+      "06030"
+    ],
+    "vereiste_labels": [
+      "83217"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantallen per",
+    "inhoud": "${80321}",
+    "maatschappijen": [
+      "06081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bromfietsen/Scooters",
+    "inhoud": "${13655}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "13655"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Loyaliteitskorting",
+    "inhoud": "${89996}%",
+    "maatschappijen": [
+      "06850"
+    ],
+    "vereiste_labels": [
+      "89996"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80039}",
+    "maatschappijen": [
+      "06850"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "De minimumpremie bedraagt",
+    "inhoud": "84330",
+    "maatschappijen": [
+      "06035",
+      "06030"
+    ],
+    "vereiste_labels": [
+      "84330"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herbouwwaarde",
+    "inhoud": ":  € ${80008}",
+    "maatschappijen": [
+      "06045"
+    ],
+    "vereiste_labels": [
+      "80008"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bedrijfsmotorrijtuigen",
+    "inhoud": "${12307}",
+    "maatschappijen": [
+      "06081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vrachtauto's",
+    "inhoud": "${12470}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "12470"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal leden/medewerkers",
+    "inhoud": "${10074}  € ${83217} : ${84137}",
+    "maatschappijen": [
+      "06045"
+    ],
+    "vereiste_labels": [
+      "83217"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestelauto's",
+    "inhoud": "${13596}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "13596"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Co-assurantie",
+    "inhoud": "${80039}",
+    "maatschappijen": [
+      "06850"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Werknemers",
+    "inhoud": "${84615} (fte)",
+    "maatschappijen": [
+      "06081"
+    ],
+    "vereiste_labels": [
+      "84615"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "De minimum jaarpremie exclusief kosten, assurantiebelasting en korting",
+    "inhoud": "${84330}",
+    "maatschappijen": [
+      "06045"
+    ],
+    "vereiste_labels": [
+      "84330"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- maatschappij",
+    "inhoud": "${80043}",
+    "maatschappijen": [
+      "06850"
+    ],
+    "vereiste_labels": [
+      "80043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€  ${80044}  per aanspraak",
+    "maatschappijen": [
+      "06035"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80044} per gebeurtenis in geval van zaakschade",
+    "maatschappijen": [
+      "06030"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Werkmaterieel",
+    "inhoud": "${81179}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "81179"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "bedraagt €",
+    "inhoud": "${84330}",
+    "maatschappijen": [
+      "06045"
+    ],
+    "vereiste_labels": [
+      "84330"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- polisnummer",
+    "inhoud": "${80471}",
+    "maatschappijen": [
+      "06850"
+    ],
+    "vereiste_labels": [
+      "80471"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aant.mdw.met rijbewijs",
+    "inhoud": "${80781}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "80781"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80045} per gebeurtenis in geval van opzichtschade",
+    "maatschappijen": [
+      "06030"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- dekking",
+    "inhoud": "${80026}",
+    "maatschappijen": [
+      "06850"
+    ],
+    "vereiste_labels": [
+      "80026"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal fte's per",
+    "inhoud": "${80321}    ${84615}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "84615"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Overig eigen risico",
+    "inhoud": "€ ${10043} per gebeurtenis ${84013}",
+    "maatschappijen": [
+      "06030"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "06035",
+      "06030",
+      "06080",
+      "06850",
+      "06082"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- verzekerd bedrag",
+    "inhoud": "80039",
+    "maatschappijen": [
+      "06850"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "",
+    "maatschappijen": [
+      "06081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80044} per aanspraak in geval van zaakschade",
+    "maatschappijen": [
+      "06045"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Specificatie fte's",
+    "inhoud": "Fulltime werknemers   ${80194} fte's",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "80194"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Parttime werknemers",
+    "inhoud": "${80195} fte's",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "80195"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- einddatum",
+    "inhoud": "${80040}",
+    "maatschappijen": [
+      "06850"
+    ],
+    "vereiste_labels": [
+      "80040"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80045} per aanspraak in geval van opzichtschade",
+    "maatschappijen": [
+      "06045"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Voor zaakschade",
+    "inhoud": "€ ${10043} per gebeurtenis",
+    "maatschappijen": [
+      "06081"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Tijdelijke krachten",
+    "inhoud": "${10074} fte's",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "10074"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Overig eigen risico",
+    "inhoud": "€ ${10043} per aanspraak in geval van ${84013}",
+    "maatschappijen": [
+      "06045"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Voor cascoschade",
+    "inhoud": "€ ${80044} per gebeurtenis per motorrijtuig",
+    "maatschappijen": [
+      "06081"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84869}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "84869"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80947}",
+    "maatschappijen": [
+      "06045",
+      "06080",
+      "06081",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal vrijwilligers/",
+    "inhoud": "${84869}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "84869"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.    ${80947}",
+    "maatschappijen": [
+      "06045",
+      "06080",
+      "06081",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Premiegrondslag",
+    "maatschappijen": [
+      "06081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Omschrijving",
+    "inhoud": "Aantal     Premie per eenheid Jaarpremie",
+    "maatschappijen": [
+      "06081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "onbetaalden",
+    "inhoud": "${84869}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "84869"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bedrijfsmotorrijtuigen",
+    "inhoud": "${12307}          € ${83236}                € ${83238}",
+    "maatschappijen": [
+      "06081"
+    ],
+    "vereiste_labels": [
+      "12307"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Percentage regelmatige",
+    "inhoud": "${84616o}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "84616o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "Maximum verzekerde bedragen voor alle verzekerde rubrieken tezamen:",
+    "maatschappijen": [
+      "06045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "bestuurders",
+    "inhoud": "${84616o}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "84616o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Overige FTE",
+    "inhoud": "${80821}          € ${83237}                € ${84265}",
+    "maatschappijen": [
+      "06081"
+    ],
+    "vereiste_labels": [
+      "80821"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "ÄÄÄÄÄÄÄÄÄÄÄ",
+    "maatschappijen": [
+      "06081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Basispremie op jaarbasis",
+    "inhoud": "Basispremie per fte                        € ${84231}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "84231"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "84398",
+    "maatschappijen": [
+      "06081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "(voorschotpremie)",
+    "inhoud": "Korting (${12945}%)                               € ${84665}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "84665"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "€ ${84248}        ${84665}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "84665"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Minimumpremie",
+    "inhoud": "Er geldt een minimumpremie van € ${80823} per jaar.",
+    "maatschappijen": [
+      "06081"
+    ],
+    "vereiste_labels": [
+      "80823"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "^ fte's x €",
+    "inhoud": "${84615}                              € ${84248}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "84666"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84869}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "84869"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "per vrijwilliger/onbetaalde",
+    "inhoud": "84232",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "84232"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84869}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "84869"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                  Verzekerd bedrag",
+    "maatschappijen": [
+      "06081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "^ x €",
+    "inhoud": "${84869}                                    € ${84232}",
+    "maatschappijen": [
+      "06080",
+      "06082"
+    ],
+    "vereiste_labels": [
+      "84869"
+    ],
+    "type": "standaard"
+  }
+]

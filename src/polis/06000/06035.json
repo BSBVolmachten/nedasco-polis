@@ -1,0 +1,219 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P311",
+      "P387"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P311",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "P311",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80696}",
+    "maatschappijen": [
+      "P311",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "80696"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80697}",
+    "maatschappijen": [
+      "P311",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "80697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80697}",
+    "maatschappijen": [
+      "P311",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "80697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P311",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P311",
+      "P387"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Omzet",
+    "inhoud": "€  ${10078}",
+    "maatschappijen": [
+      "P387"
+    ],
+    "vereiste_labels": [
+      "10078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiegrondslag",
+    "inhoud": "${10069}${10078}${80008}   De premie is gebaseerd op de navolgende factoren  ^",
+    "maatschappijen": [
+      "P311"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaarloon",
+    "inhoud": ":  € ${10069}  ${80015} o/oo",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Datum inloop",
+    "inhoud": "${83176}",
+    "maatschappijen": [
+      "P387"
+    ],
+    "vereiste_labels": [
+      "83176"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaaromzet",
+    "inhoud": ":  € ${10078}  ${80014} o/oo",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Datum uitloop",
+    "inhoud": "${83199}",
+    "maatschappijen": [
+      "P387"
+    ],
+    "vereiste_labels": [
+      "83199"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herbouwwaarde",
+    "inhoud": ":  € ${80008}  ${80016} o/oo",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "80008"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Duur inloop in jaren",
+    "inhoud": "${81183}",
+    "maatschappijen": [
+      "P387"
+    ],
+    "vereiste_labels": [
+      "81183"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal leden/medewerkers",
+    "inhoud": "${10074}  ${99994} ${83217}: ${84137}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "83217"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "De minimumpremie bedraagt",
+    "inhoud": "84330",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "84330"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€  ${80044}  per aanspraak",
+    "maatschappijen": [
+      "P311"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P311",
+      "P387"
+    ],
+    "type": "standaard"
+  }
+]

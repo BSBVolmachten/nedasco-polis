@@ -1,0 +1,210 @@
+[
+  {
+    "omschrijving": "Rubriek C",
+    "inhoud": "Aansprakelijkheid",
+    "maatschappijen": [
+      "P374"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${10245o}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "10245o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Extra meeverzekerd:",
+    "maatschappijen": [
+      "P374"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verhuurde woningen",
+    "inhoud": "${12310}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "12310"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Betaalde klussen",
+    "inhoud": "${11793}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Grote dieren",
+    "inhoud": "${86439o}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "86439o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jagersrisico",
+    "inhoud": "${84206o}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "84206o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Pleziervaartuig",
+    "inhoud": "meeverzekerd                                           ${87003o}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "87003o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Pleziervaartuig",
+    "inhoud": "meeverzekerd                                           ${87004o}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "87004o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043}  ${10044o}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vrijwillig eigen risico",
+    "inhoud": "11450",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "11450"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80039}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Co-assurantie",
+    "inhoud": "${80039}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- maatschappij",
+    "inhoud": "${80043}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "80043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- polisnummer",
+    "inhoud": "${80471}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "80471"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- dekking",
+    "inhoud": "${80026}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "80026"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- verzekerd bedrag",
+    "inhoud": "80039",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- einddatum",
+    "inhoud": "${80040}",
+    "maatschappijen": [
+      "P374"
+    ],
+    "vereiste_labels": [
+      "80040"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P374"
+    ],
+    "type": "standaard"
+  }
+]

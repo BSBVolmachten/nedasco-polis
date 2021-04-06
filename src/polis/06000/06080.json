@@ -1,0 +1,473 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Schadeverzekering voor bestuurders/werknemers",
+    "maatschappijen": [
+      "P386"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "WEGAMpolis",
+    "maatschappijen": [
+      "P306"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Werkgeversaansprakelijkheid Verkeersdeelnemers",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aard bedrijf",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376",
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${11657}",
+    "maatschappijen": [
+      "P386"
+    ],
+    "vereiste_labels": [
+      "11657"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376",
+      "P386",
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${80694}",
+    "maatschappijen": [
+      "P386"
+    ],
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal fte's per",
+    "inhoud": "${80321}    ${84615}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "84615"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal medewerkers",
+    "inhoud": "${84869}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico-adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "maatschappijen": [
+      "P386"
+    ],
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032} ${10709}",
+    "maatschappijen": [
+      "P386"
+    ],
+    "vereiste_labels": [
+      "10032"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "waarvan",
+    "inhoud": "${80199} vrijwilligers",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80199"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Specificatie fte's",
+    "inhoud": "Fulltime werknemers   ${80194} fte's",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80194"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Parttime werknemers",
+    "inhoud": "${80195} fte's",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80195"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal medewerkers",
+    "inhoud": "${12409}",
+    "maatschappijen": [
+      "P386"
+    ],
+    "vereiste_labels": [
+      "12409"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "DGA's",
+    "inhoud": "${87262} fte's",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "87262"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal motorrijtuigen",
+    "inhoud": "${12471}",
+    "maatschappijen": [
+      "P386"
+    ],
+    "vereiste_labels": [
+      "12471"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal pers-/bestelauto",
+    "inhoud": "${80165}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Tijdelijke krachten",
+    "inhoud": "${10074} fte's",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "10074"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal vrachtauto",
+    "inhoud": "${80167}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Standaard meeverzekerd",
+    "inhoud": "5000 gedeclareerde kilometers door uw werknemer(s).                   ${12471}",
+    "maatschappijen": [
+      "P386"
+    ],
+    "vereiste_labels": [
+      "12471"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal bromfiets/-scooters",
+    "inhoud": "${80169}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zakelijke kilometers prive auto",
+    "inhoud": "${81074o}",
+    "maatschappijen": [
+      "P386"
+    ],
+    "vereiste_labels": [
+      "81074o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84869}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "84869"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal overig materieel",
+    "inhoud": "${84783}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal vrijwilligers/",
+    "inhoud": "${84869}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "84869"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Werknemers > 5.000 km",
+    "inhoud": "${84784}",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "onbetaalden",
+    "inhoud": "${84869}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "84869"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} per aanspraak",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80947}",
+    "maatschappijen": [
+      "P376",
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Percentage regelmatige",
+    "inhoud": "${84616o}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "84616o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "bestuurders",
+    "inhoud": "${84616o}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "84616o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.   ${80947}",
+    "maatschappijen": [
+      "P376"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P310",
+      "P375",
+      "P376",
+      "P386",
+      "P306"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Basispremie op jaarbasis",
+    "inhoud": "Basispremie per fte                    € ${84231}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "(voorschotpremie)",
+    "inhoud": "Korting (${12945}%)                           € ${84665}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "84665"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "€ ${84248}             ${84665}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "84665"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "^ fte's x €",
+    "inhoud": "${84615}                          € ${84248}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "84615",
+      "84666"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84869}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "84869"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "per vrijwilliger/onbetaalde",
+    "inhoud": "€ ${84232}             ${84869}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "84232",
+      "84869"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84869}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "84869"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "^ x €",
+    "inhoud": "${84869}                                € ${84232}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "84869"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.    ${80947}",
+    "maatschappijen": [
+      "P306"
+    ],
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  }
+]

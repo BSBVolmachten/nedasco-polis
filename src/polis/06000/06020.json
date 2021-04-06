@@ -1,0 +1,548 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Aansprakelijkheid voor particulieren",
+    "maatschappijen": [
+      "P357",
+      "P353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "P350",
+      "P311",
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "P357",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${83050o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "83050o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${83050o}",
+    "maatschappijen": [
+      "P350",
+      "P311",
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "83050o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inclusief jagersrisico voor het dekkingsgebied",
+    "inhoud": "${83231o}",
+    "maatschappijen": [
+      "P350",
+      "P311",
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "83231o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10245o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10245o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verhaalsbijstand meeverzekerd",
+    "inhoud": "${11646}",
+    "maatschappijen": [
+      "P357"
+    ],
+    "vereiste_labels": [
+      "11646"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "maatschappijen": [
+      "P350",
+      "P311",
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} per gebeurtenis",
+    "maatschappijen": [
+      "P357",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${10694o}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal jagers",
+    "inhoud": "${80165}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80165"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043}  ${10044o}",
+    "maatschappijen": [
+      "P311"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied jagers",
+    "inhoud": "${83231o}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "83231o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "Voor alle schaden € ${80047}",
+    "maatschappijen": [
+      "P350",
+      "P311",
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "80047"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meeverzekerd klussen",
+    "inhoud": "${11793}",
+    "maatschappijen": [
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "11793"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                          Verzekerd bedrag",
+    "maatschappijen": [
+      "P357"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aansprakelijkheid extra opstallen",
+    "inhoud": "${80077}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "Voor schaden door kinderen € ${80044}",
+    "maatschappijen": [
+      "P350",
+      "P311",
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hobbyboer",
+    "inhoud": "${87245o}",
+    "maatschappijen": [
+      "P311",
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "87245o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meeverzekerd boten",
+    "inhoud": "${11719}",
+    "maatschappijen": [
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "11719"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal grote dieren",
+    "inhoud": "${11908}",
+    "maatschappijen": [
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "11908"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "Voor schaden door dieren € ${80045}",
+    "maatschappijen": [
+      "P350",
+      "P311",
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80078}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verhuurde woningen",
+    "inhoud": "${12310}",
+    "maatschappijen": [
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "12310"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "Voor schaden door kinderen en/of dieren € ${80046}",
+    "maatschappijen": [
+      "P350",
+      "P311",
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "80046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meeverzekerd sterdekking",
+    "inhoud": "${11500}",
+    "maatschappijen": [
+      "P372"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80077}",
+    "maatschappijen": [
+      "P350"
+    ],
+    "vereiste_labels": [
+      "80077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80089}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80089"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meeverzekerd verhaalschade",
+    "inhoud": "${11646}",
+    "maatschappijen": [
+      "P372"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80079}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80079"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Adres verhuurde woning",
+    "inhoud": "${80077} ${80093} ${86451}",
+    "maatschappijen": [
+      "P350"
+    ],
+    "vereiste_labels": [
+      "80077",
+      "80093"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80090}",
+    "maatschappijen": [
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80090"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80082} ${80088}",
+    "maatschappijen": [
+      "P350",
+      "P353"
+    ],
+    "vereiste_labels": [
+      "80082",
+      "80088"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80039}",
+    "maatschappijen": [
+      "P350",
+      "P311",
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Co-assurantie",
+    "inhoud": "${80039}",
+    "maatschappijen": [
+      "P350",
+      "P311",
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- maatschappij",
+    "inhoud": "${80043}",
+    "maatschappijen": [
+      "P350",
+      "P311",
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "80043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "Vrijwillig voor alle schaden € ${10043}",
+    "maatschappijen": [
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                  Verzekerd bedrag",
+    "maatschappijen": [
+      "P353"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- polisnummer",
+    "inhoud": "${80471}",
+    "maatschappijen": [
+      "P350",
+      "P311",
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "80471"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- dekking",
+    "inhoud": "${80026}",
+    "maatschappijen": [
+      "P350",
+      "P311",
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "80026"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- verzekerd bedrag",
+    "inhoud": "80039",
+    "maatschappijen": [
+      "P350",
+      "P311",
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- einddatum",
+    "inhoud": "${80040}",
+    "maatschappijen": [
+      "P350",
+      "P311",
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "vereiste_labels": [
+      "80040"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "maatschappijen": [
+      "P350",
+      "P311",
+      "P302",
+      "P372",
+      "P368"
+    ],
+    "type": "standaard"
+  }
+]
