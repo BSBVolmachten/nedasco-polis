@@ -1,0 +1,346 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde(n)",
+    "inhoud": "Naam               Geboortedatum",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630}              ${10035}",
+    "maatschappijen": [
+      "A362"
+    ],
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10638} ${10637} ${10636}              ${10639}",
+    "maatschappijen": [
+      "A362"
+    ],
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10643} ${10644} ${10642}              ${10645}",
+    "maatschappijen": [
+      "A362"
+    ],
+    "vereiste_labels": [
+      "10642"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10649} ${10650} ${10648}              ${10651}",
+    "maatschappijen": [
+      "A362"
+    ],
+    "vereiste_labels": [
+      "10648"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10655} ${10656} ${10654}              ${10657}",
+    "maatschappijen": [
+      "A362"
+    ],
+    "vereiste_labels": [
+      "10654"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10661} ${10662} ${10660}              ${10663}",
+    "maatschappijen": [
+      "A362"
+    ],
+    "vereiste_labels": [
+      "10660"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10667} ${10668} ${10666}              ${10669}",
+    "maatschappijen": [
+      "A362"
+    ],
+    "vereiste_labels": [
+      "10666"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10673} ${10674} ${10672}              ${10675}",
+    "maatschappijen": [
+      "A362"
+    ],
+    "vereiste_labels": [
+      "10672"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag",
+    "inhoud": "€ ${10039} kapitaal, uit te keren onmiddellijk na het overlijden van verzekerde.",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Winstdeling",
+    "inhoud": "Deze verzekering deelt mee in de bedrijfswinst van de verzekeraar.",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verhoging",
+    "inhoud": "In tegenstelling tot het bepaalde in de voorwaarden, is de automatische verhoging",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "niet van toepassing.",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kinderdekking",
+    "inhoud": "De kinderdekking is van toepassing, voorzover de kinderen zijn aangemeld.",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievrij maken",
+    "inhoud": "Deze overeenkomst is een overeenkomst voor de lange termijn.",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Indien u deze overeenkomst voortijdig beindigt dan kan de premievrije waarde",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "beduidend minder bedragen dan u aan premies ingelegd heeft.",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hieronder is een",
+    "inhoud": "voorbeeldberekening  vermeld van de premievrije waarden",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "gedurende de looptijd van uw verzekering.",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Ook aanzienlijke verlagingen van uw premie of verzekerd kapitaal gedurende de looptijd,",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "kunnen in de jaren daarna de hoogte van de premievrije waarde in relatie tot de",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "betaalde premie nadelig benvloeden.",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Volgens de verzekeringsvoorwaarden is het mogelijk om deze verzekering premievrij",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "te maken indien tenminste vijf jaren, gerekend vanaf de ingangsdatum, de verschuldigde",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "premie is voldaan.",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Datum",
+    "inhoud": "Som premies              Premievrije waarde",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${99600}                   € ${99601}                      € ${99602}",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${99603}                   € ${99604}                      € ${99605}",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "^",
+    "inhoud": " € ${99606}                      € ${99607}",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${99609}                   € ${99610}                      € ${99611}",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${99612}                   € ${99613}                      € ${99614}",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Toelichting",
+    "inhoud": "- De vermelde waarden geven slechts een indicatie van de premievrije waarden van de",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "verzekering. Definitieve bepaling van de waarde vindt plaats op het moment van",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "premievrijmaken.",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Er is geen rekening gehouden met indexeringen.",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Na het voortijdig premievrijmaken van de verzekering is de waarde van uw uitvaart-",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "verzekering waarschijnlijk onvoldoende om de volledige uitvaart te doen verzorgen",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "en vergoeden.",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Sterfgeval",
+    "inhoud": "Bij een sterfgeval bellen (0800) 33 33 000. Dag en nacht bereikbaar.",
+    "maatschappijen": [
+      "A362"
+    ],
+    "type": "standaard"
+  }
+]
