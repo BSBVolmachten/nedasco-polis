@@ -28,7 +28,7 @@
     "split-pol16-06000": "ts-node ./.bin/split.ts -f './src/pol16/06000/06000.json' -d './src/pol16/06000' ",
     "split-pol16-09000": "ts-node ./.bin/split.ts -f './src/pol16/09000/09000.json' -d './src/pol16/09000' ",
     "split-polbe-05000": "ts-node ./.bin/split.ts -f './src/polbe/05000.json' -d './src/polbe' ",
-    "split-polbe-06000": "ts-node ./.bin/split.ts -f './src/polbe/06000.json' -d './src/polbe' "
+    "split-polis-01000": "ts-node ./.bin/split.ts -f './src/polis/01000/01000.json' -d './src/polis/01000' "
   },
   "repository": {
     "type": "git",

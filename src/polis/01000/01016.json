@@ -1,0 +1,42 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Collectieve Ongevallenverzekering",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De in loondienst van verzekeringnemer zijnde werknemer(s).",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde bedragen",
+    "inhoud": "Rubriek A  Bij overlijden             ${80717o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Rubriek B  Bij blijvende invaliditeit",
+    "inhoud": "${80718o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaarloon",
+    "inhoud": "Het totale jaarloon bedraagt € ${10078} rekening houdende met de",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "aangegeven data van in- en uitdiensttreding van de verzekerden.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiepercentage",
+    "inhoud": "${84937}%",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd",
+    "inhoud": "67 jaar",
+    "type": "standaard"
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "${10142o}          ${10020}${93042}${93082}${93046}${93041}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "Met inachtneming van het bepaalde in de polisvoorwaarden zijn verzekerd de",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "werknemers in loondienst van verzekeringnemer.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Het maximaal verzekerd loon per medewerker bedraagt",
+    "inhoud": "${80694}.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingspercentages",
+    "inhoud": "${87026o}%",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd",
+    "inhoud": "${87111o}",
+    "vereiste_labels": [
+      "87111o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringsduur",
+    "inhoud": "${87028o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Indexatie",
+    "inhoud": "${87117o}",
+    "vereiste_labels": [
+      "87117o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievoet",
+    "inhoud": "${84937}%",
+    "vereiste_labels": [
+      "84937"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde loonsom",
+    "inhoud": "84027",
+    "vereiste_labels": [
+      "84027"
+    ],
+    "type": "standaard"
+  }
+]

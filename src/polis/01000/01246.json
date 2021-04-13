@@ -1,0 +1,235 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "${10142o}          ${10020}${93042}${93082}${93046}${93041}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "Alle werknemers van de verzekeringnemer.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Omvang van de dekking",
+    "inhoud": "De dekking omvat bij overlijden van een deelnemer de uitkering aan de begunstigde",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "van een kapitaal ter grootte van",
+    "inhoud": "${12517} jaarsalarissen. Het verzekerde kapitaal wordt",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "jaarlijks per 1 januari, ofwel per datum van indiensttreding, vastgesteld op basis",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "van het dan geldende jaarsalaris.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Begunstiging",
+    "inhoud": "De begunstiging als genoemd in de Algemene Voorwaarden luidt als volgt:",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "1. De partner van de deelnemer; of bij ontstentenis van deze",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "2. kinderen van de deelnemer; of bij ontstentenis van deze",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "3. overige wettelijke erfgenamen van de deelnemer.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Als overige wettelijke erfgenamen van de deelnemer worden aangemerkt:",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "diegenen die volgens het Burgerlijk Wetboek de wettelijke erfgenamen van de deelnemer",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "zijn ongeacht of ze de erfenis geheel of gedeeltelijk aanvaarden of verwerpen of in",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "hoeverre ze gerechtigd zijn in de nalatenschap.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "De kinderen van de deelnemer ontvangen de uitkering in gelijke delen.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "De overige erfgenamen ontvangen de uitkering in gelijke delen.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Deelname",
+    "inhoud": "Verplicht voor alle werknemers van de contractant.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vrije acceptatielimiet",
+    "inhoud": "${12517} maal het vaste jaarsalaris.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievrijstelling bij",
+    "inhoud": "Meeverzekerd volgens de in de bijgaande Bijzondere Voorwaarden Premievrijstelling    ",
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "arbeidsongeschiktheid",
+    "inhoud": "${10699o} opgenomen bepalingen. De premie voor deze dekking bedraagt ${10117}%                      ",
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "van de premie voor het overlijdensrisico.",
+    "inhoud": "",
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Deze opslag is niet verwerkt in het in Bijlage 1 opgenomen tarief.",
+    "inhoud": " ",
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Medische acceptatie",
+    "inhoud": "De acceptatie van de te verzekeren deelnemers geschiedt overeenkomstig het bepaalde",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "in de Algemene Voorwaarden",
+    "inhoud": "${10698o}.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premie",
+    "inhoud": "Zie bijlage 1.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "In aanvulling op artikel 4 van de Algemene Voorwaarden",
+    "inhoud": "${10698o} geldt voor de",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "deelnemers die op de dag voor de ingangsdatum van de op hun leven te sluiten",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "verzekering niet elders met een gelijkwaardige dekking waren verzekerd de",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${81015}",
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "navolgende bepaling:",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Bij overlijden binnen een half jaar na ingang van de dekking zal het oordeel van",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "de onafhankelijke Toetsingscommissie Gezondheidsgegevens worden gevraagd of dat",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${81015}",
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "overlijden niet het gevolg is van de gezondheidstoestand van de betrokkene op de",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "ingangsdatum van de dekking. Indien deze gezondheidstoestand het overlijden",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "redelijkerwijs moest doen verwachten, zal geen uitkering uit hoofde van deze",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "verzekering worden verleend.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verwerking individuele",
+    "inhoud": "via ${00100o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Het bovenstaande is van overeenkomstige toepassing op de verzekering van de",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "premievrije voortzetting bij arbeidsongeschiktheid, met dien verstande dat de",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "verzekeraar voor deze verzekeringsvorm het onderzoek zelf uitvoert.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "mutaties",
+    "type": "standaard"
+  }
+]

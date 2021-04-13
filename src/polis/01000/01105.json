@@ -1,0 +1,236 @@
+[
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "Ziekteverzuimverzekering voor de Ondernemer",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde",
+    "inhoud": "${87107} ${87108} ${87109}",
+    "vereiste_labels": [
+      "87107"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geboortedatum",
+    "inhoud": "${87110}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag",
+    "inhoud": "84027",
+    "vereiste_labels": [
+      "84027"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Werkzaamheden",
+    "inhoud": "${80694}",
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroep",
+    "inhoud": "${84883}",
+    "vereiste_labels": [
+      "84883"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico periode",
+    "inhoud": "${10065} wachtdagen",
+    "vereiste_labels": [
+      "10065"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd",
+    "inhoud": "${87111o}",
+    "vereiste_labels": [
+      "87111o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Begunstigde",
+    "inhoud": "De uitkering geschiedt aan verzekeringnemer",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiepercentage 1e jr.",
+    "inhoud": "${84937} %",
+    "vereiste_labels": [
+      "84937"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiepercentage 2e jr.",
+    "inhoud": "${83053} %",
+    "vereiste_labels": [
+      "83053"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkings% 1e halfjaar",
+    "inhoud": "${80180} %",
+    "vereiste_labels": [
+      "80180"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkings% 2e halfjaar",
+    "inhoud": "${86468} %",
+    "vereiste_labels": [
+      "86468"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkings% 3e halfjaar",
+    "inhoud": "${84936} %",
+    "vereiste_labels": [
+      "84936"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkings% 4e halfjaar",
+    "inhoud": "${86469} %",
+    "vereiste_labels": [
+      "86469"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkering en dekking",
+    "inhoud": "${80167} weken, en is gebaseerd op de Wet Loondoorbetaling bij Ziekte en",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "daarbij behorende Poortwachtersverplichtingen.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "De ondernemer is bereid om passende arbeid uit te voeren en heeft",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "een zogenaamde inpassingsverplichting om te reintegreren.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanvullende bepalingen",
+    "inhoud": "- De ondernemer kan een Ziekteverzuimverzekering voor de Ondernemer",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "afsluiten tegen hetzelfde premiepercentage als voor zijn werknemers",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "met dezelfde dekkingspercentages en eigen risico periode.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Werkgeverslasten zijn niet van toepassing",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- De polis is onlosmakelijk verbonden met de Ziekteverzuimverzekering",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "voor werknemers die in het Nedasco Gezond Werken Pakket Personeel is",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "afgesloten",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- De ondernemer heeft minimaal 5 medewerkers in loondienst",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Er is sprake van een alternatief voor de Individuele AOV met een",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "beperkte uitkeringsduur van 104 weken.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Het is mogelijk om een offerte op te vragen bij Nedasco BV voor",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "rubriek B van een individuele AOV.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Medische acceptatie is van toepassing op basis van een gezondheids-",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Maximale toetredingsleeftijd van de ondernemer is 55 jaar.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "- Wanneer de Ziekteverzuimverzekering voor de werknemers komt te vervallen",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "of het aantal werknemers in loondienst minder dan 5 bedraagt, zal",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "de Ziekteverzuimverzekering voor de Ondernemer ook komen te vervallen.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "type": "standaard"
+  }
+]

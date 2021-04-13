@@ -1,0 +1,69 @@
+[
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "WIA Excedent boven maximum SV-loon                        ${10020}${93042}${93082}${93046}${93041}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "Met inachtneming van het bepaalde in de polisvoorwaarden zijn verzekerd de",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "werknemers in loondienst van verzekeringnemer.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Het verzekerd bedrag is gebaseerd op het jaarloon boven het maximale WIA(SV)-loon.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Voor deze verzekering geldt een maximum jaarloon per medewerker van €",
+    "inhoud": "${80519o}.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingspercentages",
+    "inhoud": "${87026o}%",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd",
+    "inhoud": "${87111o}",
+    "vereiste_labels": [
+      "87111o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringsduur",
+    "inhoud": "${87028o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Indexatie",
+    "inhoud": "${87117o}",
+    "vereiste_labels": [
+      "87117o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievoet",
+    "inhoud": "${84937}%",
+    "vereiste_labels": [
+      "84937"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde loonsom",
+    "inhoud": "84027",
+    "vereiste_labels": [
+      "84027"
+    ],
+    "type": "standaard"
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "WIA Excedentverzekering boven maximum SV-loon                        ${10020}${93042}${93082}${93046}${93041}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De in loondienst van verzekeringnemer zijnde werknemer(s) zoals",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "vermeld op het bij deze polis behorende \"Aanhangsel verzekerden\",",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "en een inkomen heeft boven het maximum SV-loon.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risicoperiode",
+    "inhoud": "Minimaal 728 dagen",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Gerekend wordt vanaf de eerste ziektedag van de verzekerde.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Gedurende deze periode bestaat er geen recht op uitkering.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ingangsdatum uitkering",
+    "inhoud": "De uitkeringsperiode gaat in op de eerste dag dat de werknemer",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "recht heeft op een wettelijke WIA-uitkering.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiepercentage",
+    "inhoud": "${84937}%",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringshoogte",
+    "inhoud": "De aanvulling bedraagt ${87026o}% van het inkomen boven het maximale",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "SV-loon voor arbeidsongeschiktheid.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "-",
+    "inhoud": "${87026o}% x uitkeringspercentage x oude loon -/- oude gemaximeerde SV-loon",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Maximaal te verzekeren",
+    "inhoud": "Voor deze verzekering geldt een maximum jaarloon per werknemer van € ${80519o}.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Indexering",
+    "inhoud": "${87117o}",
+    "vereiste_labels": [
+      "87117o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringsduur",
+    "inhoud": "Tot de pensioendatum (maximaal 67 jaar)",
+    "type": "standaard"
+  }
+]

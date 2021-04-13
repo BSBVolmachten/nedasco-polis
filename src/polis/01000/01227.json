@@ -1,0 +1,77 @@
+[
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "WGA Hiaatverzekering Uitgebreid                                     ${10020}${93042}${93082}${93046}${93041}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De in loondienst van verzekeringnemer zijnde werknemer(s) zoals vermeld op",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "het bij deze polis behorende \"Aanhangsel verzekerden\"",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risicoperiode",
+    "inhoud": "Minimaal 728 dagen.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ingangsdatum uitkering",
+    "inhoud": "De uitkeringsperiode gaat in op de eerste werkdag dat de werknemer recht",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "heeft op een WGA-uitkering.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiepercentage",
+    "inhoud": "${84937}%",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringshoogte",
+    "inhoud": "Geeft een aanvulling op de wettelijke uitkering tot 75% van het verschil",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "tussen diens inkomen voor en na arbeidsongeschiktheid. De aanvulling is tot",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringsduur",
+    "inhoud": "${87028o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "70% in plaats van 75% als werknemer zijn restverdiencapaciteit voor minder",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "dan 50% benut.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Indexering",
+    "inhoud": "De verzekerde uitkering ${80694}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "na intrede in de WIA.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Loonsom",
+    "inhoud": "Het totale brutojaarsalaris bedraagt € ${80369}.",
+    "type": "standaard"
+  }
+]

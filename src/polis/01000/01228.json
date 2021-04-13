@@ -1,0 +1,82 @@
+[
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "WIA Bodemverzekering (minder dan 35% arbeidsongeschiktheid)          ${10020}${93042}${93082}${93046}${93041}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De in loondienst van verzekeringnemer zijnde werknemer(s).",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Begunstigde",
+    "inhoud": "De uitkering geschiedt aan verzekeringnemer.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risicoperiode",
+    "inhoud": "Minimaal 728 dagen",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Gerekend wordt vanaf de eerste ziektedag van de verzekerde. Gedurende",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "deze periode bestaat er geen recht op uitkering.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiepercentage",
+    "inhoud": "${84937}%",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringshoogte",
+    "inhoud": "Geeft een aanvulling op tot het inkomen van de werknemer die voor 15%",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "tot 35% arbeidsongeschikt is.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringsduur",
+    "inhoud": "${87028o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "De uitkering bedraagt:",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${87026o}% x arbeidsongeschiktheidspercentage x oude loon",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Indexering",
+    "inhoud": "De verzekerde uitkering is alleen gendexeerd indien de uitkeringsduur",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "de pensioendatum bedraagt conform WIA dagloon te beginnen na intrede in",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "de WIA.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Totale loonsom",
+    "inhoud": "80369",
+    "type": "standaard"
+  }
+]

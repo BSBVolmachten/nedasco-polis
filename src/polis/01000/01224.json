@@ -1,0 +1,444 @@
+[
+  {
+    "omschrijving": "",
+    "inhoud": "b) een bewijs dat beiden ten minste 6 maanden op hetzelfde adres staan",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "ingeschreven.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "${10142o} ${10020}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Gelieerde ondernemingen    ^",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${81009o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${81014}",
+    "vereiste_labels": [
+      "81014"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "De dekking geldt voor alle werknemers van de verzekeringnemer, ongeacht de",
+    "inhoud": "",
+    "vereiste_labels": [
+      "81014"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "aanwezigheid van een eventuele partner.",
+    "inhoud": "",
+    "vereiste_labels": [
+      "81014"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${81005}",
+    "vereiste_labels": [
+      "81005"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "De dekking geldt uitsluitend voor de deelnemers aan de pensioenregeling die door",
+    "inhoud": "",
+    "vereiste_labels": [
+      "81005"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "of namens de verzekeringsnemer bij de verzekeraar zijn aangemeld en als deelnemer",
+    "inhoud": "",
+    "vereiste_labels": [
+      "81005"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "in de regeling zijn opgenomen.",
+    "inhoud": "",
+    "vereiste_labels": [
+      "81005"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Bij overlijden van een gehuwde of samenwonende verzekerde komt een Anw-hiaatpensioen",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "ten behoeve van de partner van de verzekerde tot uitkering ter grootte van de",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "wettelijke Anw-uitkering (inclusief vakantiegeld) die van toepassing is op 1 januari",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "van het jaar waarin de deelnemer komt te overlijden (€",
+    "inhoud": "${11592} in 2018).",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Het ingegane Anw-hiaatpensioen wordt rechtstreeks aan de partner van de overleden",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "deelnemer uitgekeerd onder verrekening van de wettelijk verplichte inhoudingen.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Het pensioen wordt uitgekeerd in maandelijkse termijnen bij achterafbetaling.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "De partner aan wie een uitkering wordt verstrekt, dient in beginsel ieder jaar",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "een wettelijk bewijs van in leven zijn te overleggen.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd dekking",
+    "inhoud": "De ${10067}ste verjaardag van de verzekerde werknemer, ofwel zoveel eerder als de",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "verzekerde werknemer met pensioen gaat dan wel de begunstigde partner de",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "AOW-gerechtigde leeftijd, doch uiterlijk de",
+    "inhoud": "${10067}-jarige leeftijd bereikt.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkering",
+    "inhoud": "${81010o}.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Deelname",
+    "inhoud": "${81007o}.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanmeldingstermijn",
+    "inhoud": "De in de Algemene Voorwaarden bedoelde aanmeldingstermijn bedraagt drie maanden na",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "het ontstaan van het risico door indiensttreding, aanvang van de regeling,",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "het sluiten van een huwelijk of het aangaan van een partnerrelatie voor",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Obligo",
+    "inhoud": "Gelijk aan het fiscaal maximaal te verzekeren Anw-hiaatpensioen.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premie",
+    "inhoud": "Zie bijlage 1.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievrijstelling bij",
+    "inhoud": "Meeverzekerd volgens de in de bijgaande Bijzondere Voorwaarden Premievrijstelling ",
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "arbeidsongeschiktheid",
+    "inhoud": "${10699o} opgenomen bepalingen.                                                           ",
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${81015}",
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "De premie voor deze dekking bedraagt",
+    "inhoud": "${10117}% van de premie voor het                    ",
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "overlijdensrisico en is verschuldigd tot de 65ste verjaardag van de deelnemer.",
+    "inhoud": "",
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Deze opslag is niet verwerkt in het in Bijlage 1 opgenomen tarief.",
+    "inhoud": "",
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${81015}",
+    "vereiste_labels": [
+      "81015"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Einddatum van de uitkering",
+    "inhoud": "De uitkering wordt verricht tot het moment dat de partner van de deelnemer de",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "AOW-gerechtigde leeftijd heeft bereikt, doch uiterlijk tot de 68e verjaardag of,",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "indien eerder, tot de dag waarop deze komt te overlijden.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Acceptatieregeling",
+    "inhoud": "De acceptatie van de deelnemers geschiedt overeenkomstig hetgeen gesteld is in",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "artikel 4 van de Algemene Voorwaarden",
+    "inhoud": "${10698o}, met in achtneming van de",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "volgende bepalingen.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Deelnemers die voor de ingang van de dekking bij reeds elders voor het bedoelde",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "risico zijn verzekerd, worden bij aanvang van de verzekering automatisch en zonder",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "overlegging van medische waarborgen geaccepteerd.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Voor deelnemers die op de dag voordat de dekking voor hen ingaat niet elders voor",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "het Anw-hiaatpensioen waren verzekerd, geldt dat bij overlijden binnen een half",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "jaar na ingang van de dekking de verzekeraar zich het recht voorbehoudt de uitkering",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "te weigeren. Deze weigering is afhankelijk van de uitkomst van het in voorkomende",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "gevallen door de verzekeraar in te stellen onderzoek naar de gezondheidstoestand",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "van de deelnemer bij opname in de regeling.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Dit houdt in dat het oordeel van de onafhankelijke Toetsingscommissie",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Gezondheidsgegevens zal worden gevraagd of het overlijden niet het gevolg is van",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "de gezondheidstoestand van de betrokkene bij opname in de regeling.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Indien deze gezondheidstoestand het overlijden redelijkerwijs moest doen verwachten,",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "zal geen uitkering worden verleend.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Om voor een uitkering in aanmerking te komen is de pensioengerechtigde verplicht",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "zijn medewerking aan de uitvoering van dit onderzoek te verlenen.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Het bovenstaande is van overeenkomstige toepassing op de verzekering van de",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "premievrije voortzetting bij arbeidsongeschiktheid, met dien verstande dat de",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "verzekeraar voor deze verzekeringsvorm het onderzoek zelf uitvoert.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "De genoemde periode van een half jaar wordt verminderd met de periode waarin de",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "deelnemer direct voorafgaand een overlijdensrisicodekking had van een vergelijkbaar",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "niveau als de dekking van deze verzekering.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verwerking individuele",
+    "inhoud": "<via intermediair/regeling gevolmachtigde>",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "mutaties",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Definitie partner",
+    "inhoud": "Als partner in de zin van deze uitvoeringsovereenkomst wordt aangemerkt:",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "1: de echtgenoot dan wel geregistreerde partner van de deelnemer;",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "2: de ongehuwde persoon met wie de deelnemer duurzaam een gemeenschappelijke",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "huishouding voert. Onder gemeenschappelijke huishouding wordt verstaan een",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "huishouding gevoerd door de deelnemer en n partner, niet zijnde een",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "bloed- of aanverwant in rechte lijn.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Een dergelijke relatie wordt eerst als zodanig erkend indien de werkgever",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "door de betreffende deelnemer hierover schriftelijk is genformeerd door het",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "overleggen van:",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "a) een notarieel verleden samenlevingscontract, dan wel",
+    "type": "standaard"
+  }
+]

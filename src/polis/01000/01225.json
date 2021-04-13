@@ -1,0 +1,80 @@
+[
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "WIA Excedentverzekering tot maximum SV-loon                        ${10020}${93042}${93082}${93046}${93041}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De in loondienst van verzekeringnemer zijnde werknemer(s) zoals",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "vermeld op het bij deze polis behorende \"Aanhangsel verzekerden\".",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risicoperiode",
+    "inhoud": "Minimaal 728 dagen",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Gerekend wordt vanaf de eerste ziektedag van de verzekerde.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Gedurende deze periode bestaat er geen recht op uitkering.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ingangsdatum uitkering",
+    "inhoud": "De uitkeringsperiode gaat in op de eerste dag dat de werknemer",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "recht heeft op een wettelijke WIA-uitkering.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiepercentage",
+    "inhoud": "${84937}%",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aanvullingspercentage",
+    "inhoud": "Verzekerd is ${87026o}% van het inkomen tot het maximale SV-loon voor",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Indexatie",
+    "inhoud": "${87117o}",
+    "vereiste_labels": [
+      "87117o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "arbeidsongeschiktheid:",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Het aanvullingspercentage",
+    "inhoud": "${87026o}% x uitkeringspercentage x oude",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "gemaximeerde SV-loon",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringsduur",
+    "inhoud": "Tot de pensioendatum (maximaal 67 jaar)",
+    "type": "standaard"
+  }
+]

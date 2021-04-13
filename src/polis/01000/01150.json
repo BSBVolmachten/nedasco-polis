@@ -1,0 +1,12 @@
+[
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "${10142o} ${10020}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "type": "standaard"
+  }
+]

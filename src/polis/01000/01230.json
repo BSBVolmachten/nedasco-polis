@@ -1,0 +1,91 @@
+[
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "VvAA ZW Eigen Risicoverzekering ${10095o}                                ${10020}${93042}${93082}${93046}${93041}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De werknemers die (gedeeltelijk) arbeidsongeschikt zijn en recht hebben op een",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "wettelijke uitkering als bedoeld in artikel 29 tweede lid onderdeel a,b en c Ziektewet.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verzekerde werknemers",
+    "inhoud": "${10074}",
+    "vereiste_labels": [
+      "10074"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd",
+    "inhoud": "De verplichting van verzekeringnemer als Eigen Risicodrager volgens de Ziektewet,",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "afhankelijk van de verzekerde periode en met inachtneming van de voorwaarden",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "en gestelde op de polis.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiepercentage",
+    "inhoud": "${84937}%",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde loonsom",
+    "inhoud": "Het loon, inclusief vakantiegeld en andere structurele toeslagen, berekend naar",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "dezelfde grondslag zoals die door het UWV wordt gehanteerd, dat jaarlijks door",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "verzekeringnemer aan werknemer(s) wordt uitbetaald indien van toepassing, uitgesplitst",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "per sector risicogroep. Voor de productmodule ZW Eigen Risicodragerverzekering",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "wordt het loonbegrip zoals gedefinieerd in de Wfsv ('het SV-loon') gehanteerd.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Werkgeverslasten",
+    "inhoud": "${12945}%",
+    "vereiste_labels": [
+      "12945"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Totale loonsom",
+    "inhoud": "80369",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde loonsom",
+    "inhoud": "84027",
+    "vereiste_labels": [
+      "84027"
+    ],
+    "type": "standaard"
+  }
+]

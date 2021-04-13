@@ -1,0 +1,76 @@
+[
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "WGA Eigen Risicodragerverzekering                                     ${10020}${93042}${93082}${93046}${93041}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De in loondienst van verzekeringnemer zijnde werknemer(s) zoals vermeld op het",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "bij deze polis behorende \"Aanhangsel verzekerden\".",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verzekerde werknemers",
+    "inhoud": "${10074}",
+    "vereiste_labels": [
+      "10074"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd",
+    "inhoud": "Uitkeringsschade (gewezen) werknemers krachtens de Regeling Werkhervatting",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Gedeeltelijk Arbeidsgeschikten (WGA), zoals bedoeld in de Wet Werk en Inkomen",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "naar Arbeidsvermogen (WIA) als gevolg van eigen risicodragen krachtens deze wet.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Verzekeringnemer betaalt geen gedifferentieerde UWV-premie maar een vast premie-",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiepercentage",
+    "inhoud": "${84937}%",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "percentage.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premieopslagpercentage",
+    "inhoud": "${83053}%",
+    "vereiste_labels": [
+      "83053"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Werkgeverslasten",
+    "inhoud": "${12945}%",
+    "vereiste_labels": [
+      "12945"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Totale loonsom",
+    "inhoud": "80369",
+    "type": "standaard"
+  }
+]

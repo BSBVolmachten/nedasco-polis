@@ -1,0 +1,60 @@
+[
+  {
+    "omschrijving": "Soort Verzekering",
+    "inhoud": "${10142o}verzekering                                     ${10020}${93042}${93082}${93046}${93041}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "De in loondienst van verzekeringnemer zijnde werknemer(s).",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risicoperiode",
+    "inhoud": "Minimaal 728 dagen.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "heeft op een WIA-uitkering.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ingangsdatum uitkering",
+    "inhoud": "De uitkeringsperiode gaat in op de eerste werkdag dat de werknemer recht",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringshoogte",
+    "inhoud": "Zie polisvoorwaarden.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premievoet",
+    "inhoud": "${84937}%",
+    "vereiste_labels": [
+      "84937"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringsduur",
+    "inhoud": "tot de AOW-gerechtigde leeftijd.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Indexering",
+    "inhoud": "De verzekerde uitkering ${80694}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "na intrede in de WIA.",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Loonsom",
+    "inhoud": "Het totale brutojaarsalaris bedraagt € ${80369}.",
+    "type": "standaard"
+  }
+]
