@@ -1,0 +1,57 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032} ${10709}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard bak",
+    "inhoud": "${86548o}",
+    "vereiste_labels": [
+      "86548o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard muren",
+    "inhoud": "${10686o}",
+    "vereiste_labels": [
+      "10686o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard dak",
+    "inhoud": "${10685o}",
+    "vereiste_labels": [
+      "10685o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  }
+]
