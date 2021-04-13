@@ -1,0 +1,151 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${80694}",
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwtermijn",
+    "inhoud": "De verzekering voor de bouwtermijn is van kracht gedurende  ${84121}",
+    "vereiste_labels": [
+      "84121"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "maximaal",
+    "inhoud": "${84121} maanden",
+    "vereiste_labels": [
+      "84121"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80696}",
+    "vereiste_labels": [
+      "80696"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Onderhoudstermijn",
+    "inhoud": "maximaal ${84122} maanden",
+    "vereiste_labels": [
+      "84122"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80697}",
+    "vereiste_labels": [
+      "80697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Onderhoudstermijn",
+    "inhoud": "maximaal ${10066} maanden (voor het bouwkundige deel)",
+    "vereiste_labels": [
+      "10066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Onderhoudstermijn",
+    "inhoud": "maximaal ${84212} maanden (voor technische installaties)",
+    "vereiste_labels": [
+      "84212"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043}  per gebeurtenis voor schade door diefstal, vandalisme en storm",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "€ ${80044}  per gebeurtenis op een werk in Belgi en Duitsland",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Nadere bepalingen",
+    "inhoud": "${80463}",
+    "vereiste_labels": [
+      "80463"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80464}",
+    "vereiste_labels": [
+      "80464"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80465}",
+    "vereiste_labels": [
+      "80465"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80467}",
+    "vereiste_labels": [
+      "80467"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80468}",
+    "vereiste_labels": [
+      "80468"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80947}",
+    "vereiste_labels": [
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.   ${80947}",
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "Verzekerd bedrag",
+    "type": "standaard"
+  }
+]
