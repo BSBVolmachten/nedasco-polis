@@ -21,7 +21,8 @@
     "test": "npm run complie && jest lib/tests/debug.test.js",
     "complie": "tsc",
     "debug": "jest ./tests/debug.test.ts",
-    "split": "ts-node ./.bin/split.ts -f './src/pol16/01000/01000.json' -d './src/pol16/01000' "
+    "split-pol16-01000": "ts-node ./.bin/split.ts -f './src/pol16/01000/01000.json' -d './src/pol16/01000' ",
+    "split-pol16-02000": "ts-node ./.bin/split.ts -f './src/pol16/02000/02000.json' -d './src/pol16/02000' "
   },
   "repository": {
     "type": "git",
