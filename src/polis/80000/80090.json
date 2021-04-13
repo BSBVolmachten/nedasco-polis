@@ -1,0 +1,82 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032}${80472}   ${10709}",
+    "vereiste_labels": [
+      "10032",
+      "10709"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10713o}",
+    "vereiste_labels": [
+      "10713o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${80694}",
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Eigen risico",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "rubriek Inventaris",
+    "inhoud": "€ ${10043} per gebeurtenis",
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "rubriek Elektronica",
+    "inhoud": "€ ${80044} per gebeurtenis",
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "rubriek Aansprakelijkh. Bedrijven",
+    "inhoud": "€ ${80045} per aanspraak",
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "type": "standaard"
+  }
+]

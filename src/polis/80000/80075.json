@@ -1,0 +1,30 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "CERTIFICAAT VAN VERZEKERING",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde",
+    "inhoud": "${00003} ${00002}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geboortedatum",
+    "inhoud": "${00029}",
+    "vereiste_labels": [
+      "00029"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "type": "standaard"
+  }
+]

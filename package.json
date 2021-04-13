@@ -35,7 +35,8 @@
     "split-polis-05000": "ts-node ./.bin/split.ts -f './src/polis/05000/05000.json' -d './src/polis/05000' ",
     "split-polis-06000": "ts-node ./.bin/split.ts -f './src/polis/06000/06000.json' -d './src/polis/06000' ",
     "split-polis-09000": "ts-node ./.bin/split.ts -f './src/polis/09000/09000.json' -d './src/polis/09000' ",
-    "split-polis-10000": "ts-node ./.bin/split.ts -f './src/polis/10000/10000.json' -d './src/polis/10000' "
+    "split-polis-10000": "ts-node ./.bin/split.ts -f './src/polis/10000/10000.json' -d './src/polis/10000' ",
+    "split-polis-80000": "ts-node ./.bin/split.ts -f './src/polis/80000/80000.json' -d './src/polis/80000' "
   },
   "repository": {
     "type": "git",
