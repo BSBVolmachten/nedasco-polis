@@ -1,0 +1,285 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aard bedrijf",
+    "inhoud": "${80694}",
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Personen loondienst",
+    "inhoud": "${13901}",
+    "vereiste_labels": [
+      "13901"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Tijdelijke medewerk.",
+    "inhoud": "${12522}",
+    "vereiste_labels": [
+      "12522"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Inleenkrachten",
+    "inhoud": "${14167}",
+    "vereiste_labels": [
+      "14167"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Stagiairs",
+    "inhoud": "${13659}",
+    "vereiste_labels": [
+      "13659"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vrijwilligers",
+    "inhoud": "${13586}",
+    "vereiste_labels": [
+      "13586"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "ZZP'ers",
+    "inhoud": "${13657}",
+    "vereiste_labels": [
+      "13657"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Personenauto's",
+    "inhoud": "${13652}",
+    "vereiste_labels": [
+      "13652"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Motorrijwielen",
+    "inhoud": "${80783}",
+    "vereiste_labels": [
+      "80783"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bromfietsen/Scooters",
+    "inhoud": "${13655}",
+    "vereiste_labels": [
+      "13655"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vrachtauto's",
+    "inhoud": "${12470}",
+    "vereiste_labels": [
+      "12470"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestelauto's",
+    "inhoud": "${13596}",
+    "vereiste_labels": [
+      "13596"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Werkmaterieel",
+    "inhoud": "${81179}",
+    "vereiste_labels": [
+      "81179"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aant.mdw.met rijbewijs",
+    "inhoud": "${80781}",
+    "vereiste_labels": [
+      "80781"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal fte's per",
+    "inhoud": "${80321}    ${84615}",
+    "vereiste_labels": [
+      "84615"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Specificatie fte's",
+    "inhoud": "Fulltime werknemers   ${80194} fte's",
+    "vereiste_labels": [
+      "80194"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Parttime werknemers",
+    "inhoud": "${80195} fte's",
+    "vereiste_labels": [
+      "80195"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Tijdelijke krachten",
+    "inhoud": "${10074} fte's",
+    "vereiste_labels": [
+      "10074"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84869}",
+    "vereiste_labels": [
+      "84869"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80947}",
+    "vereiste_labels": [
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal vrijwilligers/",
+    "inhoud": "${84869}",
+    "vereiste_labels": [
+      "84869"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.    ${80947}",
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "onbetaalden",
+    "inhoud": "${84869}",
+    "vereiste_labels": [
+      "84869"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Percentage regelmatige",
+    "inhoud": "${84616o}",
+    "vereiste_labels": [
+      "84616o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "bestuurders",
+    "inhoud": "${84616o}",
+    "vereiste_labels": [
+      "84616o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Basispremie op jaarbasis",
+    "inhoud": "Basispremie per fte                        € ${84231}",
+    "vereiste_labels": [
+      "84231"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "(voorschotpremie)",
+    "inhoud": "Korting (${12945}%)                               € ${84665}",
+    "vereiste_labels": [
+      "84665"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "€ ${84248}        ${84665}",
+    "vereiste_labels": [
+      "84665"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "^ fte's x €",
+    "inhoud": "${84615}                              € ${84248}",
+    "vereiste_labels": [
+      "84666"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84869}",
+    "vereiste_labels": [
+      "84869"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "per vrijwilliger/onbetaalde",
+    "inhoud": "84232",
+    "vereiste_labels": [
+      "84232"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84869}",
+    "vereiste_labels": [
+      "84869"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "^ x €",
+    "inhoud": "${84869}                                    € ${84232}",
+    "vereiste_labels": [
+      "84869"
+    ],
+    "type": "standaard"
+  }
+]
