@@ -1,0 +1,92 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Rijwiel",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219}",
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort rijwiel",
+    "inhoud": "${80711o}",
+    "vereiste_labels": [
+      "80711o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Framenummer",
+    "inhoud": "${10697}",
+    "vereiste_labels": [
+      "10697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Anti-diefstalchip",
+    "inhoud": "${86415o}",
+    "vereiste_labels": [
+      "86415o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type slot",
+    "inhoud": "${80066}",
+    "vereiste_labels": [
+      "80066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Slotnummer",
+    "inhoud": "${80110}",
+    "vereiste_labels": [
+      "80110"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Sleutelnummer",
+    "inhoud": "${80124}",
+    "vereiste_labels": [
+      "80124"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "${99994} ${10043} bij diefstal of totaal verlies",
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "${99994} ${80044} bij beschadiging",
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "type": "standaard"
+  }
+]

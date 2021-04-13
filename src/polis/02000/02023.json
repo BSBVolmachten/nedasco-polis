@@ -1,0 +1,181 @@
+[
+  {
+    "omschrijving": "Soort voertuig",
+    "inhoud": "${10142o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220} ${10221o}",
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kenteken",
+    "inhoud": "${10033}",
+    "vereiste_labels": [
+      "10033"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Meldcode",
+    "inhoud": "${10112}",
+    "vereiste_labels": [
+      "10112"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Brandstof",
+    "inhoud": "${10234o}",
+    "vereiste_labels": [
+      "10234o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${10260o}",
+    "vereiste_labels": [
+      "10260o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beveiliging",
+    "inhoud": "${80041o}",
+    "vereiste_labels": [
+      "80041o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gewicht",
+    "inhoud": "${10038} kg",
+    "vereiste_labels": [
+      "10038"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kilometrage",
+    "inhoud": "${10036o}",
+    "vereiste_labels": [
+      "10036o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonus/malus",
+    "inhoud": "Trede ${10046} = ${10050} %",
+    "vereiste_labels": [
+      "10050"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Tellerstand",
+    "inhoud": "${84361} ${82103o} per ${84360}",
+    "vereiste_labels": [
+      "84361"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Getaxeerd door",
+    "inhoud": "${84996o}",
+    "vereiste_labels": [
+      "84996o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Getaxeerd door",
+    "inhoud": "${84125}",
+    "vereiste_labels": [
+      "84125"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Taxatiedatum",
+    "inhoud": "${84124}",
+    "vereiste_labels": [
+      "84124"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Lid oldtimer club",
+    "inhoud": "${84754}",
+    "vereiste_labels": [
+      "84754"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zuivere schadevrije jaren",
+    "inhoud": "${80401}                                                  ${10047c}${10050}",
+    "vereiste_labels": [
+      "10047c",
+      "10050"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonusbeschermer",
+    "inhoud": "${86271o}",
+    "vereiste_labels": [
+      "86271o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bonusbeschermer",
+    "inhoud": "${10830}",
+    "vereiste_labels": [
+      "10830"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zomertijdtarief van toepassing",
+    "inhoud": "${${84106}}                                              84106",
+    "vereiste_labels": [
+      "84106"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Extra meeverzekerde accessoires",
+    "inhoud": "${83420}",
+    "vereiste_labels": [
+      "83420"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83421}",
+    "vereiste_labels": [
+      "83421"
+    ],
+    "type": "standaard"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Klassieker verzamel bromfiets",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "B/M-regeling",
+    "inhoud": "Niet van toepassing",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gebruik",
+    "inhoud": "${10260o}",
+    "vereiste_labels": [
+      "10260o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Regelmatige bestuurder(s)",
+    "inhoud": "Naam                            Geboortedatum",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10631} ${10632} ${10630}                           ${10035}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10637} ${10638} ${10636}                           ${10639}",
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kilometrage",
+    "inhoud": "${10036o}",
+    "vereiste_labels": [
+      "10036o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde bromfietsen",
+    "inhoud": "Merk/Type                       Kenteken     Meldcode            Bouwjaar",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83064} ${84913}                             ${83069}         ${84902}                  ${83077}",
+    "vereiste_labels": [
+      "83077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83065} ${84914}                             ${83070}         ${84903}                  ${83078}",
+    "vereiste_labels": [
+      "83078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83066} ${84915}                             ${83071}         ${84904}                  ${83079}",
+    "vereiste_labels": [
+      "83079"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83067} ${84916}                             ${83072}         ${84905}                  ${84921}",
+    "vereiste_labels": [
+      "84921"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${83068} ${84917}                             ${83073}         ${84906}                  ${84922}",
+    "vereiste_labels": [
+      "84922"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84910} ${84918}                             ${84276}         ${84907}                  ${84923}",
+    "vereiste_labels": [
+      "84923"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84911} ${84919}                             ${84277}         ${84908}                  ${84924}",
+    "vereiste_labels": [
+      "84924"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84912} ${84920}                             ${84278}         ${84909}                  ${84925}",
+    "vereiste_labels": [
+      "84925"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86065} ${86074}                             ${84279}            ${86089}                   ${86098}",
+    "vereiste_labels": [
+      "86065"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86066} ${86075}                             ${84280}            ${86090}                   ${86099}",
+    "vereiste_labels": [
+      "86066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86067} ${86076}                             ${84281}            ${86091}                   ${86100}",
+    "vereiste_labels": [
+      "86067"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86068} ${86077}                             ${86083}            ${86092}                   ${86101}",
+    "vereiste_labels": [
+      "86068"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86069} ${86078}                             ${86084}            ${86093}                   ${86102}",
+    "vereiste_labels": [
+      "86069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86070} ${86079}                             ${86085}            ${86094}                   ${86103}",
+    "vereiste_labels": [
+      "86070"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86071} ${86080}                             ${86086}            ${86095}                   ${86104}",
+    "vereiste_labels": [
+      "86071"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86072} ${86081}                             ${86087}            ${86096}                   ${86105}",
+    "vereiste_labels": [
+      "86072"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${86073} ${86082}                             ${86088}            ${86097}                   ${86106}",
+    "vereiste_labels": [
+      "86073"
+    ],
+    "type": "standaard"
+  }
+]
