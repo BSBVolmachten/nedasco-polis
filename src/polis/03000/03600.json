@@ -1,0 +1,44 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd paard",
+    "inhoud": "${84133}",
+    "vereiste_labels": [
+      "84133"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geboortedatum",
+    "inhoud": "${84375}",
+    "vereiste_labels": [
+      "84375"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Harnachement",
+    "inhoud": "${84134}",
+    "vereiste_labels": [
+      "84134"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk/type trailer",
+    "inhoud": "${80137}",
+    "vereiste_labels": [
+      "80137"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "type": "standaard"
+  }
+]

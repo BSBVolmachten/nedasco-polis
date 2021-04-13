@@ -1,0 +1,52 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Huwelijksdag",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Huwelijksdag",
+    "inhoud": "${84375}",
+    "vereiste_labels": [
+      "84375"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Lokatie Naam",
+    "inhoud": "${86281}",
+    "vereiste_labels": [
+      "86281"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Adres",
+    "inhoud": "${86282} ${86283} ${86284}",
+    "vereiste_labels": [
+      "86282"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Postcode/Woonplaats",
+    "inhoud": "${86285} ${86286}",
+    "vereiste_labels": [
+      "86286"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Getuigen meeverzekerd?",
+    "inhoud": "${12881}",
+    "vereiste_labels": [
+      "12881"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "type": "standaard"
+  }
+]

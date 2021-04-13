@@ -1,0 +1,76 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10219} ${10220} ${10221o}",
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Naam object",
+    "inhoud": "${80110}",
+    "vereiste_labels": [
+      "80110"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Ligplaats",
+    "inhoud": "${80121}",
+    "vereiste_labels": [
+      "80121"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard",
+    "inhoud": "${10082o}",
+    "vereiste_labels": [
+      "10082o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard dak",
+    "inhoud": "${10685o}",
+    "vereiste_labels": [
+      "10685o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${10081o}",
+    "vereiste_labels": [
+      "10081o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "type": "standaard"
+  }
+]

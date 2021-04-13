@@ -1,0 +1,44 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerden",
+    "inhoud": "${84308o}",
+    "vereiste_labels": [
+      "84308o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Samengestelde reis",
+    "inhoud": "${86138o}",
+    "vereiste_labels": [
+      "86138o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verz. personen",
+    "inhoud": "${86296o}",
+    "vereiste_labels": [
+      "86296o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Zaakwaarnemer",
+    "inhoud": "${83093o}",
+    "vereiste_labels": [
+      "83093o"
+    ],
+    "type": "standaard"
+  }
+]
