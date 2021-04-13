@@ -1,0 +1,36 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "Ongevallen",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "vereiste_labels": [
+      "10694o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd verzekerde",
+    "inhoud": "${10067}",
+    "vereiste_labels": [
+      "10067"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eindleeftijd verzekerd kind",
+    "inhoud": "${10251}",
+    "vereiste_labels": [
+      "10251"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "type": "standaard"
+  }
+]
