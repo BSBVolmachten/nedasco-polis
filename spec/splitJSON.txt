@@ -1,0 +1,13 @@
+SPLITJSON():
+  for each regel in regels:
+    maatschappijen <- get('maatschappijen', regel)
+    delete('maatschappijen', regel)
+
+    for each maatschappij in maatschappijen:
+
+      if json(maatschappij) exists:
+        add(regel, json)
+      else:
+        make(json, maatschappij)
+        add(regel, json)
+
