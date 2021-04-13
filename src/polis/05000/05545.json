@@ -1,0 +1,100 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risicoadres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032} ${10709}",
+    "vereiste_labels": [
+      "10032"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard bak",
+    "inhoud": "${86548o}",
+    "vereiste_labels": [
+      "86548o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard muren",
+    "inhoud": "${10686o}",
+    "vereiste_labels": [
+      "10686o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard dak",
+    "inhoud": "${10685o}",
+    "vereiste_labels": [
+      "10685o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${10218} ${10220}",
+    "vereiste_labels": [
+      "10218"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Naam object",
+    "inhoud": "${80110}",
+    "vereiste_labels": [
+      "80110"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Chassisnummer",
+    "inhoud": "${10697}",
+    "vereiste_labels": [
+      "10697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal PK's",
+    "inhoud": "${80126}",
+    "vereiste_labels": [
+      "80126"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                Verzekerd bedrag",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  }
+]

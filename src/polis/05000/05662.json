@@ -1,0 +1,233 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Risico adres",
+    "inhoud": "${10708} ${10710} ${10711}",
+    "vereiste_labels": [
+      "10708"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10032}${80472}   ${10709}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10713o}",
+    "vereiste_labels": [
+      "10713o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${10081o}",
+    "vereiste_labels": [
+      "10081o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bestemming",
+    "inhoud": "${80694}",
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard muren",
+    "inhoud": "${10686o}",
+    "vereiste_labels": [
+      "10686o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard dak",
+    "inhoud": "${10685o}",
+    "vereiste_labels": [
+      "10685o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwaard vloeren",
+    "inhoud": "${10684o}",
+    "vereiste_labels": [
+      "10684o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bouwjaar",
+    "inhoud": "${10034}",
+    "vereiste_labels": [
+      "10034"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Soort object",
+    "inhoud": "${84216o}",
+    "vereiste_labels": [
+      "84216o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Merk en type",
+    "inhoud": "${80066}",
+    "vereiste_labels": [
+      "80066"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Serienummer",
+    "inhoud": "${10697}",
+    "vereiste_labels": [
+      "10697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${10246o}",
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico elektronica",
+    "inhoud": "80044",
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico data",
+    "inhoud": "80045",
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico extra kosten",
+    "inhoud": "${83171} dagen",
+    "vereiste_labels": [
+      "83171"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico programmatuur",
+    "inhoud": "80046",
+    "vereiste_labels": [
+      "80046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringstermijn extra kosten",
+    "inhoud": "${84212} weken",
+    "vereiste_labels": [
+      "84212"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Uitkeringstermijn data",
+    "inhoud": "${84223} weken",
+    "vereiste_labels": [
+      "84223"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80039}",
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Co-assurantie",
+    "inhoud": "${80039}",
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- maatschappij",
+    "inhoud": "${80043}",
+    "vereiste_labels": [
+      "80043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- polisnummer",
+    "inhoud": "${80471}",
+    "vereiste_labels": [
+      "80471"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- dekking",
+    "inhoud": "${80026}",
+    "vereiste_labels": [
+      "80026"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- verzekerd bedrag",
+    "inhoud": "80039",
+    "vereiste_labels": [
+      "80039"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "- einddatum",
+    "inhoud": " ${80040}",
+    "vereiste_labels": [
+      "80040"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "                 Verzekerd bedrag",
+    "type": "standaard"
+  }
+]
