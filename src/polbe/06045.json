@@ -1,0 +1,252 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Hoedanigheid",
+    "inhoud": "${80694}",
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80696}",
+    "vereiste_labels": [
+      "80696"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80697}",
+    "vereiste_labels": [
+      "80697"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Dekkingsgebied",
+    "inhoud": "${${10246o}o}                                                                                      10246",
+    "vereiste_labels": [
+      "10246o",
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Voorrisico",
+    "inhoud": "Niet verzekerd zijn aanspraken of omstandigheden die voortvloeien                      ${83176}",
+    "vereiste_labels": [
+      "83176"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "uit handelen of nalaten dat heeft plaatsgevonden voor ${${83176}}.                               83176",
+    "vereiste_labels": [
+      "83176",
+      "83176"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Indien sprake is van een reeks handelingen of nalatigheden die met elkaar              ${83176}",
+    "vereiste_labels": [
+      "83176"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "verband houden of uit elkaar voortvloeien dan is voor de toepassing                    ${83176}",
+    "vereiste_labels": [
+      "83176"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "van de uitsluiting bepalend de datum van de aanvang van de reeks.                      ${83176}",
+    "vereiste_labels": [
+      "83176"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10246o}",
+    "vereiste_labels": [
+      "10246o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Premiegrondslag",
+    "inhoud": "${10069}${10078}${80008}   De premie is gebaseerd op de navolgende factor(en)                                     ^",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaarloon",
+    "inhoud": ":  € ${10069}    ${80708} o/oo",
+    "vereiste_labels": [
+      "10069"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Jaaromzet",
+    "inhoud": ":  € ${10078}    ${80709} o/oo",
+    "vereiste_labels": [
+      "10078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Omzet / expl.kosten excl. BTW",
+    "inhoud": ":  € ${13624}    ${83026} o/oo",
+    "vereiste_labels": [
+      "13624"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Omzet / expl.kosten incl. BTW",
+    "inhoud": ":  € ${12528}    ${83027} o/oo",
+    "vereiste_labels": [
+      "12528"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Exploitatiekosten incl. BTW",
+    "inhoud": ":  € ${14021}    ${83028} o/oo",
+    "vereiste_labels": [
+      "14021"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herbouwwaarde",
+    "inhoud": ":  € ${11298}    ${83029} o/oo",
+    "vereiste_labels": [
+      "11298"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herbouwwaarde totale bezittingen",
+    "inhoud": ":  € ${80895}    ${83030} o/oo",
+    "vereiste_labels": [
+      "80895"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Vast jaarpremiebedrag",
+    "inhoud": ":  € ${80387}",
+    "vereiste_labels": [
+      "80387"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal leden/medewerkers",
+    "inhoud": "${12409}  € ${83217} : ${84137}",
+    "vereiste_labels": [
+      "83217"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "De minimumjaarpremie exclusief kosten, assurantiebelasting en korting",
+    "inhoud": "${84330}",
+    "vereiste_labels": [
+      "84330"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "bedraagt €",
+    "inhoud": "${84330}",
+    "vereiste_labels": [
+      "84330"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${10043} ${10044o}",
+    "vereiste_labels": [
+      "10043"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80044} ${80049o}",
+    "vereiste_labels": [
+      "80044"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80045} ${80050o}",
+    "vereiste_labels": [
+      "80045"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80046} ${80051o}",
+    "vereiste_labels": [
+      "80046"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen risico",
+    "inhoud": "€ ${80047} ${80052o}",
+    "vereiste_labels": [
+      "80047"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80947}",
+    "vereiste_labels": [
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.                                               ${80947}",
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": " Maximum verzekerde bedragen voor alle verzekerde rubrieken tezamen:",
+    "type": "standaard"
+  }
+]
