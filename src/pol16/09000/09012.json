@@ -1,0 +1,106 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gezinssamenstelling",
+    "inhoud": "${10694o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Werk verzekerd",
+    "inhoud": "${81042}",
+    "vereiste_labels": [
+      "81042"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Scheidingsmediation verzekerd",
+    "inhoud": "${12436}",
+    "vereiste_labels": [
+      "12436"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "contact opnemen met:",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verh. wooneenheden",
+    "inhoud": "${12310}",
+    "vereiste_labels": [
+      "12310"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "DAS Rechtsbijstand",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verh. bedrijfseenheden",
+    "inhoud": "${12308}",
+    "vereiste_labels": [
+      "12308"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T (020) - 651 75 17",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verh. percelen",
+    "inhoud": "${12571}",
+    "vereiste_labels": [
+      "12571"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal verh. garages",
+    "inhoud": "${81040}",
+    "vereiste_labels": [
+      "81040"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Statutair directeur",
+    "inhoud": "${11518}",
+    "vereiste_labels": [
+      "11518"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Management Vennootschap",
+    "inhoud": "${13802}",
+    "vereiste_labels": [
+      "13802"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen bijdrage",
+    "inhoud": "10043",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geschil",
+    "inhoud": "Als u een juridisch geschil wilt melden of behoefte heeft aan juridisch advies kunt u",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "type": "standaard"
+  }
+]
