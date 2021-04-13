@@ -1,0 +1,53 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Vrije Advocaat Keuze (VAK)",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag VAK",
+    "inhoud": "80448",
+    "vereiste_labels": [
+      "80448"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen bijdrage VAK",
+    "inhoud": "80449",
+    "vereiste_labels": [
+      "80449"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geschil",
+    "inhoud": "Als u een juridisch geschil wilt melden of behoefte heeft aan juridisch advies",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "kunt u contact opnemen met:",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "ARAG",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T (033) - 434 23 42",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "type": "standaard"
+  }
+]

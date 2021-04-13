@@ -1,0 +1,530 @@
+[
+  {
+    "omschrijving": "Soort verzekering",
+    "inhoud": "${10142o}",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde hoedanigheid",
+    "inhoud": "${80694}",
+    "vereiste_labels": [
+      "80694"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80695}",
+    "vereiste_labels": [
+      "80695"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80696}",
+    "vereiste_labels": [
+      "80696"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80080}",
+    "vereiste_labels": [
+      "80080"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bedrijfsadres(sen)",
+    "inhoud": "${80080}  ${80085}  ${80091}",
+    "vereiste_labels": [
+      "80080"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Geschil",
+    "inhoud": "Als u een juridisch geschil wilt melden of behoefte heeft aan juridisch advies",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "kunt u contact opnemen met:",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80081}  ${80086}  ${80092}",
+    "vereiste_labels": [
+      "80081"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "ARAG",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "T (033) - 434 23 42",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84747}  ${84749}  ${84751}",
+    "vereiste_labels": [
+      "84747"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84748}  ${84750}  ${84752}",
+    "vereiste_labels": [
+      "84748"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84768}",
+    "vereiste_labels": [
+      "84768"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Gelieerde onderneming(en)",
+    "inhoud": "${84768}",
+    "vereiste_labels": [
+      "84768"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84762}  ${84763}  ${84764}",
+    "vereiste_labels": [
+      "84762"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84769}",
+    "vereiste_labels": [
+      "84769"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84769}",
+    "vereiste_labels": [
+      "84769"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84771}  ${84773}  ${84775}",
+    "vereiste_labels": [
+      "84771"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84770}",
+    "vereiste_labels": [
+      "84770"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84770}",
+    "vereiste_labels": [
+      "84770"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${84772}  ${84774}  ${84776}",
+    "vereiste_labels": [
+      "84772"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Andere kosten",
+    "inhoud": "Conform polisvoorwaarden",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Vrije Advocaat Keuze",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag VAK Zakelijk",
+    "inhoud": "80486",
+    "vereiste_labels": [
+      "80486"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen bijdrage VAK Zakelijk",
+    "inhoud": "80487",
+    "vereiste_labels": [
+      "80487"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerd bedrag VAK Part.",
+    "inhoud": "80448",
+    "vereiste_labels": [
+      "80448"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigen bijdrage VAK Part.",
+    "inhoud": "80449",
+    "vereiste_labels": [
+      "80449"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "Premiebebepalende factoren",
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Loonsom",
+    "inhoud": "84392",
+    "vereiste_labels": [
+      "84392"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Loonsom voor premieberekening",
+    "inhoud": "€ ${10069} ${84261o}                                         ${86157}",
+    "vereiste_labels": [
+      "10069",
+      "86157"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Omzet",
+    "inhoud": "€ ${10078} ${84264o}",
+    "vereiste_labels": [
+      "10078"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Aantal m2 glas",
+    "inhoud": "${84353o}",
+    "vereiste_labels": [
+      "84353o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Medewerkers",
+    "inhoud": "${80404} (bij NV/BV inclusief directeuren)",
+    "vereiste_labels": [
+      "80404"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Eigenaren/firmanten",
+    "inhoud": "${84789} (bij VOF/eenmanszaak)",
+    "vereiste_labels": [
+      "84789"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Specialisten",
+    "inhoud": " ${84804}",
+    "vereiste_labels": [
+      "84804"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "(para)medici",
+    "inhoud": "${80194}",
+    "vereiste_labels": [
+      "80194"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Overige medewerkers",
+    "inhoud": "${80195}",
+    "vereiste_labels": [
+      "80195"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Appartementsrechten",
+    "inhoud": "${80198}",
+    "vereiste_labels": [
+      "80198"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verborgen gebreken",
+    "inhoud": "${87227o}",
+    "vereiste_labels": [
+      "87227o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Leden",
+    "inhoud": "${80199}",
+    "vereiste_labels": [
+      "80199"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Personen/bestel/vrachtauto",
+    "inhoud": "${86128c}",
+    "vereiste_labels": [
+      "86128c"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "(eigen vervoer)",
+    "inhoud": "${86128o}",
+    "vereiste_labels": [
+      "86128o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroepsvervoer Benelux/Duitsland",
+    "inhoud": "${80167}",
+    "vereiste_labels": [
+      "80167"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Beroepsvervoer Europa",
+    "inhoud": "${80169}",
+    "vereiste_labels": [
+      "80169"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Kleinbus personenvervoer",
+    "inhoud": "${84783}",
+    "vereiste_labels": [
+      "84783"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Bus/touringcar",
+    "inhoud": "${84784}",
+    "vereiste_labels": [
+      "84784"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Lesauto",
+    "inhoud": "${84785}",
+    "vereiste_labels": [
+      "84785"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Taxi A'dam, Den Haag, R'dam, Utrecht",
+    "inhoud": "${86112}",
+    "vereiste_labels": [
+      "86112"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Taxi overige steden",
+    "inhoud": "${86113}",
+    "vereiste_labels": [
+      "86113"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verhuurauto",
+    "inhoud": "${86114}",
+    "vereiste_labels": [
+      "86114"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10630}",
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Particuliere dekking t.b.v.",
+    "inhoud": "${10630}",
+    "vereiste_labels": [
+      "10630"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80079}",
+    "vereiste_labels": [
+      "80079"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80079}  ${80084}  ${80090}",
+    "vereiste_labels": [
+      "80079"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10636}",
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde module(s):",
+    "inhoud": "${80706o}",
+    "vereiste_labels": [
+      "80706o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10636}",
+    "vereiste_labels": [
+      "10636"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80077}  ${80082}  ${80088}",
+    "vereiste_labels": [
+      "80077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10642}",
+    "vereiste_labels": [
+      "10642"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80077}",
+    "vereiste_labels": [
+      "80077"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${10642}",
+    "vereiste_labels": [
+      "10642"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80078}  ${80083}  ${80089}",
+    "vereiste_labels": [
+      "80078",
+      "80089"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde module(s):",
+    "inhoud": "${84810o}",
+    "vereiste_labels": [
+      "84810o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80083}  ${80089}",
+    "vereiste_labels": [
+      "80089"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde module(s):",
+    "inhoud": "${84811o}",
+    "vereiste_labels": [
+      "84811o"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "",
+    "inhoud": "${80947}",
+    "vereiste_labels": [
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Herberekening",
+    "inhoud": "Op deze verzekering is ${80946o} van toepassing.    ${80947}",
+    "vereiste_labels": [
+      "80946o",
+      "80947"
+    ],
+    "type": "standaard"
+  },
+  {
+    "omschrijving": "Verzekerde rubrieken",
+    "inhoud": "",
+    "type": "standaard"
+  }
+]
